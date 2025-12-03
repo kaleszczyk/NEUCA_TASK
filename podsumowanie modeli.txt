@@ -1,0 +1,47 @@
+Podsumowanie modeli użytych w aplikacji i ich rola
+
+Whisper (openai-whisper) – transkrypcja mowy do tekstu
+
+Źródło: transcribe.py
+Wejście: 3-minutowe pliki audio (po podziale ffmpeg/yt-dlp)
+Wyjście: segmenty z tekstem i znacznikami czasu (JSON/TXT)
+pyannote-audio – diarizacja (identyfikacja mówców)
+
+Źródło: transcribe.py
+Wejście: audio/transkrypcja
+Wyjście: segmenty z polami speaker, start, end
+LangChain Text Splitters (RecursiveCharacterTextSplitter) + tiktoken – chunking tekstu
+
+Źródło: chunking.py
+Rola: łączenie segmentów w turny jednego mówcy, dzielenie na chunki o zadanym rozmiarze “tokenów”, interpolacja czasów dla chunków
+OpenAI Embeddings (text-embedding-3-small) – wektory semantyczne chunków
+
+Źródło: vectors_repository.py
+Rola: embed_documents (chunki) i embed_query (pytanie), zapis do Chroma
+ChromaDB – wektorowe repozytorium
+
+Źródło: vectors_repository.py
+Rola: przechowywanie embeddingów i metadanych, query n_results
+Sentence-Transformers CrossEncoder (MS MARCO MiniLM) – reranking kontekstów
+
+Źródło: vectors_repository.py
+Rola: scoring par (question, context), sortowanie i wybór top_k najlepszych fragmentów
+OpenAI Chat Completions (gpt-4.1/gpt-5.1) – generacja podsumowań i odpowiedzi
+
+Źródło: summarizer.py
+Rola: summarize (map-reduce, max_completion_tokens), answer (RAG z kontekstami)
+Obsługa wielokrotnych pytań: LLM parser wydziela listę pytań i generuje odpowiedzi sekwencyjnie w jednym streamie
+tiktoken – liczenie tokenów (kontrola budżetu)
+
+Źródło: chunking.py, summarizer.py
+Rola: dopasowanie wielkości chunków i budżetu wejścia/wyjścia dla LLM
+Przepływ modeli w pipeline
+
+yt-dlp + ffmpeg: pobranie i podział audio na ~3 min.
+Whisper: transkrypcja, timestamps.
+pyannote-audio: diarizacja, speaker labels.
+chunking.py: turny → chunki z precyzyjnymi start/end.
+OpenAI Embeddings: wektory dla chunków, zapis do Chroma.
+Query: embed pytanie → Chroma → kandydaci.
+CrossEncoder: reranking kandydatów → top_k.
+OpenAI Chat (gpt-4.1/gpt-5.1): odpowiedź i podsumowania, z kontrolą tokenów i obsługą wielu pytań.

@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+gradio
+requests
+yt-dlp
+openai
+tiktoken
+python-dotenv
+chromadb
+langchain-openai
+langchain-text-splitter
+sentence-transformers
+pyannote-audio
+torch
+openai-whisper
+huggingface_hub

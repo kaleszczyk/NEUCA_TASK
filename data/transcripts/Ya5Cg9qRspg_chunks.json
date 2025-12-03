@@ -1,0 +1,2722 @@
+[
+  {
+    "speaker": "UNKNOWN",
+    "text": "Witam na przedostatnim panelu sceny dyskusji.",
+    "start": 0.0,
+    "end": 22.48,
+    "tokens": 16,
+    "turn_start": 0.0,
+    "turn_end": 22.48,
+    "id": 0
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Już teraz widzę, że jednym z liczniejszych, tak mi się wydaje, paneli. Przy pierwszych było trzeba mówić, że w pierwszych rzędach miejsca są bezpłatne, przy tym miejsca stojące na końcu. Ale to dobrze świadczy o tym temacie, szczególnie, że zwróciłem uwagę, że mówimy już drugi dzień o tym, jak technologia wpływa na artystów, na sztukę, na teatr, na nowe media i na wiele różnych innych rzeczy. Ale teraz mam wrażenie, że w tym panelu, jak to się pięknie po słowiańsku mówi, odzoomujemy trochę i sprawdzimy, jak technologia wpływa na szeroki świat. Panel ten poprowadzi Patrycjusz Wyszga, Radio 357. Serdecznie zapraszam cię na scenę. Tutaj już na oklaski, wiadomo, procedura jest znajoma. W panelu udział wezmą Joanna Szczygielniak, Alek Tarkowski, dr Maciej Kawecki, dr Jacek Bartosiak. Zapraszamy na scenę.",
+    "start": 22.48,
+    "end": 66.08,
+    "tokens": 294,
+    "turn_start": 22.48,
+    "turn_end": 66.08,
+    "id": 1
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Dzień dobry, witam serdecznie. Kłaniam się państwu nisko. Głęboko ufam, że to jest dopiero początek frekwencji. Będzie w trakcie najbliższych minut frekwencja rosła. No bo i zacni pan liści, prawda? Gdybym był na państwa miejscu, też bym się zdecydował, żeby przyjść tutaj i posłuchać, co oni na ważne sprawy mają do powiedzenia. Cyfrowy świat, jak technologia kształtuje geopolityczne krajobrazy. To jest taka tematyka, którą żyjemy niestety w ostatnich latach szczególnie intensywnie, bo są to sprawy ważne, które się dzieją w naszej okolicy i bezpośrednio lub pośrednio wpływają na nasze życie i kształtują naszą przyszłość. To od razu do rzeczy. Jacek Bartosiak, założyciel, dyrektor generalny Strategy&Future, na pewno państwo doskonale kojarzą, być może korzystają z publikacji, oglądają, śledzą pana Jacka. Co moglibyśmy powiedzieć o geostrategii w erze cyfrowej? W takim momencie się znaleźliśmy, chyba bez pudła możemy mówić, że jesteśmy w erze cyfrowej. Coś takiego jak Big Data, jak sztuczna inteligencja, w ogóle jak rozwój technologii. Jak to zmienia, często pan o tym opowiada, o polu walki i o rywalizacji mocarstw w tej części świata, w innych częściach świata? Jak ta otoczka technologiczna, w której się znaleźliśmy, która się nieustannie codziennie zmienia w zasadzie, ona tak bardzo przyspiesza, wpływa na ten koncert mocarstw i na to, co się na świecie dzieje?",
+    "start": 72.64,
+    "end": 158.08,
+    "tokens": 507,
+    "turn_start": 72.64,
+    "turn_end": 158.08,
+    "id": 2
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Dziękuję bardzo, dziękuję za zaproszenie, jest mi bardzo miło. Dziękuję również za to pytanie, bo ono dotyczy samej istoty rywalizacji.",
+    "start": 158.08,
+    "end": 168.08,
+    "tokens": 49,
+    "turn_start": 158.08,
+    "turn_end": 168.08,
+    "id": 3
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Nowinki technologiczne, czy przełomy technologiczne, zwłaszcza organizacyjne wynikające z innowacji samej technicznej wpływają na znaczący wzrost produktywności człowieka. A zatem jego sprawczości, a zatem sprawczości organizmu politycznego, w którym ten człowiek pracuje.",
+    "start": 169.08,
+    "end": 185.08,
+    "tokens": 91,
+    "turn_start": 169.08,
+    "turn_end": 185.08,
+    "id": 4
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "I to są, jak i też zastosowania tutaj AI-a w sektorze i kosmicznym i obronnym.",
+    "start": 180.0,
+    "end": 187.32,
+    "tokens": 28,
+    "turn_start": 180.0,
+    "turn_end": 187.32,
+    "id": 5
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "A to przekłada się na wzrost narzucenia woli swojej innym, bo w systemie międzynarodowym państwa nie są równe, biznesy też nie są równe, po prostu nie jesteśmy równi, no taka jest prawda i rywalizujemy. I te nowinki technologiczne, czy sposób sprzęgnięcia rozwoju technologicznego z produktywnością bezpośrednio ma znaczenie dla uwarunkowań geopolitycznych, geostrategicznych.",
+    "start": 185.08,
+    "end": 213.08,
+    "tokens": 129,
+    "turn_start": 185.08,
+    "turn_end": 213.08,
+    "id": 6
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Ponieważ też powinniśmy zdać sobie sprawę, że musimy wiedzieć, na których obszarach mamy się skupić. Wiele pewnie Państwo słyszeli w przestrzeni mediowej, że Polska wydaje gigantyczne pieniądze, już wydała na rozwój i cyfryzacji, jak i też technologii. Okej, wydaliśmy, tylko nie było do tego dopisanej strategii, więc te wydatki rozeszły się, bo były rozproszone. Patrząc na to, na zestawienie, które przygotowała OSCD chyba w 2021 roku,",
+    "start": 187.32,
+    "end": 214.76,
+    "tokens": 161,
+    "turn_start": 187.32,
+    "turn_end": 214.76,
+    "id": 7
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Często jest to sprzężenie zwrotne dlatego, że państwa podejmując rywalizację starają się też kierować środki i wysiłek na daną technologię, czy to AI jak teraz, czy rozwój kosmiczny, czy konkretne systemy broni. Przy czym bardzo wyraźnie bym powiedział, że sama wojna kinetyczna jest tylko małym elementem tego, dlatego, że rywalizacja trwa cały czas w wyniku podziału pracy człowieka i jest nieustającym zjawiskiem. Również w relacjach nawet jest tak osobistych i w relacjach w ogóle codzienności tak naprawdę i całe koncepcje filozoficzne powstawały, żeby człowiekowi oswajać albo wyjaśniać dlaczego tak jest. Od grzechu pierworodnego po konfucjańskie różne systemy wyjaśniania rzeczywistości społecznej, czy duszy.",
+    "start": 213.08,
+    "end": 262.08,
+    "tokens": 257,
+    "turn_start": 213.08,
+    "turn_end": 262.08,
+    "id": 8
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "kraje skupiają się rzeczywiście i unijne, i Stany Zjednoczone, i Chinę na określonych obszarach. My zadeklarowaliśmy w 2021 roku, że wybieramy aż 8 obszarów. No, kto bogatemu zabroni, można by było powiedzieć. No, jeżeli popatrzymy sobie na Japonię, która wybrała raptem 4, ale co to jest Japonia, jeżeli Stany Zjednoczone tylko 5, no ale my jak szaleć, to szaleć, to możemy i 8. Więc to nie jest dobra droga. Powinniśmy się powrócić tutaj do rewizji tego założenia i wybrać rzeczywiście te obszary, w których mamy rzeczywiście szansę, jak i też wybrać do tego odpowiednie projekty priorytetowe. I to jest właśnie w trakcie analizy. Miejmy nadzieję, że decydenci będą w stanie podjąć odpowiednią decyzję i żeby rzeczywiście",
+    "start": 214.76,
+    "end": 262.04,
+    "tokens": 271,
+    "turn_start": 214.76,
+    "turn_end": 262.04,
+    "id": 9
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "tutaj współpracować na szerszej niwie. Bo to, co na przykład, jeżeli spojrzymy sobie na Chinę, które teraz są naprawdę dobrym przykładem, nie tyle co strategii, co też realizacji strategii, to jak AlphaGo wygrało i pokonało mistrza Go w 2016 roku, co obserwowało 300 milionów ludzi, no głównie rynek azjatycki, to w porównaniu do...",
+    "start": 262.04,
+    "end": 284.64,
+    "tokens": 118,
+    "turn_start": 262.04,
+    "turn_end": 284.64,
+    "id": 10
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Innymi słowy technologia ma jak najbardziej bezpośredni wpływ. Podsumowując na to co się dzieje i co się będzie działo. Czasami technologia jest tak przełomowa, że doprowadza do tak zwanej rewolucji technologicznej. Mieliśmy pierwszą rewolucję technologiczną, czyli maszyna parowa, zastąpienie pracy mięśni człowieka i zwierząt maszyną.",
+    "start": 262.08,
+    "end": 282.08,
+    "tokens": 116,
+    "turn_start": 262.08,
+    "turn_end": 282.08,
+    "id": 11
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Potem mieliśmy drugą rewolucję, prąd, ropa naftowa, później trzecią cyfrowa. Teraz mamy rewolucję, która nadchodzi, czy jest już z nami trochę do dyskusji, która też absolutnie zmieni oblicze ziemi, tego jak pracujemy, jak funkcjonujemy i też korelacji geopolitycznych.",
+    "start": 282.08,
+    "end": 298.08,
+    "tokens": 95,
+    "turn_start": 282.08,
+    "turn_end": 298.08,
+    "id": 12
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "To był taki fenomen i taki wstrząs dla Azji, to tak jakbyśmy teraz przynieśli piłkę nożną, wzięli roboty humanoidalnej i byłby mecz i roboty by wygrały. Z najlepszą drużyną świata.",
+    "start": 284.64,
+    "end": 295.92,
+    "tokens": 70,
+    "turn_start": 284.64,
+    "turn_end": 295.92,
+    "id": 13
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Więc to był taki impuls dla Chin, że trzeba coś tutaj zmienić i jest szansa, żeby wygrać w tym wyścigu światowym. I rok później, po tej wygranej sztucznej inteligencji, oni już opracowali strategię swoją i powiedzieli,",
+    "start": 295.92,
+    "end": 313.84,
+    "tokens": 82,
+    "turn_start": 295.92,
+    "turn_end": 313.84,
+    "id": 14
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Bardzo dziękuję. Proszę Państwa mam do Was pytanie. Gdybyście byli tak łaskawi i zechcieli podnieść dłoń ci z Was, którzy w ciągu ostatniego tygodnia w jakiejś formie korzystali ze sztucznej inteligencji, w sposób świadomy.",
+    "start": 298.08,
+    "end": 310.08,
+    "tokens": 82,
+    "turn_start": 298.08,
+    "turn_end": 310.08,
+    "id": 15
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "A ci, którzy nie podnieśli to w sposób nieświadomy korzystali pewnie. Gdzieś tam w telefonach, bo to jest gdzieś zaimplementowane, to się po prostu dzieje. To jest niesamowite, ale tak, jest dokładnie tak jak słyszeliśmy. To po prostu się dzieje, to jest tu i teraz. Joanna Szczegielniak, proszę Państwa, niezwykła osoba, twórca innowacyjnych rozwiązań sztucznej inteligencji w połączeniu z najnowszymi osiągnięciami neuronauki, ekspert i szkoleniowiec z obszaru praktycznego zastosowania rozwiązań sztucznej inteligencji oraz neuromarketingu dla biznesu i sektora publicznego.",
+    "start": 310.08,
+    "end": 338.08,
+    "tokens": 199,
+    "turn_start": 310.08,
+    "turn_end": 338.08,
+    "id": 16
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "że do roku 2020 nauczą się, opanują najważniejsze techniki sztucznej inteligencji. I do 2025 będą już... Dokonają przełomowego odkrycia w automatyzacji sztucznej inteligencji, więc to jest ten rok, zobaczymy, obserwujemy, a do 2030 będą już liderem światowym. Można powiedzieć teraz, patrząc na statystyki, że oni już teraz stają się liderem, a w niektórych obszarach są na przykład już monopolistą. Więc to widać, jak skutecznie można to zrobić w tym krótkim czasie.",
+    "start": 313.84,
+    "end": 349.2,
+    "tokens": 172,
+    "turn_start": 313.84,
+    "turn_end": 349.2,
+    "id": 17
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Ale także Pani Joanna jest liderem sekcji Graj do spraw aktualizacji polityki rozwoju sztucznej inteligencji i w ramach tego zespołu pół tysiąca ekspertów w tym zespole przygotowali rekomendacje do aktualizacji polityki AI w Polsce na lata 2025-2030. Trochę ciąg dalszy tego pytania Pani Joanna o to jak z jednej strony rozwój sztucznej inteligencji wpływa na rywalizację między tymi dużymi krajami, ale z uwzględnieniem może skupmy się przez chwilę na tym jak to dotyka, jak to wpływa na taki nie za duży kraj, ale też nie zupełnie mały jak Polska. W jaki sposób my to odczuwamy i jak w tym wszystkim funkcjonuje nasza ojczyzna?",
+    "start": 339.08,
+    "end": 385.08,
+    "tokens": 218,
+    "turn_start": 339.08,
+    "turn_end": 385.08,
+    "id": 18
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Według profesora Senkowskiego, jeślibyśmy mieli teraz decyzję decydentów, jak i też budżet na to, żeby ruszyć do przodu, to dobrze wybierając właśnie ten kierunek, mniej więcej 2-3 lata możemy stać się liderem w jakimś tam obszarze. Więc to jest taki potencjał, taka szansa i jeżeli my teraz ją zmarnujemy, czy nie będziemy nawet podejmować żadnej decyzji, no to jest tak samo cofanie się z tyłu. To, co pan Jacek z kolei mówi, no mamy sytuację geopolityczną, za naszą granicą jest wojna, jest zmiana po prostu układu sił, Stany Zjednoczone, Chiny,",
+    "start": 349.2,
+    "end": 379.68,
+    "tokens": 200,
+    "turn_start": 349.2,
+    "turn_end": 379.68,
+    "id": 19
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Ale wydaje mi się, że to jest fundamentalne wyzwanie i Europa ma trudno, ale jeśli już mamy dać radę, to musimy to zrobić na poziomie europejskim. I tam na przykład, i dopiero moim zdaniem Europa na przykład może myśleć o idei zadbania o moce obliczeniowe, które są tutaj punktem wyjścia. Pamiętajmy, ja przepraszam, ale ja często mam taką potrzebę trochę",
+    "start": 360.0,
+    "end": 382.0,
+    "tokens": 128,
+    "turn_start": 360.0,
+    "turn_end": 382.0,
+    "id": 20
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "my musimy się jakoś odnaleźć, tylko my nawet nie mamy w tej chwili przepisu na to,",
+    "start": 379.68,
+    "end": 384.0,
+    "tokens": 30,
+    "turn_start": 379.68,
+    "turn_end": 384.0,
+    "id": 21
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "wylewać kubeł zimnej wody do tej dyskusji i chętnie usłyszę,",
+    "start": 382.0,
+    "end": 385.0,
+    "tokens": 26,
+    "turn_start": 382.0,
+    "turn_end": 385.0,
+    "id": 22
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "kim chcemy być, czy mamy być partnerem i znaczącym partnerem w Unii Europejskiej i z kim mamy ten sojusz zawrzeć, czy też mamy być, od razu wskazujemy się na to, że idziemy w jakieś niszowe rolnictwo, no i będziemy krajem, rynkiem zbytu. Więc to jest, taki mamy teraz obecnie wybór. Bardzo dziękuję, w istocie zadałem to pytanie profesorowi Semkowskiemu, czy my mamy szansę wciąż skoczyć do tego pociągu, czy on nam już odjechał?",
+    "start": 384.0,
+    "end": 412.92,
+    "tokens": 161,
+    "turn_start": 384.0,
+    "turn_end": 412.92,
+    "id": 23
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "jeśli się nie zgadzacie, no ale widzę to na przykład tak, że Europa uruchamia program tak zwanych fabryk AI. Budżet nie był imponujący. On był na początku 2 miliardy, został zwiększony do 10 miliardów. XAI Maska wydało w zeszłym roku prawdopodobnie samo 6 miliardów na jedno centrum danych kolosusa w Memphis. No więc te liczby nie są imponujące, ale coś się dzieje. No ale Polska ledwo się dostała do tego AI Factor jako mniejszościowy partner fabryki fińskiej Lumi.",
+    "start": 385.0,
+    "end": 414.0,
+    "tokens": 161,
+    "turn_start": 385.0,
+    "turn_end": 414.0,
+    "id": 24
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Dzień dobry Państwu, bardzo dziękuję za zaproszenie do tego panelu. Temat jest bardzo istotny. Naszym zdaniem, czyli ja mogę tu się wyopowiadać jako grupa Graj, czyli eksperci, to jest fenomen, po prostu pół tysiąca osób z Polski zgromadziło się, żeby robono pracować na rzecz rozwoju sztucznej inteligencji w Polsce.",
+    "start": 386.08,
+    "end": 408.08,
+    "tokens": 108,
+    "turn_start": 386.08,
+    "turn_end": 408.08,
+    "id": 25
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Sami z siebie, więc to nie jest, że nas ktoś tutaj inspirował. Dlatego razem współpracujemy, bo widzimy sens. Widzimy po prostu to, że Polska teraz stoi przed naprawdę wielką szansą. Jesteśmy na takim rozdrożu, że albo z tego skorzystamy i będziemy jakimś krajem, który stanowi po prostu jakość, albo też będziemy, no cóż, tylko krajem klienckim, czyli będziemy kupować technologie zagraniczne i to za duże pieniądze. Więc teraz od nas, od społeczeństwa, jak i od decydentów zależy bardzo, bardzo dużo.",
+    "start": 409.08,
+    "end": 450.08,
+    "tokens": 184,
+    "turn_start": 409.08,
+    "turn_end": 450.08,
+    "id": 26
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "To pytanie pojawia się, polecam państwu jeden z wcześniejszych odcinków na kanale Dida Skalia. Profesor właśnie tak odpowiada, że tak, jeżeli zdecydujemy, to wciąż jest szansa, żeby się na ten pociąg załapać, a kiedy Joanna mówiła o borówkach i o rolnictwie, kto z państwa, przypomniał mi się pewien serial, kto z państwa oglądał 1670, ten serial? To skojarzycie tę scenę, kiedy najsłynniejszy Jan Paweł w historii Polski mówi, że my mamy nasze zboża, my mamy nasze spichlerze, więc niepotrzebne są nam jakieś innowacje. I on tłumaczy wtedy, że z rozmowem z jakimś Włochem, który powiedział, wy Polako, stupido, prawda?",
+    "start": 412.92,
+    "end": 448.36,
+    "tokens": 239,
+    "turn_start": 412.92,
+    "turn_end": 448.36,
+    "id": 27
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Ja bardzo się cieszę, uważam, że XAI w ogóle robi świetną robotę, tylko też mam takie poczucie, że trochę wszyscy mówimy takim głosem mamy świetne pomysły, tylko ktoś nam musi stworzyć warunki i ja nie do końca wiem, kim jest ten ktoś. Mityczny trochę.",
+    "start": 415.0,
+    "end": 431.0,
+    "tokens": 100,
+    "turn_start": 415.0,
+    "turn_end": 431.0,
+    "id": 28
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Ale my dajemy receptę w naszych rekomendacjach.",
+    "start": 431.0,
+    "end": 433.0,
+    "tokens": 17,
+    "turn_start": 431.0,
+    "turn_end": 433.0,
+    "id": 29
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "To tylko pytanie dla kogo? Dla decydentów. No dla decydentów, prawda? Dla tych trochę mitycznych decydentów. Ja też bardzo dużo jako think tank publiczny, pozarządowy oczekuję od decydentów, formułuję wizję polityki publicznej,",
+    "start": 433.0,
+    "end": 448.0,
+    "tokens": 83,
+    "turn_start": 433.0,
+    "turn_end": 448.0,
+    "id": 30
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "ale może jeszcze do tego wrócimy. Wydaje mi się, że też mamy pewne, może to o tym jest, te położenie geopolityczne i pewna historia, która strasznie utrudnia to decydentom, wydaje mi się.",
+    "start": 448.0,
+    "end": 458.0,
+    "tokens": 63,
+    "turn_start": 448.0,
+    "turn_end": 458.0,
+    "id": 31
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Nie pamiętam, jak on to przetłumaczył, ale to odebrał jako komplement, że my dzięki temu, że mamy spichlerze, że mamy zboża, że mamy rolnictwo,",
+    "start": 448.36,
+    "end": 457.52,
+    "tokens": 57,
+    "turn_start": 448.36,
+    "turn_end": 457.52,
+    "id": 32
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Były niedawno takie artykuły Rzeczpospolitej, czy przed nami są czypy, czy maliny, więc my jako Polska jesteśmy podobno bardzo dobrze w eksporcie borówki, więc albo będziemy te owoce hodować i eksportować i liczyć na to, że w ten sposób odbijemy ten świat, albo postawimy na nowe technologie, to nie tylko sztuczną inteligencję, czy technologie cyfrowe, tylko już na technologie przekrojowe i na dual use, czyli podwójnego zastosowania. I czy mamy tutaj potencjał i szansę? A więc tak, mamy, ponieważ mamy kapitał ludzki unikalny na skalę światową, bo to Polacy współtworzyli OpenAI i tam są właśnie w zarządzie, to nasza myśl technologiczna jest w wielu, wielu rozwiązaniach, które są stosowane na świecie. No i teraz bardzo, bardzo ważne jest to, żeby zaktualizować politykę rozwoju sztucznej inteligencji i wskazać właściwy kierunek. I to co, jeżeli Państwo słuchają pana Jacka, o temat strategii, geopolityki i tego, że kraj powinien tutaj nawiązywać nasz sojusze różnego rodzaju, tylko musimy zadać sobie pierwsze ważne pytanie, kim my chcemy być? Po pierwsze, jako kraj nie mamy w ogóle strategii takiej na 50 lat do przodu, więc tak naprawdę dryfujemy i gdzie nas wiadr zawieje, to tam zaczynamy płynąć. To nie jest dobry kierunek i dobre zachowanie, więc powinniśmy zadać sobie pytanie, jeżeli chodzi o sztuczną inteligencję, co mamy tam zrobić i jak możemy? I teraz, czy możemy zawalczyć z Stanami Zjednoczonymi i z Chinami? No raczej nie, nie mamy, nie jesteśmy takimi potęgami ani finansowymi, ani gospodarczymi, ale możemy wybrać sobie, zdefiniować, zidentyfikować obszary, w których mamy największy potencjał. I jest na to możliwość i jest na to czas, ponieważ sztuczna inteligencja jest na wczesnym etapie jeszcze rozwoju i nikt nie wie, w którą stronę ona dokładnie podąży i gdzie będzie największy zysk. Więc teraz, identyfikując takie nisze, mamy szansę na to, żeby stać się nawet liderem. I w naszej grupie, tutaj w naszych rekomendacjach, które przekazaliśmy do Ministerstwa Cyfryzacji, wskazaliśmy sześć takich projektów priorytetowych, które wysyłają się na prowadzenie i m.in. to są małe modele językowe, są to struktury wieloagentowe, jest to AI dla zdrowia, jest to federacja na sieć danych. Ai.",
+    "start": 450.08,
+    "end": 600.08,
+    "tokens": 779,
+    "turn_start": 450.08,
+    "turn_end": 600.08,
+    "id": 33
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "to nie musimy zajmować się jakimiś tam niepotrzebnymi innowacjami. Wiele wskazuje na to, że jednak powinniśmy i być może warto by do tego pociągu wskoczyć. Jeżeli byśmy szli tym tropem rolnictwa, co oczywiście nie uniejszając naszemu potencjału, bo tutaj naprawdę mamy też duże osiągnięcia i możliwości eksportowe, no to z zagranicą mamy konkurencję w postaci Ukrainy, no to kraj o wiele większy i bogatszy i tak dalej. No i w perspektywie to, że Unia Europejska chce podpisywać umowy na dostawę właśnie produktów rolnych z Marko Sur, więc to nie jest taki kierunek, który byłby dobry, tak jak w tym filmie, więc musimy wziąć pod uwagę to, że możemy tutaj zawalczyć raczej o te nowe technologie i zwłaszcza, że my powołaliśmy również kapitułę konsultacyjną AI składającą się z najlepszych profesorów i ekspertów AI w Polsce, między innymi jest tam też profesor Sankowski i oni jednym głosem mówią, że teraz musimy działać i teraz iść do przodu, bo polska nauka ma ten potencjał, eksperci też, tylko musimy mieć warunki, więc tu jest też warunki do tego, żeby stworzyć nam możliwości. Bardzo dziękuję, ale żeby to nie było tak, żeby państwo nie myśleli, że to jest jakaś tam sztuczna inteligencja i jacyś tam wybitni naukowcy i że to są wysokie tematy, nam szaraczkom niespecjalnie dostępne, więc może kiedyś ewentualnie skorzystamy z dobrodziejstw takiego rozwoju tych najbardziej doskonałych, najnowocześniejszych technologii nad Wisłą, ale póki co nie, bo to nie dla nas, to raczej dla nich. Nie chcę, żeby tak było, bo to w istocie może być też sprawa, która bezpośrednio nas dotyczy i o to teraz chciałbym zapytać. Alek Tarkowski, proszę państwa, jest socjologiem, aktywistą cyfrowym i strategiem. Jest współzałożycielem i dyrektorem ds. strategii w Open Future, to jest europejski think tank na rzecz cyfrowego commons. Jest także przewodniczącym Rady Fundacji Centrum Cyfrowe i o to chciałem właśnie pana doktora zapytać. Jak to zrobić, żeby te najnowocześniejsze technologie, niech to będzie sztuczna inteligencja i wszystkie inne, które w tej chwili rozwijamy, które tak dynamicznie niemalże wybuchają, jak ta wiosna za chwilę w Warszawie, żeby to służyło dobru wspólnemu, żeby to nie były tylko jakieś nie wiadomo jak wielkie instytucje czy korporacje, tylko żebyśmy",
+    "start": 457.52,
+    "end": 598.7,
+    "tokens": 800,
+    "turn_start": 457.52,
+    "turn_end": 598.92,
+    "id": 34
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Tak, ale mamy też, chcemy stworzyć taką przyjazny ekosystem, nie wiem, czy teraz mogę o tym powiedzieć, czy to będzie za chwileczkę, który rzeczywiście, myśmy w pracach szukali takiego najlepszego rozwiązania. Proszę państwa, cofnęliśmy się daleko wstecz, bo pierwszy model ekosystemu, tutaj współpracy technologii, świata nauki, biznesu i sektora społecznego powstał w 2001 roku, więc za chwilę będzie ćwierć wieku. I nadal poszukujemy tego rozwiązania. Nie to, że to jest mega innowacyjne i na miarę tutaj nagrody Nobla, bo to w innych krajach działa. Dlaczego u nas nie działa? No to każdy musi sobie znaleźć tą odpowiedź. Więc nawet nie chcemy się już na tym skupiać, tylko chcemy przystąpić do działania i rzeczywiście potrzebny jest tutaj tylko parasol. Parasol sektora społecznego, który umożliwi rozwój poprzez system zachęt, ulg podatkowych dla biznesu, jak i też wskaże kierunek nauce, gdzie powinna się rozwijać. Reszta już, to jest bardzo dużo, plus dotacje i programy finansowe, które pomogą nawiązać taką platformę, stworzyć platformę współpracy właśnie pomiędzy nauką, biznesem, żeby to, co odkrywa nauka, można było przyjść do biznesu i zarówno w drugą stronę, biznes potrzebuje określonego rozwiązania, nie wie jak to zrobić, żeby mógł przyjść do nauki. I tu jest potrzebna np. taka struktura jak Wirtualny Instytut Badawczy, czyli usieciowienie tych uczelni. Nieważna jest nazwa, do której nie powinniśmy się nawet przywiązywać, bo tutaj też już były pewne głosy, żeby jednak z niej rezygnować. To pojawiło się po raz pierwszy w polityce AI naszej Polski w 2020 roku, ale potrzeba tego jest tak duża, ponieważ jednostki naukowe, które mamy, są rozproszone i one między sobą nie współpracują. Więc żeby dać tą siłę i żeby zaistnieć na arenie unijnej i tam być partnerem, potrzebujemy je połączyć. I rzeczywiście tutaj jest też potrzebna taka inicjatywa. Na razie się dzieje to oddolnie. Możliwe, że pomarzymy tutaj jako gra i możliwe, że uda się przekonać też decydentów, żeby wreszcie to zaistniało. Bardzo dziękuję. Maciej Kawecki, proszę Państwa, jest dyrektorem Centrum Innowacji Uniwersytetu WSB Merito.",
+    "start": 458.0,
+    "end": 601.0,
+    "tokens": 760,
+    "turn_start": 458.0,
+    "turn_end": 601.0,
+    "id": 35
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "obywatele, jak tutaj siedzimy, poczuli pewne w naszych życiach jakieś konkretne ulgi czy jakieś atuty wynikające z rozwoju najnowszej technologii. Jak to zrobić? Chciałem powiedzieć, że to już się dzieje. Może nie jak to zrobić, tylko jak to jest robione, bo nie wiem na ile się Państwo orientują, ale te różne rozwiązania technologiczne, które nazywamy sztuczną inteligencją ogólnie, są dziś dobrem wspólnym. W 2007 roku, może się mylę, zespół badaczy w DeepMindzie pracował, pracował, główkował, główkował i wymyślił architekturę uczenia maszynowego, która się nazywa Transformers. I napisali paper, attention is all you need, i on jest publicznie dostępny.",
+    "start": 598.92,
+    "end": 640.08,
+    "tokens": 232,
+    "turn_start": 598.92,
+    "turn_end": 640.08,
+    "id": 36
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Jest prezesem Instytutu Lema, ale być może kojarzą Państwo Maćka przede wszystkim jako fantastycznego twórcę YouTube'owego. Prowadzi kanał This Is It, a właściwie This Is IT. Fantastyczną robotę robi Maciek na YouTube. Jeśli jeszcze tego nie znacie, to koniecznie zasubskrybujcie jego kanał. Mówiąc krótko, rozmawia z naukowcami, jeździ po świecie, spotyka się z tymi najwybitniejszymi, jak prof. Roger Penrose, na przykład żyjącymi współcześnie naukowcami. Więc to są właśnie te treści, które bardzo bym chciał, żeby się rozprostrzeniały w tej polskiej sferze internetowej jak najszerzej.",
+    "start": 601.0,
+    "end": 638.0,
+    "tokens": 209,
+    "turn_start": 601.0,
+    "turn_end": 638.0,
+    "id": 37
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "No i ten paradeks Moraweka mówi o tym, że wbrew pozorom, wbrew temu, co do tej pory myśleliśmy w nauce, myślenie abstrakcyjne nie wymaga dużej mocy obliczeniowej, a więc na poziomie wysokopoziomowym, ale przeniesienie jej na poziom percepcji niskopoziomowego, czyli tego, co wykonujemy, wymaga ogromnej mocy obliczeniowej. Problem polega na tym, że ta percepcja ma fundamentalny wpływ również na to, co się dzieje na poziomie abstrakcyjnym, dlatego, bo my odbieramy dzisiaj jednak świat różnego rodzaju zmysłami, które zakotwiczone są w naszym",
+    "start": 601.04,
+    "end": 635.16,
+    "tokens": 191,
+    "turn_start": 601.04,
+    "turn_end": 635.16,
+    "id": 38
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "organizmie. No i na tym dzisiaj pracują laboratoria, żeby spróbować jednak dojść do tego punktu, w jaki sposób to zrobimy, no nikt tego dzisiaj jeszcze chyba do końca nie wie, ale na pewno to będą najbliższe lata. Bardzo dziękuję. Jacek Bartosiak jest niewątpliwie człowiekiem, który, proszę Państwa, sprawił, że Polacy en masse, no pewnie nie wszyscy, ale że to się stało masowe, mówiąc krótko, że zaczęliśmy się interesować dzięki jego przeróżnym wystąpieniom, przeróżnym wykładom, przeróżnym wywiadom, przeróżnym książkom, być może przede wszystkim dzięki książkom o takimi dużymi tematami, prawda, geopolityką czy geostrategią zaczęliśmy myśleć o takich, no interesować się po prostu",
+    "start": 635.16,
+    "end": 676.48,
+    "tokens": 242,
+    "turn_start": 635.16,
+    "turn_end": 676.48,
+    "id": 39
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Maćku, no właśnie, bo ty też trochę, no właśnie, przez to, że wędrujesz, że podróżujesz, że nagrywasz te wywiady nie tylko w Polsce, ale jeździsz za tymi naukowcami w różne zakątki świata. No właśnie, wypuściłeś film z takiego, być może jest to jedna z najpopularniejszych czy najważniejszych, obok MIT pewnie, takich politechnik czy takich technologicznych uczelni najlepszych na świecie. Polecam państwu ten najnowszy film Maćka. To pewnie trochę wiesz, podsłuchujesz, zerkasz, zaglądasz za kotarę, co się w tych laboratoriach, które pracują nad AI w tej chwili dzieje. To znaczy, nad czym oni tam pracują? Co oni tam trzymają w piwnicach?",
+    "start": 638.0,
+    "end": 678.0,
+    "tokens": 229,
+    "turn_start": 638.0,
+    "turn_end": 678.0,
+    "id": 40
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "To nie zostało opatentowane, to nie zostało zamknięte w sejfie, nie wiem, nie zamknięto samych tych badaczy, żeby broń Boże ktoś się nie dowiedział, tylko wypuszczono w świat. Jest to dziś architektura, na której się właśnie buduje 100% generatywnego AI z bardzo małymi wyjątkami. Łukasz Kajser stworzył. Jeden w zespole był Polak. Więc to się dzieje, ale i można te przykłady mnożyć. Są biblioteki w Pythonie, są konkretne benchmarki, są zazwyczaj dobrem wspólnym. Ten cały sektor właściwie się karmi ideą otwartego oprogramowania,",
+    "start": 640.08,
+    "end": 675.24,
+    "tokens": 193,
+    "turn_start": 640.08,
+    "turn_end": 675.24,
+    "id": 41
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "otwartej nauki. No ale skoro jest tak dobrze, to dlaczego jest źle? No bo zupełnie inaczej wygląda sytuacja na poziomie hardware'u. Myślę, że to też warto za każdym razem odczarowywać. Mówimy, nie wiem, chmura i chyba każdy widzi jednak obłoki. Mówimy AI, nie wiem co widzimy, powinniśmy widzieć silikon, prawda? Znaczy powinniśmy widzieć czipy, powinniśmy widzieć karty GPU. I pamiętaj, że w tym obszarze monopolistą, który kontroluje zdaje się 90% albo więcej rynku jest po prostu dzisiaj Nvidia. Z małymi wyjątkami AMD próbuje konkurować. Po prostu ma gorsze technologie, próbuje coś robić Amazon. To są jakieś po prostu pojedyncze procenty. Więc jeśli chodzi o ten niezbędny tak zwany kompiuto, moce obliczeniowe, to po prostu sytuacja wygląda zupełnie inaczej. Tu może chciałem trochę nawiązać, bo cieszę się, że na koniec wspomniałaś, powiedziałbym wreszcie, o Unii Europejskiej. Bo gdy słyszę te dyskusje Polska, Polska, Polska, co my zrobimy",
+    "start": 675.24,
+    "end": 736.88,
+    "tokens": 362,
+    "turn_start": 675.24,
+    "turn_end": 736.88,
+    "id": 42
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "takimi globalnymi układankami. Zaczęło nas to po prostu frapować, to jest niewątpliwa zasługa. No to trochę w kontekście tego, o czym tutaj teraz mówimy. Jest świetna książka, może niektórzy z Państwa już są po lekturze, Wojna o czipy, książka, która być może opowiada o tym, co za chwilę przed nami, ale jestem ciekaw, co Pan myśli o jednym konkretnym ruchu, właściwie biznesowym, korporacyjnym ruchu. On się chyba jeszcze zaczął, czy został zapowiedziany przez administrację Joe Bidena, ale wydarzył się teraz za Donalda Trumpa. Myślę o przeniesieniu tej fabryki TCMC, chyba tak się nazywa ten produk... tajwański producent czipów, który się przenosi z niektórymi fabrykami z Tajwanu do Stanów Zjednoczonych. Jeżeli Amerykanie mieli jakieś preteksty, żeby bronić Tajwanu, być może za wszelką cenę, to były te czipy, które tam były produkowane, ważne także dla Amerykanów. Pytanie, czy teraz, kiedy to jest przenoszone z Tajwanu do Stanów Zjednoczonych, to te argumenty Amerykanie tracą, czy bardzo się mylę?",
+    "start": 676.48,
+    "end": 738.12,
+    "tokens": 374,
+    "turn_start": 676.48,
+    "turn_end": 738.12,
+    "id": 43
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Czy oni trzymają w piwnicach coś takiego, czego się powinniśmy obawiać? Czy nie? Jaki jest ten brakujący puzel? I co będzie, kiedy oni go już do tej układanki dołożą? Brakującym puzlem oczywiście jest fizyka. To znaczy, cały świat sztucznej inteligencji, wszystkie największe laboratoria, czy spojrzymy sobie na MEDE, czy na zespół googlowski, to wszystkie oczywiście poszukują odpowiedzi na pytanie, co zrobić, żeby przenieść świat fizyczny do świata cyfrowego. Próbowaliśmy zrobić to na różne sposoby i cały czas ten paradoks Moraweka pozostaje aktualny. Paradoks, który mówi o tym, jak to się dzieje, że z jednej strony mamy dzisiaj mechanizmy, opracowaliśmy te trzy filary uczenia maszynowego, zdolne do tego, żeby rozwiązywać najgłębsze łamigłówki. Mamy ten free reasoning, abstractional thinking w modelu O1, który gdzieś tam zaczyna już wykazywać cechy abstrakcyjnego rozumowania,",
+    "start": 678.0,
+    "end": 738.0,
+    "tokens": 315,
+    "turn_start": 678.0,
+    "turn_end": 738.0,
+    "id": 44
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Z tego, kiedy stał bez wojny. To nie jest pewne, że zejdą bez wojny. Raczej to, jak się zachowują, świadczy o tym, że czekają nas potężne turbulencje. Bo mogliby, ja uważam, trochę bardziej rozsądnie do tego podejść.",
+    "start": 720.0,
+    "end": 738.0,
+    "tokens": 83,
+    "turn_start": 720.0,
+    "turn_end": 738.0,
+    "id": 45
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "i my mamy nasz talent, no świetnie. Ja bym chciał, żeby ktoś napisał strategię rozwoju AI w Polsce na mocy naszych realnych, własnych, suwerennych zasobów. No i przepraszam wystąpienie, powiedziałbym, że szybko moim zdaniem dojdziemy do strategii, za przeproszeniem, obrączkowania tych informatyków, żeby z Polski nie wyjechali. Bo problem z polskim talentem jest taki, że on jest w dużej mierze w Dolinie Krzemowej. O tyle nie jest najgorzej, że to nie jest tylko nasz problem w Europie. Polska jest w dokładnie tej samej sytuacji, co właściwie wszystkie inne państwa europejskie. My na przykład nie mamy ani startupów, ani już większego rozmiaru firm AI, bo w ogóle nie mamy za dużo tak zwanych jednorożców. Mamy Spotify, mamy Aidena finansowego, no i można by się jeszcze może upierać coś jeszcze.",
+    "start": 736.88,
+    "end": 780.0,
+    "tokens": 269,
+    "turn_start": 736.88,
+    "turn_end": 780.0,
+    "id": 46
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "ale cały czas roboty nie są zdolne do tego, żeby na naszą kobędę podejść i w sposób płynny w przestrzeni fizycznej przenieść szklankę z jednej części stołu do drugiej części stołu. Co jest przyczyną tego? Oczywiście my tego dzisiaj nie wiemy. Wiemy o tym, że to uczenie nadzorowane, uczenie ze wzmocnieniem, wykorzystywanie warstwy językowej jest niewystarczające i poszukujemy dzisiaj, głównie Laboratorium MEDE w Paryżu, nad tym pracuje Jana Lekun, poszukujemy odpowiedzi na pytanie, co zrobić. Najbardziej prawdopodobną hipotezą jest oczywiście to,",
+    "start": 738.0,
+    "end": 778.0,
+    "tokens": 195,
+    "turn_start": 738.0,
+    "turn_end": 778.0,
+    "id": 47
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Ale nie ukrywam, że to jest pogląd, który nie jest powszechnie podzielany. Mój ten pogląd przedstawiony nie jest powszechnie podzielany, w tym w naszej drogiej ojczyźnie. Jak to mówił Piłsudski, każdy ma swoją rację, jak co innego. To będzie trudne. Nie chciałbym tutaj zabierać dużo czasu. Przede wszystkim trudność polega na alokacji kapitału i pochodzeniu tego kapitału. Jeżeli chce się zrobić reindustrializację, to trzeba niestety zarządzać kapitałem i mówić mu, ile ma czekać na stopę zwrotu i jaką ma dostać. I w ogóle to nie jest pewne.",
+    "start": 738.0,
+    "end": 780.0,
+    "tokens": 203,
+    "turn_start": 738.0,
+    "turn_end": 780.0,
+    "id": 48
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Okej, to jest też bardzo złożony temat, dlatego, że tak ostatecznie nie przenoszą za bardzo Ci Tajwańczycy tych fabryk z bardzo wielu powodów. Jednym z tych powodów jest, mówiąc zupełnie brutalnie, niska kultura techniczna w Stanach Zjednoczonych wskutek deindustrializacji, bo co innego jest mieć w Dolinie Krzemowej geniuszy, czyli jak ostatnio Reydaliu mówił, co innego jest mieć milion spośród 350 czy 340 milionów, milion wybitnych osób o świetnym wykształceniu, wysokiej inteligencji, bardzo rezolutnych i przedsiębiorczych, a do tego 60% społeczeństwa na poziomie",
+    "start": 738.12,
+    "end": 781.04,
+    "tokens": 205,
+    "turn_start": 738.12,
+    "turn_end": 781.04,
+    "id": 49
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "że my nie znamy natury rzeczy, nie znamy pełnej natury świata, nie znamy natury rzeczywistości, nie wiemy jak funkcjonuje ludzki mózg ze wszystkimi jego detalami, nie wiemy na przykład, wiem o tym, że na wszystko co modelujemy w przestrzeni cyfrowej wpływ powinna mieć grawitacja,",
+    "start": 778.0,
+    "end": 795.0,
+    "tokens": 99,
+    "turn_start": 778.0,
+    "turn_end": 795.0,
+    "id": 50
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "W świecie anglosaskim, prawnie, obyczajowo, filozoficznie, kapitał nie jest do tego przyzwyczajony, że mu się będzie mówić. A jednocześnie amerykański sukces Doliny Chrzemowej wynikał z recyklingu dolarowego. To znaczy, że był bardzo tani kapitał na przepalanie.",
+    "start": 780.0,
+    "end": 797.0,
+    "tokens": 94,
+    "turn_start": 780.0,
+    "turn_end": 797.0,
+    "id": 51
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "intelektualnym szóstej klasy podstawówki, bo tak jest teraz w Stanach Zjednoczonych i skutek tego, jak gdyby przyczyną tego jest kapitalizm finansowy i głęboka deindustrializacja, która zaczęła się na początku lat 70. Po prostu można było",
+    "start": 781.24,
+    "end": 797.64,
+    "tokens": 84,
+    "turn_start": 781.24,
+    "turn_end": 797.64,
+    "id": 52
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "no bo jeżeli ma mieć wierną odzwierciedleniem rzeczywistości analogowej,",
+    "start": 795.0,
+    "end": 800.0,
+    "tokens": 26,
+    "turn_start": 795.0,
+    "turn_end": 800.0,
+    "id": 53
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Bo wszystko to, co my zarobiliśmy w Eurazy, z powodu układu bezpieczeństwa",
+    "start": 797.0,
+    "end": 804.0,
+    "tokens": 26,
+    "turn_start": 797.0,
+    "turn_end": 804.0,
+    "id": 54
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "robić pieniądze nie pracując w przemyśle i nie zarabiając na przemyśle.",
+    "start": 797.64,
+    "end": 800.84,
+    "tokens": 29,
+    "turn_start": 797.64,
+    "turn_end": 800.84,
+    "id": 55
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "no to ten punkt wyjścia jest fundamentalny, ale nie wiemy na przykład, co jest źródłem grawitacji, my tylko wiemy, że grawitacja istnieje, ale nie wiemy, co jest źródłem grawitacji, co tworzy grawitację. Już mówiłeś o Penrose, czyli o wszystkie tematy związane ze świadomością, czym jest świadomość, czy ona rodzi się na poziomie kwantowym, czy rodzi się na poziomie klasycznym, jeżeli rodzi się na poziomie klasycznym, no to będziemy w stanie zamknąć system binarny, jeżeli nie, będziemy wiedzieć o tym, że nie, to są wszystko te pytania,",
+    "start": 800.0,
+    "end": 831.0,
+    "tokens": 202,
+    "turn_start": 800.0,
+    "turn_end": 831.0,
+    "id": 56
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Długi temat, nie będę rozwijał i przy produkcji półprzewodników jest potrzebna bardzo wysoka kultura techniczna, której braki czasami nawet momentami przejawia się w złej organizacji pracy, w kosztach dodatkowych i tak dalej. Więc wielokrotnie się skarżyli ci włodarze w tych fabrykach, że Amerykanie ich przymuszają, ale nie bardzo to będzie działać, czy nie bardzo działa,",
+    "start": 800.84,
+    "end": 830.24,
+    "tokens": 124,
+    "turn_start": 800.84,
+    "turn_end": 830.24,
+    "id": 57
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "oraz wolności przepływów strategicznych, żeby kupić ropę i tak dalej, musieliśmy kupować obligacje amerykańskie albo inne aktywa. A zatem wprowadzaliśmy dolara z powrotem do systemu amerykańskiego. Amerykanie mieli łatwy kapitał, w związku z tym mogli przepalać na Dolinę Chrzemową i zawsze coś wyjdzie. Jeżeli Amerykanie będą dalej tak przegrywali wojnę handlową, jak w zeszłym tygodniu, to nie będą mieli tego taniego kapitału. I raptem ten cały dom skart runie, bo mają wielki dług.",
+    "start": 804.0,
+    "end": 829.0,
+    "tokens": 181,
+    "turn_start": 804.0,
+    "turn_end": 829.0,
+    "id": 58
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "I jeżeli będą się bronić przed bankructwem za wszelką cenę, to podpalą. I to jest wielkie niebezpieczeństwo.",
+    "start": 829.0,
+    "end": 839.0,
+    "tokens": 42,
+    "turn_start": 829.0,
+    "turn_end": 839.0,
+    "id": 59
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "więc jest to nierozstrzygnięta sprawa. Dotyczy to zresztą bardzo wielu technologii nowoczesnych w Stanach Zjednoczonych, bo co innego jest wymyślać, a co innego jest potem w materiale to zrobić i to na dużą skalę.",
+    "start": 830.24,
+    "end": 842.04,
+    "tokens": 78,
+    "turn_start": 830.24,
+    "turn_end": 842.04,
+    "id": 60
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "które dzisiaj kłopotają świat sztucznej inteligencji, to jest ten czwarty filar, który dzisiaj próbujemy przeskoczyć",
+    "start": 831.0,
+    "end": 839.0,
+    "tokens": 40,
+    "turn_start": 831.0,
+    "turn_end": 839.0,
+    "id": 61
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "i jak spojrzymy sobie na tę, chociażby tę ostatnio sprzed trzech tygodni konferencję NVIDI, która spektakularnie chciała pokazać nam swoje roboty,",
+    "start": 839.0,
+    "end": 849.0,
+    "tokens": 53,
+    "turn_start": 839.0,
+    "turn_end": 849.0,
+    "id": 62
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Pociszające jest to, że w toku takich wielkich wojen systemowych, takich rywalizacji jest wielkie przyspieszenie rozwoju technologicznego.",
+    "start": 839.0,
+    "end": 846.0,
+    "tokens": 43,
+    "turn_start": 839.0,
+    "turn_end": 846.0,
+    "id": 63
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Elon Musk wielokrotnie o tym mówił i to z czego kiedyś zachód był znany,",
+    "start": 842.04,
+    "end": 849.44,
+    "tokens": 28,
+    "turn_start": 842.04,
+    "turn_end": 849.44,
+    "id": 64
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Dlatego właśnie, żeby mieć przewagę nad innymi, jest przyspieszenie znaczne rozwoju technologicznego i jest tak zawsze w historii świata. Czyli pokój raczej uspokaja, a rywalizacja geopolityczna znacząco przyspiesza przełomowe technologie.",
+    "start": 846.0,
+    "end": 861.0,
+    "tokens": 82,
+    "turn_start": 846.0,
+    "turn_end": 861.0,
+    "id": 65
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "no ona jest tak naprawdę dowodem na to, jak daleko jeszcze dzisiaj w tym obszarze jesteśmy, czyli mówiąc wprost, to nad czym dzisiaj pracuje świat, to jest próba przeniesienia praw fizyki do świata cyfrowego,",
+    "start": 849.0,
+    "end": 862.0,
+    "tokens": 74,
+    "turn_start": 849.0,
+    "turn_end": 862.0,
+    "id": 66
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "czyli podejmowanie ryzyka przedsiębiorczego, podejmowanie ryzyka budownictwa określonego, budowy mostów, okrętów, statków, promów kosmicznych,",
+    "start": 849.44,
+    "end": 860.84,
+    "tokens": 54,
+    "turn_start": 849.44,
+    "turn_end": 860.84,
+    "id": 67
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "prototypowanie szybkie, wskutek różnego rodzaju zjawisk, w tym kapitalizmu finansowego, w dużej mierze zostało wytracone i to jest poważny problem. Nie wiem jak to się konkretnie będzie przekładało na rozwój AI, to na pewno tutaj pozostali uczestnicy dużo bardziej kompetentnie ode mnie się wypowiedzą, natomiast myślę, że jest to głęboki problem i skoro powiedzieliśmy o Unii Europejskiej, dobrze by było, żeby Unia Europejska przez swoje słabne regulacje zadbała, żeby to się nie wydarzyło, bo Unia Europejska póki co jeszcze produkuje różne rzeczy, jest behemotem eksportowym, ma wysokiej jakości produkcję, bo tak wszyscy narzekamy na tą Unię, ale to jest absolutny behemot eksportowy świata, ze względu na jakość przede wszystkim produkcji w Europie, co daje nam model określonego funkcjonowania standardu życiowego, typu że się we Francji, w Niemczech za dużo nie pracuje, bo mamy wystarczającą marżę, no i cała ta rewolucja AI, sztucznej inteligencji dobrze jakby też się wkomponowała, żeby Europa miała pomysł na to w tym zakresie, bo mówię ja się nie czuję jakoś wybitnie kompetentny, ale to czytam ten raport, tamten raport i że Europa prawda zostaje w tyle, ale to musi też mieć wymiar fizycznego wykonywania tych rzeczy, o których tutaj Pan wspominał, że trzeba mieć te karty pamięci, trzeba mieć te wszystkie rzeczy i w dobie teraz rywalizacji geopolitycznej dobrze by było, żeby to było wykonywane na przykład na kontynencie europejskim fizycznie.",
+    "start": 860.84,
+    "end": 950.64,
+    "tokens": 496,
+    "turn_start": 860.84,
+    "turn_end": 950.64,
+    "id": 68
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Tak, to prawda. Taka jest smutna historia cywilizacji Homo Sapiens. Dżentelmen, który siedzi w samym środku tej sceny, Alek Tarkowski. Mam wrażenie, nie wiem czy Państwo podzielają mój pogląd, w którymś momencie zdradzał takie sygnały, jakby go korciła, żeby to skomentować. Może się mylę. Był jakiś taki moment, ale on już... Uciekł. Zagapiłem się w ogórzko, ale może co innego powiem. A propos dual use, bo to mi się wydaje strasznie ciekawa kategoria, na którą można patrzeć z perspektywy, na której Pan się zna, takiej militarnej. Ja o niej myślę z perspektywy społecznej, bo to jest wielkie wyzwanie, co to znaczy być w społeczeństwie, w społeczeństwie bym tak powiedział, dual use. To się jakoś tak zakrada do nas bardzo powoli. Ciekawe jest to, mam wrażenie, jest przyjmowane, nie chcę powiedzieć bezkrytycznie, ale dużej debaty społecznej nie ma. Gdy w Stanach jakieś chyba pięć lat temu pojawił się temat dual use sztucznej inteligencji, był to taki temat, że Google podpisał duży kontrakt na system MAVEN, który był takim systemem inteligencji właśnie wojskowej. No to przede wszystkim pracownicy się zbuntowali. To był właśnie pierwszy taki przykład buntu IT, którzy mówili nie naszymi rękami, to nie będzie powstawać. U nas w którymś momencie wokół tych różnych zamieszań, nie wiem czy Państwo śledzą, wokół Instytutu Badawczego IDEAS, wokół NCBR-u pojawił się nagle wątek, że te działania będą też finansowane przez MON, że się pojawi dual use. I moim zdaniem wszyscy mówią OK. Być może mówimy OK, bo jesteśmy w miejscu w jakim jesteśmy. Chciałem jeszcze powiedzieć,",
+    "start": 861.0,
+    "end": 951.0,
+    "tokens": 562,
+    "turn_start": 861.0,
+    "turn_end": 951.0,
+    "id": 69
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "czyli mówiąc wprost, AI, która rozumie przestrzenność, trójwymiarowość wszechświata. To jest bardzo fajne przejście od mnie, co robią te laby, do mówienia, co robi świat, bo wydaje mi się, że żyjemy w tej takiej sytuacji, gdy wszyscy spoglądamy na te laboratoria i mówimy, panowie, to co my wszyscy teraz budujemy, a oni po pierwsze mówią, nie, to my budujemy i to my jesteśmy wyjątkowi i pamiętajmy, uważam, geopolityka najczęściej, prawda, to są tematy typu USA i Chiny, czy Ukraina i Rosja. Uważam, że jest też geopolityka między tymi największymi labami i resztą świata, czy społecznościami i to nie mówię tego ja, tylko mówią to sami technolodzy, to znaczy, gdy jest masa teraz książek, takie jak pomysły na Network State, czy ta najnowsza książka współzałożyciela Palantira, która się nazywa Technological Empire i to są technopolityczne, geopolityczne wizje mocy korporacji, zasilanych potężnymi technologiami i to mi się wydaje bardzo ważne, bo na przykład uważam świetnie, że zaglądasz do tych laboratoriów, bo jesteśmy jako, uogólniam to, proszę Państwa, w trudnej sytuacji, my trochę ufamy dosyć zamkniętym firmom, paradoksalnie mówiłem, one niektórymi rzeczami się dzielą niezmiernie hojnie, są też takie trendy, żeby pewne rzeczy wypuszczać, bo to też ma sens biznesowy,",
+    "start": 862.0,
+    "end": 949.0,
+    "tokens": 473,
+    "turn_start": 862.0,
+    "turn_end": 949.0,
+    "id": 70
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Ja dwa dni temu w Łodzi spotkałem się z Agnieszką Piłat, polsko-amerykańską artystką, która w Boston Dynamics ma rezydenturę i tam trenuje spoty, te słynne roboty, takie pieski, malować. I zadałem jej pytanie o to, w jaki sposób sobie radzą od punktu widzenia kreatywności. I rozmawialiśmy o tym, czy nawet ten obszar nie jest pomału odbierany człowiekowi. I ona uważa, że jest odbierany człowiekowi, że jedyne, co zostaje człowiekowi w rozumieniu sztuki, to jest idea. Odpowiedziała mi pytanie, że to jest idea, że tylko idea ma człowiek. Ale czym jest idea? Co to znaczy idea? Ja tylko, jeśli mogę i prawdopodobnie szybko dojdziemy do wniosku, że musimy się pięknie nie zgadzać.",
+    "start": 900.0,
+    "end": 949.88,
+    "tokens": 249,
+    "turn_start": 900.0,
+    "turn_end": 949.88,
+    "id": 71
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "ale mam wrażenie, że tymi takimi największymi zagadkami jednak się nie dzielą i my musimy ufać tym firmom, w jakim to wszystko kierunku zmierza. na przykład Ilii Sudskeverowi, który mówi, że już pewne dotychczasowe modele skalowania AI się nie sprawdzają, teraz stawiamy na nowe i trzeba chwilę pomyśleć i przypomnieć sobie, że on właśnie założył firmę, która próbuje dostać wielomiliardowe dofinansowanie z funduszy Venture Capital, dokładnie na ten pomysł. I to mnie bardzo zastanawia i to też uważam jest geopolityka, jak jednak wielkie pieniądze skrzywiają fundamentalne pytania o to, dokąd to zmniejsza. Bardzo dziękuję, jeszcze dopytam, Maćku, ty mówiłeś, czy to, o czym ty mówiłeś, o odnalezieniu się sztucznej inteligencji w przestrzeni fizycznej, w sensie w kuchni, to jest coś, co się nazywa tym testem cappuccino, żeby wpuścić robota do kuchni, w której nigdy go nie było i po prostu poprosić o zrobienie kawy, znaczy on musi sam ogarnąć resztę, to o to chodzi? No tak i o to chodzi, dokładnie o to chodzi, nie chodzi o to, żeby case by case mapować tą przestrzeń, ponieważ kiedy ją zmapujemy, stworzymy cyfrowego bliźniaka tej przestrzeni, do której robot będzie potrafił się w niej znaleźć.",
+    "start": 949.0,
+    "end": 601.04,
+    "tokens": 432,
+    "turn_start": 949.0,
+    "turn_end": 601.04,
+    "id": 72
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Ja mam dużą potrzebę sygnalizowania, że jest to tylko jeden z scenariuszy. Nie wiem czemu, to musi być gra o sumie zerowej. To, że mamy samochody, nie spowodowało, że ludzie przestali biegać maratony, że znajdują w tym przyjemność, że konkurują i że robi się wielki biznes. Samochód nie jest rzeczywistością. Zdaję sobie sprawę. Ale sztuczna inteligencja, mógłbym tak trochę na przekór powiedzieć, że tak, mamy wzrost wykładniczy po to, żebyśmy wszyscy mogli wyglądać jak postacie ze studia Ghibli dzisiaj. I wiem, że upraszczam i wiem, że trzeba szukać pod powierzchnią tych dogłębnych wpływów sztucznej inteligencji. Tylko wydaje mi się w tej sytuacji bardzo ważne rysowanie innych scenariuszy. Jestem trochę zaniepokojony poziomem do jakiego i sposobem, w jakim rzeczywiście ci pracownicy, już o tym do tego mówiłem, największych laboratoriów przedstawiają pewne wizje.",
+    "start": 949.92,
+    "end": 1002.8,
+    "tokens": 314,
+    "turn_start": 949.92,
+    "turn_end": 1002.8,
+    "id": 73
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "A jaka jest szansa na powodzenie wizji pomysłów Trumpa, to jest trudne słowo reindustrializację, wolę mówić o renesansie przemysłu, bo się łatwiej wymawia. Jaka jest szansa, że on dopnie swego, że on przekona do tego, że te fabryki wrócą? No i tu jest oczywiście zagadnienie nie ma na to mądrych, bo ja się wypowiem oczywiście z własnego punktu widzenia, przy czym naprawdę nie ma mądrych, dlatego, że w historii świata nigdy jeszcze nie próbowano zrobić tego, co robi Trump w tej chwili. Nikt nie ćwiczył tego. Nie, absolutnie nie, dlatego, że Amerykanie byli na ścieżce wzrostowej, mieli kapitalizm przemysłowy, to jest absolutnie nieporównywalne. Nikt nie rolował świata globalnej gospodarki w ten sposób, próbując zachować prymat dolarowy, czyli waluty rezerwowej, czyli zjeść ciastko i mieć ciastko, jednocześnie dokonać reindustrializacji.",
+    "start": 950.64,
+    "end": 1002.64,
+    "tokens": 308,
+    "turn_start": 950.64,
+    "turn_end": 1002.64,
+    "id": 74
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "wczoraj byłem na dosyć przejmującym spotkaniu z Centrum Sztuki Współczesnej, z ukraińskim artystą, który początkowo był rzeźbiarzem, potem się przekwalifikował na artystę Nowych Mediów, założył prywatną szkołę sztuki Nowych Mediów, która podobno jest w ogóle instytucją w Kijowie, bo państwowe uczelnie umownie nie potrafią uczyć photoshopa, a on potrafi. No ale nadeszła wojna i jak to mu powiedział bardzo skrótowo, bo nie może za dużo mówić, został inżynierem dronowym i tak zwanym piratem, czyli cywilem pracującym na froncie. I to było przejmujące z nim rozmawiać, bo to jest człowiek dual use. To jest człowiek, który ma skillsy takie jak Państwo. On tam puszczał też filmy, jak komponuje na przykład muzykę elektroniczną używając różnego rodzaju sprzętu, którym nic nie mówiła pewnie połowa z Państwa by to popodłączała, tak jak Pan Generator. I nagle ciach, w sytuacji wojny wszystko się przesuwa.",
+    "start": 951.0,
+    "end": 1003.0,
+    "tokens": 332,
+    "turn_start": 951.0,
+    "turn_end": 1003.0,
+    "id": 75
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Więc ja wypowiem swoje zdanie, on jest dosyć twardy.",
+    "start": 1002.64,
+    "end": 1005.64,
+    "tokens": 22,
+    "turn_start": 1002.64,
+    "turn_end": 1005.64,
+    "id": 76
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Moim zdaniem w sposób nieodpowiedzialny albo nie zawsze unopowiedzialny.",
+    "start": 1002.84,
+    "end": 1007.24,
+    "tokens": 24,
+    "turn_start": 1002.84,
+    "turn_end": 1007.24,
+    "id": 77
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "I to jest to, to przyspieszenie, tylko wydaje mi się, co jest ważne dla nas w Polsce,",
+    "start": 1003.0,
+    "end": 1007.0,
+    "tokens": 29,
+    "turn_start": 1003.0,
+    "turn_end": 1007.0,
+    "id": 78
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Uważam, że Amerykanie nie mają szans na reindustrializację taką, dzięki obietnicy której Trump wygrał wybory, czyli stalownie w Ohio, przemysł ciężki, chemia i tak dalej. Myślę, że mają szansę, jeżeli dokona się rewolucja kulturowa w Stanach i włodarze nowego przemysłu technologicznego, Anduril, Palantir, tego typu, SpaceX, ci, którzy już mają inne podejście do tego, co jest prawdziwą gospodarką, ale przemysłową, jeżeli oni utworzą nowe cykle technologiczne i Amerykanie będą mieli fabryki z robotami, ale już nie wszystkiego, tylko niektórych rzeczy, to w to wierzę. Tylko to i będzie bardzo wąska ścieżka przez góry, bo to będzie wymagało bardzo wielu zręcznych ruchów strategicznych. Ja na razie nie widzę takiej zręczności w administracji amerykańskiej. Innymi słowy, uważam, że Amerykanie przegrają rywalizację. Tylko, że przegrywając, boję się, że mogą podpalić nam świat, tak jak zrobił Trump zresztą półtora tygodnia temu. Ze skutkami również dla rozwoju sztucznej inteligencji i podziale świata, co najmniej na chińską i okołochińską, a może europejską i amerykańską. Natomiast absolutnie nie wierzę w przywrócenie reindustrializacji, tak, że Amerykanie produkują wszystko, robią itd.",
+    "start": 1005.64,
+    "end": 1088.24,
+    "tokens": 440,
+    "turn_start": 1005.64,
+    "turn_end": 1088.24,
+    "id": 79
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "gdzie dzięki Bogu wiem, że mamy już wojnę hybrydową, ale na szczęście kinetycznej nie mamy, jak nie czekać na ten moment i jak wymyślać taki dual use, który dla mnie jest na przykład ważny, zachowuje też wartości demokratyczne, bo ten artysta wyraźnie mówił, że tam gdzieś już jego dusza naprawdę trafia na trudne momenty i jak my mamy tą naszą demokratyczną duszę obronić, to mi się wydaje fundamentalne wyzwanie. Tu jeśli mogę jedno zdanie, to jest bardzo ciekawe, co powiedziałeś, bo AI będzie absolutnie wprowadzało robotykę, już wprowadza na pole walki, co będzie generowało wielką ulgę dla społeczeństwa. Bo nie będzie masowych armii po prostu z milionami trupów, przynajmniej do pewnego momentu, dopóki nie zostanie użyte to w sposób inny niż tradycyjny. Natomiast będzie wywoływało głębokie dylematy moralne, prawne i tego rodzaju rzeczy. Wchodzimy w ogóle w fuzję cywilno-wojskową, stare systemy wojskowe nie działają i raczej systemy, które są zarówno cywilne, jak i wojskowe będą dawały odpowiedź. I AI jest tutaj łącznikiem, jest kluczem do tego wszystkiego, tak jak ja rozumiem na swój zupełnie nieinżynierski sposób. Także ja uważam, że powinny być wszystkie ręce na pokład w Polsce,",
+    "start": 1007.0,
+    "end": 1090.0,
+    "tokens": 421,
+    "turn_start": 1007.0,
+    "turn_end": 1090.0,
+    "id": 80
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Bo to jest często deklaracja wiary po prostu. Jakiej wiary? Na przykład to, że za dwa lata będziemy już na najlepszym kroku do tego, żeby sztuczna inteligencja przejęła masę funkcji ekonomicznych i nie będzie dla ludzi w ogóle pracy. To się jeszcze nie wydarzyło. Nie wiem, czy się nie wydarzyło. Bo nie wiemy, w jaki sposób podejmowane są kluczowe decyzje i jaki jest wpływ na te pojedyncze, konkretne decyzje mechanizmów sztucznej inteligencji. Mój reumatolog na przykład w trakcie spotkania ze mną powiedział, że on się wykorzystuje dwa dni temu. Kiedy zacząłem z nim rozmawiać, mówię, że dokładnie to samo powiedział mi Grok na Twitterze, co pan mówi. On mówi, no ale ja też korzystam i wspieram się w diagnostyce. Dlatego, bo w dostępie do istniejących przy deep searchu różnych terapii jest dużo lepszy niż ja. Ale on tego nie powie oficjalnie na konferencji. Nie zobaczy tego pan w żadnym raporcie, w żadnych statystykach. Ale te decyzje podskórnie są podejmowane dzisiaj w jakimś procencie z wykorzystaniem narzędzi. Wszystkie, jeżeli spojrzymy sobie przy mocy obliczeniowej, proporcjonalnie, a powiem jeszcze inaczej, ilość nowych technologii, nad którymi pracujemy. Na przykład wykorzystywanie organoidów mózgowych jako alternatywy dla mocy obliczeniowej,",
+    "start": 1007.28,
+    "end": 1089.4,
+    "tokens": 435,
+    "turn_start": 1007.28,
+    "turn_end": 1089.4,
+    "id": 81
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Dreszcz mnie przeszedł, nie wiem, czy Państwo mają podobnie, kiedy słyszeliśmy przed momentem, że przy okazji może podpalić świat. A czy przegrana Donalda Trumpa i niezrealizowanie tej jego wizji to się równa i jest równoznaczne ze zwycięstwem Chin? Nie, raczej Chiny nie będą miały takiej pozycji jak Stany Zjednoczone, bo dominacja amerykańska była zupełnie wyjątkowa po II wojnie światowej, nie było innych silnych przeciwników i Amerykanie kontrolowali przepływy strategiczne wszystkie. To jest niepowtarzalna sytuacja. Chiny mają Rosję silną, mają Japonię, mają Koreę Południową, mają Indię",
+    "start": 1088.24,
+    "end": 1124.44,
+    "tokens": 206,
+    "turn_start": 1088.24,
+    "turn_end": 1124.44,
+    "id": 82
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "co z wielkim sukcesem tworzy dzisiaj firma Finalspark w Szwajcarii. Jak odwiedzałem ich parę dni temu i zadałem pytanie, jak wzrasta ilość ich klientów, to wzrasta każdego roku o 260, około, między 220 a 260 procent. Rozwój nauka dzisiaj podąża, rozwija się w sposób tak nieprawdopodobnie szybki i nieprzewidywalny, niezdolny do tego, żeby budować jakiekolwiek trafne przewidywania, że mówienie o tym, że są jakiekolwiek inne scenariusze",
+    "start": 1089.44,
+    "end": 1123.16,
+    "tokens": 161,
+    "turn_start": 1089.44,
+    "turn_end": 1123.16,
+    "id": 83
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "również w tej modernizacji wojskowej, żebyśmy właśnie na to Big Data Analysis połączony z robotyką, z piętej AI, żeby w tą stronę pójść, zamiast kupować te gąsienice, czołgi, pancerze, jakieś absurdy zupełnie, tylko pójść w tą stronę. To jest naprawdę wielkie wyzwanie i wygrać też przyszłość, bo zbudować łańcuch wartości, o których tutaj mówiliście Państwu. To jest wielka szansa, zwłaszcza, że wydajemy tak dużo pieniędzy na to wojsko, do zbrojenia i dobrze byłoby nie przypalić tego na niepotrzebne rzeczy.",
+    "start": 1090.0,
+    "end": 1124.0,
+    "tokens": 194,
+    "turn_start": 1090.0,
+    "turn_end": 1124.0,
+    "id": 84
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "i mamy ku temu potencjał, bo mamy. Polska tutaj w ostatnich latach bardzo dobrze się rozwijała, super przerosł PKB, super fajni ludzie, kompetencje, no i cóż, jeżeli nie ma środowiska, to zaczęli uciekać. Maczku, trzy słowa, widzę, że coś... Chciałem powiedzieć, że ja uważam, że wyścig taki, jeżeli chodzi o przełomy technologiczne związane z rozwojem sztucznej inteligencji, przegraliśmy, możemy się z tym pożegnać i nie ma sensu w ogóle, żebyśmy wydawali na to kasę, dlatego, bo nie prześcigniemy Stanów Zjednoczonych i możemy sobie tworzyć, to jest ekstra oczywiście, agentów, malutkich agencików",
+    "start": 1090.0,
+    "end": 1126.0,
+    "tokens": 230,
+    "turn_start": 1090.0,
+    "turn_end": 1126.0,
+    "id": 85
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "ma sens oczywiście, pod warunkiem, że zaznaczymy, że one są dużo mniej prawdopodobne, bo to wszystko, co obserwujemy, sprowadza nas do tego jednego konkretnego scenariusza. Ale ten przykład, jeśli mogę, bo naprawdę myślę, że mamy tu inne spojrzenie. Przykład reumatologa jest bardzo dobry. Dzisiaj ta sztuczna inteligencja, której on używa, wie tyle, ile suma wiedzy innych reumatologów dostępna w publicznym internecie i być może w jakichś prywatnych bazach danych. Wiąże się to z tym, o czym powiedziałeś, rzeczywiście z ograniczeniami... Do końca, ponieważ te najnowsze modele mają już coś, co nazywamy takie decision tree, mają już monolog wewnętrzny. Tam jest jakaś forma rewizyjna. Jednak na bazach wiedzy umownie najlepszym źródłem dla Wikipedii dzisiaj, dla sztucznej inteligencji, nie jest obserwowanie wszechświata, bo nie ma ku temu narzędzi, tylko jest zastanie wiedzy z Wikipedii i z otwartego publicznego internetu. Znaczy nie ma innych źródeł trenowania i zgadzam się, że się pojawiają, ale to są też bardzo duże dyskusje. Tak, to jest bardzo dobra kwestia. Pytanie, ile jest tego czasu? No ja też z zupełnie innej perspektywy patrząc, dla mnie jest to jakiś przejaw cywilizacyjnego, nie wiem, takiego głębokiego, metafizycznego, nie wiem, jakiegoś masochizmu, defetyzmu. Dlaczego ci ludzie nie potrafią mieć pozytywnej wizji koegzystencji? Jest ona równie możliwa i mogłaby napędzać ich w szansę. Tak, tego nie wiemy i nie rozstrzygniemy. Rzeczywiście profesor Stephen Hawking mówił kiedyś w odpowiedzi na pytania jakiegoś dziennikarza na konferencji prasowej, kiedy ten go zapytał, jaka sztuczna inteligencja, jakie obawy?",
+    "start": 1123.2,
+    "end": 1222.84,
+    "tokens": 582,
+    "turn_start": 1123.2,
+    "turn_end": 1222.84,
+    "id": 86
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Maćku, mam wrażenie, że chciałeś coś dodać, bo być może jest tak, że Maciej Kawecki, który eksploruje różne laboratoria nie tylko za granicą, ale być może przede wszystkim w Polsce, on to gdzieś dostrzegł, to zastosowanie Dual Use. Nie o tym chciałem powiedzieć. Chciałem powiedzieć, że nie jestem, siedzę tak cicho, bo nie jestem geopolitykiem i nie mam zbyt wiele mądrego do powiedzenia na tematy geopolityczne, natomiast mogę z całą odpowiedzialnością powiedzieć to, co obserwuję, że Stany Zjednoczone są nieprawdopodobną potęgą intelektualną i stolicą sztucznej inteligencji obok Chin jest Dolina Krzemowa i są Stany Zjednoczone. Laboratoria czołowych uczelni amerykańskich są cały czas potęgami, których PKB czy wpływ na PKB może być porównywalny do PKB niektórych z państw członkowskich Unii Europejskiej. Ale też chciałem powiedzieć o tym, bo o tym tutaj trochę nie rozmawiamy, rozmawiamy o geopolityce, żeby ją uprawiać i żeby ona istniała i żeby to wszystko miało sens, to oczywiście, może zrzucę tutaj taki Patrycjusz wysokopoziomowy aspekt, bardzo mi bliski, ale żeby ta geopolityka miała miejsce, to musi istnieć człowiek. Ja mam bardzo głęboką refleksję wynikającą z tego, że sztuczna inteligencja wyprze gatunek ludzki. Ja jestem głęboko przekonany i wszystkie rozmowy z największymi umysłami do tego wniosku mnie doprowadzają, że dochodzimy gdzieś do jakiegoś etapu kresu ewolucji ludzkiego gatunku jako takiego, że nie istnieje coś takiego",
+    "start": 1124.0,
+    "end": 1225.0,
+    "tokens": 525,
+    "turn_start": 1124.0,
+    "turn_end": 1225.0,
+    "id": 87
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "i Stany Zjednoczone, Zachodnie Półkuli. Tego się nie da, będzie raczej zrównoważony system. Trudno powiedzieć, co to będzie oznaczało dla rozwoju technologicznego. Natomiast bardziej by mi zależało, żeby Amerykanie zeszli z tego.",
+    "start": 1124.44,
+    "end": 1139.64,
+    "tokens": 84,
+    "turn_start": 1124.44,
+    "turn_end": 1139.64,
+    "id": 88
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "i to jest bardzo dobrze, żeby to się działo w Europie, ale są technologie, co do których mamy szansę jeszcze być liderem i którego wyścigu nie przegraliśmy i to są technologie kwantowe, to jest nawet to, co robi firma IQM w Helsinkach, to, co robi Polskie Cyfrowe Wojsko w kontekście pułapkowania jonów wapnia, tworzenia cyfrowego komputera kwantowego, z naprawdę sukcesami technologicznymi, to, co robi profesor Pareń jak w laboratoriach Uniwersytetu Warszawskiego, to, co robi profesor Wszoła z pułapkowaniem molekuł wodorów w UMK, to są innowacyjne, przełomowe technologicznie eksperymenty, niedofinansowywane dzisiaj, dlatego, bo budujemy iluzję tego, że Polska przez to, że ma Wojtka Zarembę, Kubę Pachockiego, Szymona Sidora, którzy przebywają 12 tysięcy kilometrów stąd, będzie potęgą sztucznej inteligencji. Otóż nie będzie potęgą sztucznej inteligencji. Nikt nie mówi, że potęgą, ale mamy potencjał, żeby w określonych niszach zaistnieć i być liderem. Niszą fantastyczną jest dron, są drony. Dlaczego Polska nie stawia na niszę? Możemy wykorzystywać tam wizje, możemy wykorzystywać tam sztuczną inteligencję. Dlaczego jeden z najfajniejszych, moim zdaniem, w Europie projektów droniarskich, jakim jest Prometeusz, autonomiczny dron zdolny do detekcji metanu, autonomiczny, prawie padł albo już padł. To jest bardzo dobre pytanie. Mogę powiedzieć dlaczego.",
+    "start": 1126.0,
+    "end": 1221.0,
+    "tokens": 486,
+    "turn_start": 1126.0,
+    "turn_end": 1221.0,
+    "id": 89
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Dlatego, że są dwa powody wzajemnie się uzupełniające i sprzęgnięte z sobą. Generalnie wyznaczono nam miejsce polityczno-społeczne jako podwykonawców w peryferyjnym systemie kapitalistycznym i parametry zasilania kapitałowego, pracy kapitału u nas są takie, że u nas nie można osiągnąć pewnej skali, a zatem trudno finansować przedsięwzięcia. Jest wielka rywalizacja o kapitał, również państwowy, pomiędzy nawet ośrodkami naukowymi, co powoduje feudalizację nauki, feudalizację innowacji, tak naprawdę antykulturę tego, co jest z Silicon Valley. Do tego w przypadku konkretnie dronów jest ogromne lobby zbrojeniowe, które chce, żebyśmy kupowali czołgi, fregaty, stare rzeczy i żeby nie było żadnej rewolucji, podwójnej technologii, których oni nie kontrolują łańcuchów wartości, nie trzeba specjalnych certyfikatów służb, które dzielą między siebie później te frukta. Ludzie się boją powiedzieć o tym, że tak jest, my w Strategy and Future nie boimy się mówić. Tak to działa, w związku z tym duszone są wszystkie tego inicjatywy, które wychodzą spoza system kontroli tego, jak ma być rozłożony łańcuch wartości, źródłem ma być technologia zachodnia ze Stanów albo z Europy Zachodniej",
+    "start": 1221.0,
+    "end": 1301.0,
+    "tokens": 415,
+    "turn_start": 1221.0,
+    "turn_end": 1301.0,
+    "id": 90
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "No przecież wystarczy wyjąć wtyczkę. A Hawking miał wtedy powiedzieć, że ona będzie wiedziała, że pan chce wyjąć wtyczkę, zanim pan o tym pomyśli, że chce pan to zrobić i ona to w jakiś sposób uprzedzi, prawda? Więc rzeczywiście ten czerwony guzik to chyba niekoniecznie, a są i takie wizje, jak ta, którą profesor Dragan opowiada, przedstawia, że to nie jest tak, że my mamy coś przeciwko mrówkom, kiedy budujemy autostradę. No nie, nie jest tak, że budujemy autostradę po to, żeby zniszczyć mrowisko, ale jeżeli jest akurat mrowisko na trasie planowanej przez człowieka autostrady, to ono zniknie i może być podobnie. To nie jest tak, że my będziemy na celu sztucznej inteligencji, tylko że przy okazji być może nie będziemy aż tak istotnie potrzebni. Bo mrówki potrafią przenieść swoje mrowisko, to tak bym uzupełniła tę wypowiedź Dragana. Czuj go w plejki ze studiów. Tak, to prawda. No dobrze, Joanna, to skoro jesteś przy głosie, bo miałem taki plan, żeby cię zapytać, czy my jako Europejczycy, czy my jako Europa, organizm, to pytanie jak bardzo spójny, to być może jest fundamentalne pytanie, ale załóżmy, że w jakimś zakresie spójny. Przecież organizm, w którym żyje więcej Europa, w której żyje więcej ludzi niż w Stanach Zjednoczonych. Czy my możemy jakoś wcisnąć nogę w drzwi pomiędzy Stany Zjednoczone a Chiny i czy my możemy istotnie odegrać jakąś tutaj ważną rolę w rozwoju najnowocześniejszych technologii, czy my tutaj mamy szansę? Z tej sceny już padło dzisiaj kilka dobrych rzeczy o Europie",
+    "start": 1222.88,
+    "end": 1304.72,
+    "tokens": 547,
+    "turn_start": 1222.88,
+    "turn_end": 1304.72,
+    "id": 91
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "jak czerwony przycisk, którego naciśnięcie, bo to byłby system totalitarny, spowoduje, że my nagle zatrzymamy rozwój AI, albo że wydarzy się coś, co spowoduje, że rozwój AI się zatrzyma. Uważam, że to jest iluzja. Jeżeli on będzie podążał, rozwijał się liniowo, tak jak się to dzieje dzisiaj, a już nawet się liniowo nie rozwija, to ona nas zastąpi. I to trzeba mówić w sposób bardzo świadomy, bardzo odważny. Wyprze podejmowanie decyzji w elementach kluczowych. Dzisiaj się to dzieje, dlatego, bo taki minister albo prezydent przed podjęciem decyzji korzysta z czata i robi to w sposób nieoficjalny, ale to robią. Za chwilę te decyzje będą podejmowane w ten sposób, w sposób fundamentalny i oficjalny. Dochodzimy do momentu, w którym sztuczna inteligencja zaczyna przejmować cechę, która do tej pory była wyłącznie cechą gatunku ludzkiego i to jest rozumienie matematyki abstrakcyjnej. Co my innego jako ludzie potrafimy inaczej niż zwierzęta? Nie opierając się na nauce, tylko rozumieniem matematyki abstrakcyjnej, bo obliczeniową, to jak damy kotu dwie miski, to on wie, że dwie miski to jest więcej niż jedna miska. Ale matematyka abstrakcyjna, o wyprowadzenie istnienia czarnych dziur bez ich obserwacji w latach 60.",
+    "start": 1225.0,
+    "end": 1304.0,
+    "tokens": 440,
+    "turn_start": 1225.0,
+    "turn_end": 1304.0,
+    "id": 92
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Właśnie, burmistrzyni powinna być. Ja z kolei myślę, że może pogódźmy się z tym, bo wracając do tego dobra wspólnego. Jest to piękna, trochę to powiedziałeś, misja Polski. Rzeczywiście, zasilamy globalny rozwój technologii. Mamy ten odpływ, ale może to jest to, co my potrafimy zrobić. Bo ja też nie wierzę w tę historię, że to jest kwestia pieniędzy. Ludzie, którzy w San Francisco mogą chodzić i pływać, że tak powiem, w tej zupie debat o AGI, co wrócą tutaj i będą chodzić do ministerstwa na ulice królewską, opowiadać ministrowi coś. To w ogóle się nie skleja. Ja wiem, że to brzmi pesymistycznie i boję się, że głównie z powodów tych geopolitycznych. Bo ja nie wiem, czy my sobie na to możemy pozwolić. To jest nasza jakaś tam karta przetargowa.",
+    "start": 1260.0,
+    "end": 1302.0,
+    "tokens": 281,
+    "turn_start": 1260.0,
+    "turn_end": 1302.0,
+    "id": 93
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "i ludzie, kolonizatorzy, Polacy, którzy rozkładają to i kontrolują miejscową siłę roboczą",
+    "start": 1301.0,
+    "end": 1309.0,
+    "tokens": 32,
+    "turn_start": 1301.0,
+    "turn_end": 1309.0,
+    "id": 94
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Tylko jeszcze chciałem powiedzieć, bo nas zawsze zbija to bycie liderem. Wszystkie polskie dokumenty strategiczne, cyfrowe.",
+    "start": 1302.0,
+    "end": 1308.0,
+    "tokens": 42,
+    "turn_start": 1302.0,
+    "turn_end": 1308.0,
+    "id": 95
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "przez Penrose'a była możliwa tylko dzięki temu, że zobaczył to w swoim mózgu w matematyce abstrakcyjnej.",
+    "start": 1304.0,
+    "end": 1310.0,
+    "tokens": 41,
+    "turn_start": 1304.0,
+    "turn_end": 1310.0,
+    "id": 96
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "i bardzo za to dziękuję. Słyszeliśmy, dlaczego nie jesteśmy tak bardzo z tyłu,",
+    "start": 1304.76,
+    "end": 1309.04,
+    "tokens": 28,
+    "turn_start": 1304.76,
+    "turn_end": 1309.04,
+    "id": 97
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Gdzieś zawsze się zatrudnia konsalty i na przykład w jednym z pierwszych dokumentów o policji AGI napisał, że będziemy challengerem AGI w trzy lata i to zostało zaktualizowane po trzech latach. Ale cytat został, bo to dobrze wygląda. Tajwan, gdy weszli na tę trajektorię budowania TSMC, tam nikt nie mówił,",
+    "start": 1308.0,
+    "end": 1325.0,
+    "tokens": 110,
+    "turn_start": 1308.0,
+    "turn_end": 1325.0,
+    "id": 98
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "i nie może być polskiej myśli technologicznej w tym zakresie, która by stworzyła cały łańcuch wartości technologicznej, bo jest to sprzeczne z ideą. I tu jest wina polityków, że nie potrafią sobie postawić... Pięcie nas w tą stronę to też powoduje,",
+    "start": 1309.0,
+    "end": 1323.0,
+    "tokens": 85,
+    "turn_start": 1309.0,
+    "turn_end": 1323.0,
+    "id": 99
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "w niektórych dziedzinach przy okazji np. fabryk, industrializacji. Czy my mamy szansę jako Unia Europejska w najnowszych technologiach, szczególnie przy sztucznej inteligencji, czy nie? Czy to już jest stracona okazja i Stany Zjednoczone odjechały i Chiny?",
+    "start": 1309.08,
+    "end": 1324.0,
+    "tokens": 90,
+    "turn_start": 1309.08,
+    "turn_end": 1324.0,
+    "id": 100
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "A wydawało się, że ostatnią dziedziną działalności i cywilizacji homosabiens, która upadnie, to będzie sztuka i kultura, prawda? Czyli twórcze działanie. A od tego się zaczęło. Od tego się zaczęło. To pierwsze upadło.",
+    "start": 1310.0,
+    "end": 1320.0,
+    "tokens": 80,
+    "turn_start": 1310.0,
+    "turn_end": 1320.0,
+    "id": 101
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "że potem w przypadku agresji Rosji jesteśmy osłabieni. Nie, to w ogóle generuje bardzo wiele rzeczy, jak brak realnej modernizacji wojska, brak wiary społeczeństwa, że potrafimy i tak dalej. Brak jakiegokolwiek poza bohaterskimi przykładami poszczególnych przedsiębiorców,",
+    "start": 1323.0,
+    "end": 1341.0,
+    "tokens": 102,
+    "turn_start": 1323.0,
+    "turn_end": 1341.0,
+    "id": 102
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Nie, tak jak wcześniej rozmawialiśmy, że sztuczna inteligencja jest nową technologią i wszystko jest możliwe. Pytanie, jak tam w Brukseli. Decydenci teraz z różnych państw będą potrafili się porozumieć",
+    "start": 1324.04,
+    "end": 1337.52,
+    "tokens": 67,
+    "turn_start": 1324.04,
+    "turn_end": 1337.52,
+    "id": 103
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "czy oni będą liderem, tylko po prostu wymyślili, że muszą się zmodernizować i że geopolitycznie to jest ważne itd. A my mam wrażenie, że zamiast właśnie realnie, może to jest po prostu bardzo trudne, lubimy zadać sobie pytanie jak być liderem.",
+    "start": 1325.0,
+    "end": 1338.0,
+    "tokens": 80,
+    "turn_start": 1325.0,
+    "turn_end": 1338.0,
+    "id": 104
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "i trzeba wziąć pod uwagę, że są różne ich też interesy. Więc czy będzie nam po drodze wspólnie? Tego to trudno powiedzieć. Fajnie by było, żebyśmy rzeczywiście stanowili taką siłę, ale też żebyśmy my jako Polska nie stanowili tutaj znowu rynku zbytu, tylko potrafili uczestniczyć w tych projektach. A na razie dużo jest ogłaszanych projektów, na przykład odpowiedź na maska Starlinka. Pojawiała się taka inicjatywa tutaj ze strony Unii Europejskiej, żeby też taki system przygotować. Tak, tylko że tam są zaangażowane takie kraje jak Luksemburg, Hiszpania i Francja. My w Polsce mamy fajne firmy, które potrafią już zbudować satelitę i wynieść go w kosmos, jak i też jesteśmy jednymi z najlepszych w analizie danych tych, które przesyła satelita tu na Ziemię. Więc moglibyśmy o to zawalczyć, tylko jak się okazuje i z naszych tam informacji, a mamy rzeczywiście ekspertów rozproszonych we wszystkich strukturach na całym świecie, tak akurat nam wyszło, że tam Polska w ogóle nie zabiera głosu.",
+    "start": 1337.56,
+    "end": 1403.08,
+    "tokens": 342,
+    "turn_start": 1337.56,
+    "turn_end": 1403.08,
+    "id": 105
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Jest coś kulturowego rzeczywiście w Polsce. Doszliśmy do tego momentu w dyskusji. Właśnie nie umiem powiedzieć, bo to socjolog może, czy filozof. Jest coś kulturowego do naprawienia. Ale wydaje mi się, że jest też dobra sytuacja do zmiany. Przykładem jest chyba dobra sytuacja z profesorem Sankowskim, bo nauka bardzo dużo znosiła i w kółko odbiór im funduszy. Doszliśmy do tego, że w tym roku w budżecie państwa na naukę jest przeznaczone raptem 1,07% PKB. To najniżej od lat dziewięćdziesiątych. Inne kraje podnoszą te nakłady, a my zmniejszamy. Więc to nie jest dobra informacja. Ale przy profesor Sankowskim tak naprawdę po raz pierwszy świat nauki powiedział stop. Czyli doszliśmy chyba do tej granicy. Jak i też społeczeństwo powiedziało tak. Chcemy mieć szansę i być z czegoś dumni. I dzięki temu powstały już nowe ideas. Profesor Sankowski ma miejsce. Tylko, że na samym profesorze jednym i jego zespole nie zbudujemy.",
+    "start": 1338.0,
+    "end": 1403.0,
+    "tokens": 331,
+    "turn_start": 1338.0,
+    "turn_end": 1403.0,
+    "id": 106
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "którzy najczęściej muszą pięć razy więcej pracy włożyć i sześć razy lepiej liczyć pieniądze. Żeby w ogóle wystąpić na rynku globalnym w jakikolwiek sposób to mi się przekłada tak samo do nauki. Po prostu trzeba cudu, jakiegoś wielkiego wysiłku jednego człowieka, a później czytamy w książkach o wielkich Łukasiewiczach i innych wielkich Polakach. Nie jest to naturalne środowisko. I jest to głównie wina polityków, że system jest tak skonstruowany i wielcy tego świata nie są zainteresowani odmianą tego systemu, bo my mamy określone miejsce w łańcuchu wartości. Programy kosmiczne czy technologie kosmiczne są tego bardzo dobrym przykładem. Nie chodzi o to, żeby polskie firmy kosmiczne, start-upy, New Space budowały cokolwiek na przykład bezpośrednio dla Amerykanów, tylko najlepiej, żeby kontrolowały to leśne dziadki powiązane z Europejską Agencją Kosmiczną. Po prostu jest dławiony samorozwój.",
+    "start": 1341.0,
+    "end": 1402.0,
+    "tokens": 325,
+    "turn_start": 1341.0,
+    "turn_end": 1402.0,
+    "id": 107
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Nie stworzone są warunki, że Polska Agencja Kosmiczna, żeby tworzyła rynek przez wydawanie pieniędzy publiczne na polskie start-upy. To jest dopiero masakra ta Polska Agencja Kosmiczna. Dlatego, że to nie o to im chodzi.",
+    "start": 1402.0,
+    "end": 1414.0,
+    "tokens": 78,
+    "turn_start": 1402.0,
+    "turn_end": 1414.0,
+    "id": 108
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "To jest ciekawy wątek. Może to my, może to się od nas zacznie. Może my dojrzewamy do tego. Może ambicja was, nas wszystkich jest coraz większa.",
+    "start": 1403.0,
+    "end": 1414.0,
+    "tokens": 50,
+    "turn_start": 1403.0,
+    "turn_end": 1414.0,
+    "id": 109
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Tak naprawdę nie walczymy o to. Więc jeżeli nie walczymy, to trudno, żeby oni nas tam sami zapraszali, więc my stajemy się tylko podwykonawcą. Więc rzeczywiście warto jest, żeby ten głos tam wybrzmiał",
+    "start": 1403.12,
+    "end": 1414.72,
+    "tokens": 78,
+    "turn_start": 1403.12,
+    "turn_end": 1414.72,
+    "id": 110
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "To nie chodzi o to, żebyśmy mieli tu te sukcesy. To chodzi o podział pieniądza publicznego i przykładanie budzi między frakcjami polityczno-społecznymi w lepsze lub gorsze miejsca, a nie chodzi o żadną innowację. To jest rozwój zależny i konsekwentnie idziemy w tym kierunku. Cały wysiłek rozwój PKB, o czym pani mówiła, jest wynikiem wielkiego wysiłku społecznego od transformacji Polski Wyszyńskiego, która wyszła z fabryk, musiała się nauczyć angielskiego i później wystąpić na globalnym rynku pracy, a nie państwa, które absolutnie nic nie pomogło w tym zagraniu. A polski mit nauki budowany jest na Marii Curie-Skłodowskiej. A nawet Marii Skłodowskiej-Curie. A nawet Marii Skłodowskiej-Curie. Wiedziałem, że mnie o to poprawisz i dobrze, że to zrobiłeś. Ale chciałem powiedzieć, że jakbyśmy zapytali Polaka o współczesną polską naukowczynię, która robi wielkie rzeczy, to przecież nawet nie mają szansy się o tym nigdzie dowiedzieć. Tak, ale mówił Maciek o sukcesach np. Wojsk Obrony Cyberprzestrzeni, o kwantową dystrybucji klucza. Przepraszam, a dlaczego jest to sukces Wojska Obrony Cyberprzestrzeni? Bo tam nie ma realnych, bo pieniądze są w gąsienicy, w lufie, w amunicji, a nie w jakichś takich, nie wiadomo, czary marii. I się nie przyjmują, pozostawiają ich. Dokładnie tak. On ma święty spokój. Co się udało zrobić? Ile jest takich Karolów Molendów, który był dowódcą Wojsk Obrony Cyberprzestrzeni, gdy Błaszczak był ministrem obrony narodowej i jest dowódcą Wojsk Obrony Cyberprzestrzeni, gdy jest Kosiniak-Kamysz. Prawdopodobnie jest jedyny w Polsce. Ciągłość zachowana jest instytucjonalna. Generał Karol Molenda, szef Wojsk Obrony Cyberprzestrzeni. Są tutaj w tej sferze, my mamy enigma, mamy te swoje jakieś takie umiejętności. Faszerowanie właśnie enigmą. No tak, ale na przykład... Wróćmy do XVI wieku. Nie, słuchajcie, ale ja chciałem powiedzieć o XIX roku, nie o XVI wieku, a nie o enigmie.",
+    "start": 1414.0,
+    "end": 1534.0,
+    "tokens": 722,
+    "turn_start": 1414.0,
+    "turn_end": 1534.0,
+    "id": 111
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Zryw społeczny Piotra nie rozwiązał problemu tego, w jakiej on dzisiaj jest sytuacji. Pytałeś o to Piotrka, w jakiej sytuacji jest dzisiaj NCB i LIDS. Bez ekspertów, bez ludzi, bez możliwości finansowania. Chciałem powiedzieć o czymś większym. Przepraszam, ale to zabrzmi. O ambicjach Polaków. Mam takie wrażenie, że obserwuję, że my zaczynamy chcieć coraz więcej. Zaczynamy rozumieć, że nas ma coraz więcej stać. Zaczynamy widzieć, że mamy pracowitość, kreatywność, że mamy różne talenty i zaczynamy trochę oczekiwać coraz więcej. Że jest jakiś rodzaj takiego oddolnego... Było to widać przy CPK, kiedy pojawiły się bardzo istotne, dość masowe głosy, że dlaczego, nie przekreślajmy. Pojawiło się to właśnie przy profesorze Senkowskim, kiedy nawet ludzie nie rozumieli czego bronią, ale czuli, że ktoś chce im zabrać jakąś szansę rozwoju. I właśnie dlatego bronili. Jest coś takiego, że wy widzicie, że wśród nas... Półtorej minuty mamy, jak to się stało? Że my zaczynamy oczekiwać więcej? Że jesteśmy głodni czegoś ważniejszego i większego? Wydaje mi się, że jest taka sytuacja i rzeczywiście wreszcie chcemy podnieść tę głowę i poczuć, że samostanowimy o sobie. I mamy ambicje. I dobrym przykładem jest tutaj sytuacja Bielika. Nie wiem, czy na sali jest Sebastian Konradzki, bo był wcześniej ze mną na prelekcji. I on opowiadał taką historię, skąd się wziął Bielik. Był na spotkaniu wirtualnym tutaj chyba na... Nie pamiętam po prostu, z kim on udzielał wywiadu na YouTubie. I tam padło pytanie do niego, pół żartem, pół seria, że dlaczego Polska nie ma dużego modelu językowego. I to było dwa lata. I on mu to weszło tak na ambicje. No dobrze, to ja zrobię. I on powiedział. Ja mówię, ponieważ powiedziałem to publicznie, to zadziałam. No i potem zaczął chodzić i wszedł i opowiadał, że chce stworzyć model językowy. Przez dwa lata trzy tysiące uczestników. Oddolnie stworzony model językowy, który jest bardzo dobrze oceniany teraz.",
+    "start": 1414.0,
+    "end": 1535.0,
+    "tokens": 736,
+    "turn_start": 1414.0,
+    "turn_end": 1535.0,
+    "id": 112
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "i stąd znowu powrócę do tego, żeby świat nauki mógł być usieciowienny i tutaj, żeby mógł razem stanowić jedność, wtedy będzie to godna reprezentacja i rzeczywiście będziemy mogli się starać o dotację unijne w tych programach największych, a teraz rzadko nam się to zdarza, a nawet jak wystartujemy, to rzadko dostajemy, tak? Więc żeby móc tutaj to swoje miejsce zaznaczyć. No i czy Unia ma szansę? Ma szansę, tak, ale jest tak obecnie podzielona i jest też walka sił i to jest ten układ, który się zmienia. I pytanie, czy Stany Zjednoczone będą walczyć o ten prymat swój, który miał treść światową i dadzą ten parasol tutaj nam ochronny w sytuacji, kiedy Rosja jest, no cóż, coraz bardziej agresywna i też walczy o swoje, czy też będzie się wycofywała? I teraz pytanie, czy nas zostawi i w takim, no, sytuacji róbcie, co tam chcecie, czy też my będziemy potrafili podjąć tą rękawicę i uważam, że jako kraj nie powinniśmy się oglądać na wszystkich, którzy nas mają tutaj wybawić, bo już tak było w sytuacji drugiej wojny światowej. No i jakoś nikt tam nie przyszedł nam na pomoc za bardzo, tylko patrzyli, tak, więc musimy mieć to z tyłu głowy, że może być powtórka z tej sytuacji, musimy mieć możliwości tutaj zadziałania i też samostanowienia i to jest chyba takie najważniejsze. Nie wiem, na czym to polega. że cały czas patrzymy na innych i chcemy być poklepani po plecach, a nie potrafimy stać z tych kolan i powiedzieć, że tak, chcemy być tutaj kimś znaczącym",
+    "start": 1414.76,
+    "end": 1090.0,
+    "tokens": 527,
+    "turn_start": 1414.76,
+    "turn_end": 1090.0,
+    "id": 113
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Jest dyrektorem Centrum Innowacji Uniwersytetu WSB Merito, jest prezesem Instytutu Lema, ale być może kojarzą Państwo Maćka przede wszystkim jako fantastycznego twórcę YouTube'owego. Prowadzi kanał This Is It, a właściwie This Is IT. Fantastyczną robotę robi Maciek na YouTube. Jeśli jeszcze tego nie znacie, to koniecznie zasubskrybujcie jego kanał. Mówiąc krótko, rozmawia z naukowcami, jeździ po świecie, spotyka się z tymi najwybitniejszymi, jak prof. Roger Penrose, np. żyjącymi współcześnie naukowcami. To są właśnie te treści, które bardzo bym chciał, żeby się rozprostrzeniały w tej polskiej sferze internetowej jak najszerzej. Maćku, przez to, że wędrujesz, że podróżujesz, że nagrywasz te wywiady nie tylko w Polsce, ale jeździsz za tymi naukowcami w różne zakątki świata. Właśnie wypuściłeś film z takiego, być może jest to jedna z najpopularniejszych czy najważniejszych, obok MIT pewnie, takich politechnik czy takich technologicznych uczelni, najlepszych na świecie. Polecam państwu ten najnowszy film, Maćka. To pewnie trochę wiesz, podsłuchujesz, zerkasz, zaglądasz za kotarę, co się w tych laboratoriach, które pracują nad AI w tej chwili dzieje. To znaczy, nad czym oni tam pracują? Co oni tam trzymają w piwnicach? Czy oni trzymają w piwnicach coś takiego, czego się powinniśmy obawiać, czy nie? Jaki jest ten brakujący puzzle i co będzie, kiedy oni go już do tej układanki dołożą?",
+    "start": 1440.0,
+    "end": 1531.96,
+    "tokens": 500,
+    "turn_start": 1440.0,
+    "turn_end": 1531.96,
+    "id": 114
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Brakującym puzzlem oczywiście jest fizyka. To znaczy cały świat sztucznej inteligencji, wszystkie największe laboratoria, czy spojrzymy sobie na MEDE, czy na zespół googlowski, to wszystkie oczywiście poszukują odpowiedzi na pytanie, co zrobić, żeby przenieść świat fizyczny do świata cyfrowego.",
+    "start": 1531.96,
+    "end": 1552.4,
+    "tokens": 102,
+    "turn_start": 1531.96,
+    "turn_end": 1552.4,
+    "id": 115
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Tylko o XIX, bo jednym z twórców kryptografii kwantowej, jednym z ojców, człowiekiem, który napisał protokół taki najbardziej... Eckert. Tak, jest Artur Eckert, który ok, zrobił to w Oksfordzie, zrobił to w Anglii. Dzisiaj pracuje głównie w Singapurze i w Oksfordzie.",
+    "start": 1534.0,
+    "end": 1550.0,
+    "tokens": 102,
+    "turn_start": 1534.0,
+    "turn_end": 1550.0,
+    "id": 116
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "I to jest najciekawsza historia w Bieliku, że jest on oddolny i to jest bardzo polskie. Bez żadnego modelu biznesowego. Bo poza tym, ja jestem wielkim fanem Bielika, ale umówmy się, prawie każdy kraj europejski ma dziś swego Bielika. I my uwielbiamy myśleć, że to jest kolejny raz. Tak, zrobiliśmy to, a potem się rozejrzymy",
+    "start": 1535.0,
+    "end": 1551.0,
+    "tokens": 114,
+    "turn_start": 1535.0,
+    "turn_end": 1551.0,
+    "id": 117
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Ale to jest Polak, takie rzeczy się dzieją. Przepraszam Patrecjuszu, bo my na tym etnosie. Chodzi o to, żeby stworzyć takie warunki ludziom, żeby chcieli tu żyć, budować łańcuchy wartości i własne firmy, które będą zatrudniały ludzi",
+    "start": 1550.0,
+    "end": 1567.0,
+    "tokens": 88,
+    "turn_start": 1550.0,
+    "turn_end": 1567.0,
+    "id": 118
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Szwedzi dwa lata wcześniej. Ale ten oddolny coś nie jest wcale lepszy. Jak wszystkie małe modele jest przeciętny, umówmy się. Ma być może fajne zastosowanie się administracja publiczna w to wejdzie. Ta oddolność, to moim zdaniem jakby szukać tego klucza, to jest to. Tylko my nie umiemy budować oddolnych strategii.",
+    "start": 1551.0,
+    "end": 1568.0,
+    "tokens": 106,
+    "turn_start": 1551.0,
+    "turn_end": 1568.0,
+    "id": 119
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Próbowaliśmy zrobić to na różne sposoby i cały czas ten paradoks Moraweka pozostaje aktualny. Paradoks, który mówi o tym, jak to się dzieje, że z jednej strony mamy dzisiaj mechanizmy,",
+    "start": 1552.52,
+    "end": 1565.24,
+    "tokens": 62,
+    "turn_start": 1552.52,
+    "turn_end": 1565.24,
+    "id": 120
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "opracowaliśmy te trzy filary uczenia maszynowego, zdolne do tego, żeby rozwiązywać najgłębsze łamigłówki.",
+    "start": 1565.24,
+    "end": 1573.08,
+    "tokens": 43,
+    "turn_start": 1565.24,
+    "turn_end": 1573.08,
+    "id": 121
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "i będą produkowały rzeczy, które są potrzebne społeczeństwu do rozwoju.",
+    "start": 1567.0,
+    "end": 1572.0,
+    "tokens": 24,
+    "turn_start": 1567.0,
+    "turn_end": 1572.0,
+    "id": 122
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Nie umiemy robić oddolne zrywy. Słuchajcie, jeden z zdecydowanie",
+    "start": 1568.0,
+    "end": 1571.0,
+    "tokens": 26,
+    "turn_start": 1568.0,
+    "turn_end": 1571.0,
+    "id": 123
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "najfajniejszych paneli, w jakich ostatnio brałem udział. Zawsze taki moment, kiedy jest ten nerw, prawda? Oni się pięknie potrafią różnić. W dodatku prowadzący jest na chwilę na bocznym torze. Takie panele najbardziej lubię prowadzić. Joanna Szczegielniak, Maciej Kawecki, Alek Tarkowski, Jacek Bartosiak zasłużyli na państwa brawa. Bardzo dziękuję.",
+    "start": 1571.0,
+    "end": 1591.0,
+    "tokens": 131,
+    "turn_start": 1571.0,
+    "turn_end": 1591.0,
+    "id": 124
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "No i chodzi o to, że z tym jest tak skonstruowane, że jest to niemożliwe w Polsce. W związku z tym naprawdę od około 450 lat co pokolenie z maszynka, taki bęben wyrzucania albo co zdolniejszych, albo co bardziej zrozpaczonych na zewnątrz, na lepsze rynki, na lepszą stopę zwrotu.",
+    "start": 1572.0,
+    "end": 1592.0,
+    "tokens": 111,
+    "turn_start": 1572.0,
+    "turn_end": 1592.0,
+    "id": 125
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Mamy ten free reasoning, abstractional thinking w modelu O1, który gdzieś tam zaczyna już wykazywać cechy abstrakcyjnego rozumowania, ale cały czas roboty nie są zdolne do tego, żeby na naszą kobędę podejść i w sposób płynny w przestrzeni fizycznej przenieść szklankę z jednej części stołu do drugiej części stołu.",
+    "start": 1573.08,
+    "end": 1593.04,
+    "tokens": 101,
+    "turn_start": 1573.08,
+    "turn_end": 1593.04,
+    "id": 126
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Kto to zaprojektował? Kto ten bęben wytworzył?",
+    "start": 1592.0,
+    "end": 1595.0,
+    "tokens": 22,
+    "turn_start": 1592.0,
+    "turn_end": 1595.0,
+    "id": 127
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Co jest przyczyną tego? Oczywiście my tego dzisiaj nie wiemy. Wiemy o tym, że to uczenie nadzorowane, uczenie ze wzmocnieniem, wykorzystywanie warstwy językowej jest niewystarczające.",
+    "start": 1593.76,
+    "end": 1606.2,
+    "tokens": 68,
+    "turn_start": 1593.76,
+    "turn_end": 1606.2,
+    "id": 128
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Niemniejsza brawa Patrycjusz Rzeszga, prowadzący.",
+    "start": 1594.0,
+    "end": 1597.0,
+    "tokens": 21,
+    "turn_start": 1594.0,
+    "turn_end": 1597.0,
+    "id": 129
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Generalnie najpierw świat, system kapitalistyczny.",
+    "start": 1595.0,
+    "end": 1598.0,
+    "tokens": 16,
+    "turn_start": 1595.0,
+    "turn_end": 1598.0,
+    "id": 130
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Potem nasza klasa panująca szlachta nie umiała wyjść naprzeciw zmianom. Potem zaborcy nie pomagali. Potem II Rzeczpospolita miała bardzo trudne i generalnie system światowy.",
+    "start": 1598.0,
+    "end": 1608.0,
+    "tokens": 61,
+    "turn_start": 1598.0,
+    "turn_end": 1608.0,
+    "id": 131
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Ja jeszcze jako zapasowy prowadzący",
+    "start": 1606.0,
+    "end": 1609.0,
+    "tokens": 10,
+    "turn_start": 1606.0,
+    "turn_end": 1609.0,
+    "id": 132
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "I poszukujemy dzisiaj, głównie Laboratorium METY w Paryżu, nad tym pracuje Jana Leku, poszukujemy odpowiedzi na pytanie, co zrobić. Najbardziej prawdopodobną hipotezą jest oczywiście to, że my nie znamy natury rzeczy. Oczywiście to, że my nie znamy natury rzeczy,",
+    "start": 1606.2,
+    "end": 1623.36,
+    "tokens": 95,
+    "turn_start": 1606.2,
+    "turn_end": 1623.36,
+    "id": 133
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "A można to jakoś przełamać dzisiaj? Generalnie wojna, która teraz się rozpoczęła w 2018 roku jest o zmianę tego systemu. I musimy się zastanowić, czy my jesteśmy rewizjonistą czy obrońcą status quo. Bo to co się zaczęło w 2018 roku jest wielką wojną o zmianę dominacji Atlantyku",
+    "start": 1608.0,
+    "end": 1624.0,
+    "tokens": 102,
+    "turn_start": 1608.0,
+    "turn_end": 1624.0,
+    "id": 134
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "pozwoliłbym sobie na taką zapasową puentę. Bo moim zdaniem tu chodzi trochę o kompleksy. Zobaczcie, na początku zostało powiedziane o borówce. Że eksportujemy tę borówkę za granicę. Tylko jaka jest ta borówka? Amerykańska.",
+    "start": 1609.0,
+    "end": 1622.0,
+    "tokens": 88,
+    "turn_start": 1609.0,
+    "turn_end": 1622.0,
+    "id": 135
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Powinna być borówka mazowiecka, żeby chociaż coś było po nas na tym świecie. Mieli państwo 15 minut przerwy, tak zwane wietrzenie sali. Ostatni panel o 15.45 będzie dotyczył człowieka i dobrostanu. Czyli tego, o czym jeszcze na tej scenie przez dwa dni nie rozmawialiśmy. Co myślę, że będzie fantastyczną klamrą",
+    "start": 1622.0,
+    "end": 1640.0,
+    "tokens": 115,
+    "turn_start": 1622.0,
+    "turn_end": 1640.0,
+    "id": 136
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "nie znamy pełnej natury świata, nie znamy natury rzeczywistości, nie wiemy jak funkcjonuje ludzki mózg ze wszystkimi jego detalami. Nie wiemy na przykład, wiem o tym, że na wszystko co modelujemy w przestrzeni cyfrowej wpływ powinna mieć grawitacja, no bo jeżeli ma mieć wierną odzwierciedleniem",
+    "start": 1623.36,
+    "end": 1641.36,
+    "tokens": 106,
+    "turn_start": 1623.36,
+    "turn_end": 1641.36,
+    "id": 137
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "nad właśnie co jest centrum, co jest peryferią. U tego najgorsze co można teraz zrobić to tych ludzi zatrzymywać w Polsce. Dlatego, że jeżeli ich zatrzymasz w Polsce, to oni w poczuciu frustracji nie zrobią tego, co by zrobili wyjeżdżając za granicą. To przynajmniej mamy tam polskich ambasadorów. Mam pomysł na to, co można by zrobić.",
+    "start": 1624.0,
+    "end": 1642.0,
+    "tokens": 126,
+    "turn_start": 1624.0,
+    "turn_end": 1642.0,
+    "id": 138
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "dla całej sceny dyskusji. Wróćcie proszę niebawem.",
+    "start": 1640.0,
+    "end": 1644.0,
+    "tokens": 21,
+    "turn_start": 1640.0,
+    "turn_end": 1644.0,
+    "id": 139
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "rzeczywistości analogowej,",
+    "start": 1641.36,
+    "end": 1643.36,
+    "tokens": 8,
+    "turn_start": 1641.36,
+    "turn_end": 1643.36,
+    "id": 140
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "I może wesprzyjcie to, bo macie ogromną mnożność społeczną.",
+    "start": 1642.0,
+    "end": 1645.0,
+    "tokens": 25,
+    "turn_start": 1642.0,
+    "turn_end": 1645.0,
+    "id": 141
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "no to ten punkt wyjścia jest fundamentalny, ale nie wiemy na przykład co jest źródłem grawitacji. My tylko wiemy, że grawitacja istnieje. Ale nie wiemy co jest źródłem grawitacji, co tworzy grawitację. Już mówiłeś o Penrose, czyli o wszystkie tematy związane ze świadomością. Czym jest świadomość? Czy ona rodzi się na poziomie kwantowym? Czy rodzi się na poziomie klasycznym? Jeżeli rodzi się na poziomie klasycznym, no to będziemy w stanie ją zamknąć w system binarny. Jeżeli nie, no to już będziemy wiedzieć o tym, że nie. To są wszystko te pytania, które dzisiaj kłopotają świat sztucznej inteligencji. To jest ten",
+    "start": 1643.36,
+    "end": 1677.36,
+    "tokens": 229,
+    "turn_start": 1643.36,
+    "turn_end": 1677.36,
+    "id": 142
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Ja przecież tylko tą geopolityką się zajmuję, nikt tego poważnie w Polsce nie bierze. No bo co Polska może zrobić? Ale generalnie pomyślmy o tym. A może byśmy spowodowali, żeby politycy uchwalili ustawę, że budujemy miasto od początku, które podobnie jak kiedyś miasto na prawie magdeburskim jest na określonych prawach. Gdzie nie ma tych starych metod. Jest nowe. Taka idylla. Tak, zupełnie nowe. No skoro budujemy CPK i będzie miasto powstawać tam, to dlaczego nie zbudować tam smart city? A my z Jackiem będziemy burmistrzami tego miasta.",
+    "start": 1645.0,
+    "end": 1678.0,
+    "tokens": 192,
+    "turn_start": 1645.0,
+    "turn_end": 1678.0,
+    "id": 143
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "sparty filar, który dzisiaj próbujemy przeskoczyć. I jak spojrzymy sobie na te chociażby tą ostatnio sprzed trzech tygodni konferencję NVIDI, która spektakularnie chciała pokazać nam swoje roboty, no ona jest tak naprawdę dowodem na to,",
+    "start": 1677.36,
+    "end": 1693.36,
+    "tokens": 82,
+    "turn_start": 1677.36,
+    "turn_end": 1693.36,
+    "id": 144
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Dlaczego wy?",
+    "start": 1678.0,
+    "end": 1680.0,
+    "tokens": 6,
+    "turn_start": 1678.0,
+    "turn_end": 1680.0,
+    "id": 145
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "jak daleko jeszcze dzisiaj w tym obszarze jesteśmy. Czyli mówiąc wprost, to nad czym dzisiaj pracuje świat, to jest próba przeniesienia praw fizyki do świata cyfrowego. Czyli mówiąc wprost, AI, która rozumie przestrzenność, trójwymiarowość wszechświata.",
+    "start": 1693.36,
+    "end": 1711.36,
+    "tokens": 96,
+    "turn_start": 1693.36,
+    "turn_end": 1711.36,
+    "id": 146
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "To jest bardzo fajne przejście od mnie, co robią te laby, do mówienia, co robi świat. Bo wydaje mi się, że żyjemy w tej takiej sytuacji, gdy wszyscy spoglądamy na te laboratoria i mówimy, panowie, to co my wszyscy teraz budujemy? A oni po pierwsze mówią, nie, to my budujemy i to my jesteśmy wyjątkowi. I pamiętajmy, uważam, geopolityka częściej, prawda, to są tematy typu USA i Chiny, czy Ukraina i Rosja. Uważam, że jest też geopolityka między tymi największymi labami i resztą świata, czy społecznościami. I to nie mówię tego ja, tylko mówią to sami technolodzy. To znaczy, gdy jest masa teraz książek, takie jak pomysły na Network State, czy ta najnowsza książka współzałożyciela Palantira, która się nazywa Technological Empire. I to są technopolityczne, geopolityczne wizje mocy korporacji zasilanych potężnymi technologiami. I to mi się wydaje bardzo ważne, bo na przykład uważam świetnie, że zaglądasz do tych laboratoriów, bo jesteśmy jako społeczeństwa w trudnej sytuacji. My trochę ufamy dosyć zamkniętym firmom. Paradoksalnie, mówiłem, one niektórymi rzeczami się dzielą niezmiernie hojnie. Są też takie trendy, żeby pewne rzeczy usłyszeć, bo to też ma sens biznesowy. Ale mam wrażenie, że tymi takimi największymi zagadkami jednak się nie dzielą. I my musimy ufać tym firmom, w jakim to wszystko kierunku zmierza. No ale ufamy... w jakim to wszystko kierunku zmierza. Ale ufamy na przykład Ilii Sudskeverowi, który mówi, że już pewne dotychczasowe modele skalowania AI się nie sprawdzają, teraz stawiamy na nowe i trzeba chwilę pomyśleć i przypomnieć sobie, że on właśnie założył firmę, która próbuje dostać wielomiliardowe dofinansowanie z funduszy Venture Capital, dokładnie na ten pomysł. I to mnie bardzo zastanawia i to też uważam jest geopolityką, jak jednak wielkie pieniądze skrzywiają fundamentalne pytania o to, dokąd to zmierza.",
+    "start": 1711.36,
+    "end": 1831.0,
+    "tokens": 667,
+    "turn_start": 1711.36,
+    "turn_end": 1831.0,
+    "id": 147
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Bardzo dziękuję. Jeszcze dopytam. Maćku, ty mówiłeś, czy to, o czym ty mówiłeś o odnalezieniu się sztucznej inteligencji w przestrzeni fizycznej, w sensie w kuchni, to jest coś, co się nazywa tym testem cappuccino, żeby wpuścić robota do kuchni, w której nigdy go nie było i po prostu poprosić o zrobienie kawy. Znaczy on musi sam ogarnąć resztę. To o to chodzi?",
+    "start": 1831.0,
+    "end": 1851.84,
+    "tokens": 143,
+    "turn_start": 1831.0,
+    "turn_end": 1851.84,
+    "id": 148
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "No tak i to o to chodzi, dokładnie o to chodzi. Nie chodzi o to, żeby case by case mapować tą przestrzeń, ponieważ kiedy ją zmapujemy, stworzymy cyfrowego bliźniaka tej przestrzeni, to ten robot będzie potrafił się w niej znaleźć. No i ten paradeks Moraweka mówi o tym, że wbrew pozorom, wbrew temu, co do tej pory myśleliśmy w nauce, myślenie abstrakcyjne nie wymaga dużej mocy obliczeniowej, a więc na poziomie wysokopoziomowym, ale przeniesienie jej na poziom percepcji niskopoziomowego, czyli tego, co wykonujemy, wymaga ogromnej mocy obliczeniowej. Problem polega na tym, że ta percepcja ma fundamentalny wpływ również na to, co się dzieje na poziomie abstrakcyjnym, dlatego, bo my odbieramy dzisiaj jednak świat różnego rodzaju zmysłami, które zakotwiczone są w naszym organizmie. No i na tym dzisiaj pracują laboratoria, żeby spróbować jednak dojść do tego punktu, w jaki sposób to zrobimy. No nikt tego dzisiaj jeszcze chyba do końca nie wie, ale na pewno to będą najbliższe lata.",
+    "start": 1851.88,
+    "end": 1912.68,
+    "tokens": 345,
+    "turn_start": 1851.88,
+    "turn_end": 1912.68,
+    "id": 149
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Bardzo dziękuję. Jacek Bartosiak jest niewątpliwie człowiekiem, który, proszę Państwa, sprawił, że Polacy en masse, no pewnie nie wszyscy, ale że to się stało masowe, mówiąc krótko, że zaczęliśmy się interesować dzięki jego przeróżnym wystąpieniom, przeróżnym wykładom, przeróżnym wywiadom, przeróżnym książkom, być może przede wszystkim dzięki książkom, no takimi dużymi tematami, prawda, geopolityką czy geostrategią,",
+    "start": 1912.68,
+    "end": 1935.96,
+    "tokens": 152,
+    "turn_start": 1912.68,
+    "turn_end": 1935.96,
+    "id": 150
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "zaczęliśmy myśleć o takich, no interesować się po prostu takimi globalnymi układankami. Zaczęło nas to po prostu frapować, to jest niewątpliwa zasługa.",
+    "start": 1935.96,
+    "end": 1946.8,
+    "tokens": 56,
+    "turn_start": 1935.96,
+    "turn_end": 1946.8,
+    "id": 151
+  },
+  {
+    "speaker": "UNKNOWN",
+    "text": "No to trochę w kontekście tego, o czym tutaj teraz mówimy.",
+    "start": 1946.8,
+    "end": 1950.28,
+    "tokens": 23,
+    "turn_start": 1946.8,
+    "turn_end": 1950.28,
+    "id": 152
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Jest świetna książka, może niektórzy z Państwa już są po lekturze, Wojna o czipy, książka, która być może opowiada o tym, co za chwilę przed nami, ale jestem ciekaw, co Pan myśli o jednym konkretnym ruchu, właściwie biznesowym, korporacyjnym ruchu, on się chyba jeszcze zaczął, czy został zapowiedziany przez administrację Joe Bidena, ale wydarzył się teraz za Donalda Trumpa, myślę o przeniesieniu tej fabryki TCMC chyba, tak się nazywa ten tajwański producent czipów, który się przenosi z niektórymi fabrykami z Tajwanu do Stanów.",
+    "start": 1950.28,
+    "end": 1983.2,
+    "tokens": 196,
+    "turn_start": 1950.28,
+    "turn_end": 1983.2,
+    "id": 153
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "z niektórymi fabrykami z Tajwanu do Stanów Zjednoczonych. Jeżeli Amerykanie mieli jakieś preteksty, żeby bronić Tajwanu, być może za wszelką cenę, to były te czipy, które tam były produkowane, ważne także dla Amerykanów. Pytanie, czy teraz kiedy to jest przenoszone z Tajwanu do Stanów Zjednoczonych, to te argumenty Amerykanie tracą, czy bardzo się mylę?",
+    "start": 1980.0,
+    "end": 2001.0,
+    "tokens": 134,
+    "turn_start": 1980.0,
+    "turn_end": 2001.0,
+    "id": 154
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "To jest też bardzo złożony temat, dlatego że tak ostatecznie nie przenoszą za bardzo Ci Tajwańczycy tych fabryk z bardzo wielu powodów. Jednym z tych powodów jest, mówiąc zupełnie brutalnie, niska kultura techniczna w Stanach Zjednoczonych wskutek deindustrializacji. Co innego jest mieć w Dolinie Krzemowej geniuszy, co innego jest mieć milion spośród 350 czy 340 milionów wybitnych osób o świetnym wykształceniu, wysokiej inteligencji, bardzo rezolutnych i przedsiębiorczych,",
+    "start": 2002.0,
+    "end": 2037.0,
+    "tokens": 165,
+    "turn_start": 2002.0,
+    "turn_end": 2037.0,
+    "id": 155
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "a do tego 60% społeczeństwa na poziomie intelektualnym szóstej klasy podstawówki, bo tak jest teraz w Stanach Zjednoczonych i skutek tego, jak gdyby przyczyną tego jest kapitalizm finansowy i głęboka deindustrializacja, która zaczęła się na początku lat 70. Po prostu można było robić pieniądze nie pracując w przemyśle i nie zarabiając na przemyśle. Długi temat, nie będę rozwijał i przy produkcji półprzewodników jest potrzebna bardzo wysoka kultura techniczna,",
+    "start": 2037.0,
+    "end": 2074.0,
+    "tokens": 169,
+    "turn_start": 2037.0,
+    "turn_end": 2074.0,
+    "id": 156
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "której braki czasami nawet momentami przejawia się w złej organizacji pracy, w kosztach dodatkowych i tak dalej. Wielokrotnie się skarżyli ci włodarze w tych fabrykach, że Amerykanie ich przymuszają, ale nie bardzo to będzie działać, więc jest to nierozstrzygnięta sprawa.",
+    "start": 2074.0,
+    "end": 2096.0,
+    "tokens": 93,
+    "turn_start": 2074.0,
+    "turn_end": 2096.0,
+    "id": 157
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Dotyczy to zresztą bardzo wielu technologii nowoczesnych w Stanach Zjednoczonych, bo co innego jest wymyślać, a co innego jest potem w materiale to zrobić i to na dużą skalę. Elon Musk wielokrotnie o tym mówił i to z czego kiedyś zachód był znany, czyli podejmowanie ryzyka przedsiębiorczego, podejmowanie ryzyka budownictwa określonego, budowy mostów, okrętów, statków, promów kosmicznych,",
+    "start": 2096.0,
+    "end": 2123.0,
+    "tokens": 144,
+    "turn_start": 2096.0,
+    "turn_end": 2123.0,
+    "id": 158
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "prototypowanie szybkie. Wskutek różnego rodzaju zjawisk, w tym kapitalizmu finansowego w dużej mierze zostało wytracone i to jest poważny problem. Nie wiem jak to się konkretnie będzie przekładało na rozwój AI, to na pewno tutaj pozostali uczestnicy dużo bardziej kompetentnie ode mnie się wypowiedzą.",
+    "start": 2123.0,
+    "end": 2143.0,
+    "tokens": 99,
+    "turn_start": 2123.0,
+    "turn_end": 2143.0,
+    "id": 159
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Natomiast myślę, że jest to głęboki problem i skoro powiedzieliśmy o Unii Europejskiej, to dobrze by było, żeby Unia Europejska przez swoje słabne regulacje zadbała, żeby to się nie wydarzyło. Unia Europejska póki co jeszcze produkuje różne rzeczy, jest behemotem eksportowym, ma wysokiej jakości produkcję, bo tak wszyscy narzekamy na tę Unię, Wszyscy narzekamy na tą Unię, ale to jest absolutny behemot eksportowy świata ze względu na jakość produkcji w Europie, co daje nam model określonego funkcjonowania standardu życiowego, typu, że się we Francji i Niemczech za dużo nie pracuje, bo mamy wystarczającą marżę. Cała ta rewolucja AI, sztucznej inteligencji dobrze się wkomponowała, żeby Europa miała pomysł na to w tym zakresie. Ja się nie czuję wybitnie kompetentny, ale to czytam ten raport, tamten raport i Europa zostaje w tyle.",
+    "start": 2143.0,
+    "end": 2195.0,
+    "tokens": 288,
+    "turn_start": 2143.0,
+    "turn_end": 2195.0,
+    "id": 160
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Ale to musi też mieć wymiar fizycznego wykonywania tych rzeczy, o których tutaj Pan wspominał, że trzeba mieć te karty pamięci, trzeba mieć te wszystkie rzeczy. W dobie teraz rywalizacji geopolitycznej dobrze by było, żeby to było wykonywane na przykład na kontynencie europejskim fizycznie.",
+    "start": 2195.0,
+    "end": 2214.0,
+    "tokens": 102,
+    "turn_start": 2195.0,
+    "turn_end": 2214.0,
+    "id": 161
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Jaka jest szansa na powodzenie wizji pomysłów Trumpa? To jest trudne słowo reindustrializację, wolę mówić o renesansie przemysłu, bo się łatwiej wymawia. Jaka jest szansa, że on dopnie swego, że on przekona do tego, że te fabryki wrócą?",
+    "start": 2214.0,
+    "end": 2228.0,
+    "tokens": 89,
+    "turn_start": 2214.0,
+    "turn_end": 2228.0,
+    "id": 162
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "No i tu jest oczywiście zagadnienie nie ma na to mądrych, bo ja się wypowiem oczywiście z własnego punktu widzenia, przy czym naprawdę nie ma mądrych, dlatego, że w historii świata nigdy jeszcze nie próbowano zrobić tego, co robi Trump w tej chwili. Nikt nie ćwiczył tego.",
+    "start": 2228.0,
+    "end": 2246.0,
+    "tokens": 99,
+    "turn_start": 2228.0,
+    "turn_end": 2246.0,
+    "id": 163
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Nie, absolutnie nie, dlatego, że Amerykanie byli na ścieżce wzrostowej, mieli kapitalizm przemysłowy. To jest absolutnie nieporównywalne, nikt nie rolował świata globalnej gospodarki w ten sposób, próbując zachować prymat dolarowy, czyli walutę rezerwowej, czyli zjeść ciastko i mieć ciastko, jednocześnie dokonać reindustrializacji. Więc ja wypowiem swoje zdanie, ono jest dosyć twarde. Uważam, że Amerykanie nie mają szans na reindustrializację, dzięki obietnicy której Trump wygrał wybory,",
+    "start": 2246.0,
+    "end": 2277.0,
+    "tokens": 180,
+    "turn_start": 2246.0,
+    "turn_end": 2277.0,
+    "id": 164
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "czyli stalownie w Ohio, przemysł ciężki, chemia i tak dalej. Myślę, że mają szansę, jeżeli dokona się rewolucja kulturowa w Stanach i włodarze nowego przemysłu technologicznego, Anduril, Palantir, tego typu, SpaceX. Ci, którzy już mają inne podejście do tego, co jest prawdziwą gospodarką przemysłową,",
+    "start": 2277.0,
+    "end": 2302.0,
+    "tokens": 114,
+    "turn_start": 2277.0,
+    "turn_end": 2302.0,
+    "id": 165
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "jeżeli oni utworzą nowe cykle technologiczne i Amerykanie będą mieli fabryki z robotami, ale już nie wszystkiego, tylko niektórych rzeczy. To w to wierzę, tylko to i będzie bardzo wąska ścieżka przez góry, bo to będzie wymagało bardzo wielu zręcznych ruchów strategicznych. Ja na razie nie widzę takiej zręczności w administracji amerykańskiej. Innymi słowy uważam, że Amerykanie przegrają rywalizację, tylko że przegrywając boję się, że mogą podpalić nam świat, tak jak zrobił Trump zresztą półtora tygodnia temu, ze skutkami również dla rozwoju sztucznej inteligencji i podziale świata co najmniej na chińską i około chińską, a może europejską i amerykańską.",
+    "start": 2302.0,
+    "end": 2343.0,
+    "tokens": 238,
+    "turn_start": 2302.0,
+    "turn_end": 2343.0,
+    "id": 166
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "a może europejską i amerykańską. Natomiast absolutnie nie wierzę w przywrócenie reindustrializacji. Amerykanie produkują wszystko, robią i tak dalej.",
+    "start": 2340.0,
+    "end": 2351.0,
+    "tokens": 53,
+    "turn_start": 2340.0,
+    "turn_end": 2351.0,
+    "id": 167
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Dreszcz mnie przeszedł, nie wiem czy Państwo mają podobnie, kiedy słyszeliśmy przed momentem, że przy okazji może podpalić świat. A czy przegrana Donalda Trumpa i niezrealizowanie tej jego wizji to się równa i jest równoznaczne ze zwycięstwem Chin?",
+    "start": 2351.0,
+    "end": 2367.0,
+    "tokens": 86,
+    "turn_start": 2351.0,
+    "turn_end": 2367.0,
+    "id": 168
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Nie, raczej Chiny nie będą miały takiej pozycji jak Stany Zjednoczone. Dominacja amerykańska była zupełnie wyjątkowa po II wojnie światowej. Nie było innych silnych przeciwników i Amerykanie kontrolowali przepływy strategiczne. To jest niepowtarzalna sytuacja. Chiny mają Rosję silną, mają Japonię, mają Koreę Południową, mają Indię i Stany Zjednoczone, Zachodnie Półkuli.",
+    "start": 2367.0,
+    "end": 2389.0,
+    "tokens": 133,
+    "turn_start": 2367.0,
+    "turn_end": 2389.0,
+    "id": 169
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Tego się nie da, będzie raczej zrównoważony system. Trudno powiedzieć co to będzie oznaczało dla rozwoju technologicznego. Bardziej by mi zależało, żeby Amerykanie zeszli z tego, kiedy stały bez wojny.",
+    "start": 2389.0,
+    "end": 2405.0,
+    "tokens": 72,
+    "turn_start": 2389.0,
+    "turn_end": 2405.0,
+    "id": 170
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "To nie jest pewne, że zejdą bez wojny.",
+    "start": 2405.0,
+    "end": 2408.0,
+    "tokens": 15,
+    "turn_start": 2405.0,
+    "turn_end": 2408.0,
+    "id": 171
+  },
+  {
+    "speaker": "UNKNOWN",
+    "text": "Raczej to jak się zachowują świadczy o tym, że czekają nas potężne turbulencje. Ja uważam, że mogliby bardziej rozsądnie do tego podejść.",
+    "start": 2408.0,
+    "end": 2422.0,
+    "tokens": 51,
+    "turn_start": 2408.0,
+    "turn_end": 2422.0,
+    "id": 172
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Ale nie ukrywam, że to jest pogląd, który nie jest powszechnie podzielany. Mój ten pogląd przedstawiony nie jest powszechnie podzielany, w tym w naszej drogiej ojczyźnie.",
+    "start": 2422.0,
+    "end": 2430.0,
+    "tokens": 61,
+    "turn_start": 2422.0,
+    "turn_end": 2430.0,
+    "id": 173
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Każdy, jak to mówił Piłsudski, każdy ma swoją rację, jak co innego.",
+    "start": 2430.0,
+    "end": 2436.0,
+    "tokens": 29,
+    "turn_start": 2430.0,
+    "turn_end": 2436.0,
+    "id": 174
+  },
+  {
+    "speaker": "UNKNOWN",
+    "text": "To będzie trudne. Nie chciałbym tutaj zabierać dużo czasu.",
+    "start": 2436.0,
+    "end": 2442.0,
+    "tokens": 22,
+    "turn_start": 2436.0,
+    "turn_end": 2442.0,
+    "id": 175
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Przede wszystkim trudność polega na alokacji kapitału i pochodzeniu tego kapitału.",
+    "start": 2442.0,
+    "end": 2449.0,
+    "tokens": 28,
+    "turn_start": 2442.0,
+    "turn_end": 2449.0,
+    "id": 176
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Jeżeli chce się zrobić reindustrializacji, to trzeba niestety zarządzać kapitałem i mówić mu ile ma czekać na stopę zwrotu i jaką ma dostać. I w ogóle to nie jest pewne. W świecie anglosaskim, prawnie, obyczajowo, filozoficznie kapitał nie jest do tego przyzwyczajony, że mu się będzie mówić.",
+    "start": 2449.0,
+    "end": 2472.0,
+    "tokens": 109,
+    "turn_start": 2449.0,
+    "turn_end": 2472.0,
+    "id": 177
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "A jednocześnie amerykański sukces Doliny Krzemowej wynikał z recyklingu dolarowego. To znaczy, że był bardzo tani kapitał na przepalanie, bo wszystko to, co my zarobiliśmy w Eurazy, z powodu układu bezpieczeństwa oraz wolności przepływów strategicznych, żeby kupić ropę itd.",
+    "start": 2472.0,
+    "end": 2491.0,
+    "tokens": 95,
+    "turn_start": 2472.0,
+    "turn_end": 2491.0,
+    "id": 178
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "musieliśmy kupować obligacje amerykańskie albo inne aktywa, a zatem wprowadzaliśmy dolara z powrotem do systemu amerykańskiego. Amerykanie mieli łatwy kapitał, w związku z tym mogli przepalać Dolinę Krzemową i zawsze coś wyjdzie. Jeżeli amerykanie będą dalej tak przegrywali wojnę handlową, jak w zeszłym tygodniu, to nie będą mieli tego taniego kapitału. I raptem ten cały dom skart runie, bo mają wielki dług. I jeżeli będą się bronić przed bankructwem za wszelką cenę, to podpalą. I to jest wielkie niebezpieczeństwo. I to jest wielkie niebezpieczeństwo.",
+    "start": 2491.0,
+    "end": 2522.0,
+    "tokens": 210,
+    "turn_start": 2491.0,
+    "turn_end": 2522.0,
+    "id": 179
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Pociszające jest to już naprawdę kończąc, że w toku takich wielkich wojen systemowych, takich rywalizacji jest wielkie przyspieszenie rozwoju technologicznego. Dlatego właśnie, żeby mieć przewagę nad innymi, jest przyspieszenie znaczne rozwoju technologicznego i jest tak zawsze w historii świata. Czyli pokój raczej uspokaja, a rywalizacja geopolityczna znacząco przyspiesza przełomowe technologie. Tak, to prawda. Taka jest smutna historia cywilizacji Homo Sapiens. Dżentelmen, który siedzi w samym środku tej sceny, Alek Tarkowski, mam wrażenie, nie wiem czy Państwo podzielają mój pogląd, w którymś momencie zdradzał takie sygnały, jakby go korciła, żeby to skomentować. Może się mylę.",
+    "start": 2522.0,
+    "end": 2561.0,
+    "tokens": 246,
+    "turn_start": 2522.0,
+    "turn_end": 2561.0,
+    "id": 180
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Był jakiś taki moment, ale on już... Uciekł. Zagapiłem się w ogórzka, ale może co innego powiem. A propos Dual Use, bo to mi się wydaje strasznie ciekawa kategoria, na którą można patrzeć z perspektywy, na której Pan się zna, takiej militarnej.",
+    "start": 2561.0,
+    "end": 2577.0,
+    "tokens": 84,
+    "turn_start": 2561.0,
+    "turn_end": 2577.0,
+    "id": 181
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Ja o niej myślę z perspektywy społecznej, bo to jest wielkie wyzwanie, co to znaczy być w społeczeństwie, w społeczeństwie bym tak powiedział, Dual Use. To się jakoś tak zakrada do nas bardzo powoli i ciekawe jest to, mam wrażenie, jest przyjmowane, nie chcę powiedzieć bezkrytycznie, ale dużej debaty społecznej nie ma. Gdy w Stanach jakieś chyba pięć lat temu pojawił się temat Dual Use sztucznej inteligencji,",
+    "start": 2577.0,
+    "end": 2599.0,
+    "tokens": 150,
+    "turn_start": 2577.0,
+    "turn_end": 2599.0,
+    "id": 182
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "był to taki temat, że Google podpisał duży kontrakt na system MAVEN, który był takim systemem inteligencji właśnie wojskowej. No to przede wszystkim pracownicy się zbuntowali. To był właśnie pierwszy taki przykład buntu IT, którzy mówili nie naszymi rękami, to nie będzie powstawać.",
+    "start": 2599.0,
+    "end": 2617.0,
+    "tokens": 91,
+    "turn_start": 2599.0,
+    "turn_end": 2617.0,
+    "id": 183
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "U nas w którymś momencie wokół tych różnych zamieszań, nie wiem czy Państwo śledzą, wokół Instytutu Badawczego IDEAS, wokół NCBR-u pojawił się nagle wątek, że te działania będą też finansowane przez MON, że się prawi Dual Use. I moim zdaniem wszyscy mówią OK, być może mówimy OK, bo jesteśmy w miejscu w jakim jesteśmy. Chciałem jeszcze powiedzieć, że wczoraj byłem na dosyć przejmującym spotkaniu z Centrum Sztuki Współczesnej, z ukraińskim artystą, który początkowo był rzeźbiarzem, potem się przekwalifikował na artystę Nowych Mediów, założył prywatną szkołę sztuki Nowych Mediów, która podobno jest w ogóle instytucją w Kijowie, bo państwowe uczelnie umownie nie potrafią uczyć Photoshopa, ale nadeszła wojna i jak to mu powiedział bardzo skrótowo, bo nie może za dużo mówić, został inżynierem dronowym i tak zwanym piratem, czyli cywilem pracującym na froncie. I to było przejmujące z nim rozmawiać, bo to jest człowiek Dual Use, to jest człowiek, który ma skillsy takie jak Państwo. On tam puszczał też filmy, jak komponuje na przykład muzykę elektroniczną, używając różnego rodzaju sprzętu, którym nic nie mówiła pewnie połowa z Państwa by to popodłączała tak jak Pan generator i nagle ciach w sytuacji wojny wszystko się przesuwa. I to jest to, to przyspieszenie, tylko wydaje mi się, co jest ważne dla nas w Polsce, gdzie dzięki Bogu wiem, że mamy już wojnę hybrydową, ale na szczęście kinetycznej nie mamy, jak nie czekać na ten moment i jak wymyślać taki Dual Use, który dla mnie jest na przykład ważny, zachowuje też wartości demokracji.",
+    "start": 2617.0,
+    "end": 2703.0,
+    "tokens": 557,
+    "turn_start": 2617.0,
+    "turn_end": 2703.0,
+    "id": 184
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "który dla mnie jest na przykład ważny, zachowuje też wartości demokratyczne, bo ten artysta wyraźnie mówił, że tam gdzieś już jego dusza naprawdę trafia na trudne momenty. Jak my mamy tą naszą demokratyczną duszę obronić? To mi się wydaje fundamentalne wyzwanie.",
+    "start": 2700.0,
+    "end": 2715.0,
+    "tokens": 94,
+    "turn_start": 2700.0,
+    "turn_end": 2715.0,
+    "id": 185
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "To jest bardzo ciekawe co powiedziałeś, bo AI będzie absolutnie wprowadzało robotykę na pole walki, co będzie generowało wielką ulgę dla społeczeństwa, bo nie będzie masowych armii z milionami trupów, przynajmniej do pewnego momentu, dopóki nie zostanie użyte to w sposób inny niż tradycyjny. Natomiast będzie wywoływało głębokie dylematy moralne, prawne i tego rodzaju rzeczy. Wchodzimy w ogóle w fuzję cywilno-wojskową. Stare systemy wojskowe nie działają i raczej systemy, które są zarówno cywilne jak i wojskowe będą dawały odpowiedź. I AI jest tutaj łącznikiem, jest kluczem do tego wszystkiego, tak jak ja rozumiem na swój zupełnie nie inżynierski sposób. Także ja uważam, że powinny być wszystkie ręce na pokład w Polsce, również w tej modernizacji wojskowej, żebyśmy właśnie na to Big Data Analysis połączony z robotyką, żeby w tą stronę pójść zamiast kupować te gąsienice, czołgi, pancerze, jakieś absurdy zupełnie, tylko pójść w tą stronę. To jest naprawdę wielkie wyzwanie i wygrać też przyszłość, bo zbudować łańcuch wartości, o których tutaj mówiliście Państwu. To jest wielka szansa, zwłaszcza, że wydajemy tak dużo pieniędzy na to wojsko, do zbrojenia i dobrze byłoby nie przypalić tego na niepotrzebne rzeczy.",
+    "start": 2715.0,
+    "end": 2807.0,
+    "tokens": 437,
+    "turn_start": 2715.0,
+    "turn_end": 2807.0,
+    "id": 186
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Maćku, mam wrażenie, że chciałeś coś dodać, bo być może jest tak, że Maciej Kawecki, który eksploruje różne laboratoria, nie tylko za granicą, ale być może przede wszystkim w Polsce, on to gdzieś dostrzegł, to zastosowanie Dual Use.",
+    "start": 2807.0,
+    "end": 2820.0,
+    "tokens": 79,
+    "turn_start": 2807.0,
+    "turn_end": 2820.0,
+    "id": 187
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Nie o tym chciałem powiedzieć. Chciałem powiedzieć, że nie jestem, siedzę tak cicho, bo nie jestem geopolitykiem i nie mam zbyt wiele mądrego do powiedzenia na tematy geopolityczne. Natomiast mogę z całą odpowiedzialnością powiedzieć to, co obserwuję, że Stany Zjednoczone są nieprawdopodobną potęgą intelektualną.",
+    "start": 2820.0,
+    "end": 2839.0,
+    "tokens": 113,
+    "turn_start": 2820.0,
+    "turn_end": 2839.0,
+    "id": 188
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Stolicą sztucznej inteligencji obok Chin jest Dolina Krzemowa i są Stany Zjednoczone. Laboratoria czołowych uczelni amerykańskich są cały czas potęgami, których PKB, czy wpływ na PKB może być porównywalny do PKB niektórych z państw członkowskich Unii Europejskiej. Ale też chciałem powiedzieć o tym, bo o tym tutaj trochę nie rozmawiamy, rozmawiamy o geopolityce, żeby ją uprawiać i żeby ona istniała i żeby to wszystko miało sens, to oczywiście może zrzucę tutaj taki Patrycji już wysokopoziomowy aspekt, bardzo mi bliski, ale żeby ta geopolityka miała miejsce. najbliski, ale żeby ta geopolityka miała miejsce, to musi istnieć człowiek.",
+    "start": 2839.0,
+    "end": 2884.6,
+    "tokens": 234,
+    "turn_start": 2839.0,
+    "turn_end": 2884.6,
+    "id": 189
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Ja mam bardzo głęboką refleksję wynikającą z tego, że sztuczna inteligencja wyprze gatunek ludzki. Ja jestem głęboko przekonany i wszystkie rozmowy z największymi umysłami do tego wniosku mnie doprowadzają, że dochodzimy gdzieś do jakiegoś etapu kresu ewolucji ludzkiego gatunku jako takiego, że nie istnieje coś takiego jak czerwony przycisk, którego naciśnięcie, bo to byłby system totalitarny, spowoduje, że my nagle zatrzymamy rozwój AI albo, że wydarzy się coś, co spowoduje, że rozwój AI się zatrzyma. Uważam, że to jest iluzja. Jeżeli on będzie podążał, rozwijał się liniowo, tak jak się to",
+    "start": 2884.6,
+    "end": 2923.7,
+    "tokens": 226,
+    "turn_start": 2884.6,
+    "turn_end": 2923.7,
+    "id": 190
+  },
+  {
+    "speaker": "UNKNOWN",
+    "text": "dzieje dzisiaj, a już nawet się liniowo nie rozwija. Wykładniczo już, tak. To ona nas zastąpi i to trzeba mówić w sposób bardzo świadomy, bardzo",
+    "start": 2923.7,
+    "end": 2935.2,
+    "tokens": 53,
+    "turn_start": 2923.7,
+    "turn_end": 2935.2,
+    "id": 191
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "zważny. Wyprze podejmowanie decyzji w elementach kluczowych. Dzisiaj się to dzieje, dlatego, bo taki minister albo prezydent przed podjęciem decyzji korzysta z czata i robi to w sposób nieoficjalny, ale to robią. Za chwilę będzie się to podejmowało. Będą te decyzje podejmowane w ten sposób, w",
+    "start": 2935.2,
+    "end": 2952.7,
+    "tokens": 101,
+    "turn_start": 2935.2,
+    "turn_end": 2952.7,
+    "id": 192
+  },
+  {
+    "speaker": "UNKNOWN",
+    "text": "sposób fundamentalny i oficjalny. Dochodzimy do momentu, w którym sztuczna",
+    "start": 2952.7,
+    "end": 2959.9,
+    "tokens": 27,
+    "turn_start": 2952.7,
+    "turn_end": 2959.9,
+    "id": 193
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "inteligencja zaczyna przejmować cechę, która do tej pory była wyłącznie cechą gatunku ludzkiego i to jest rozumienie matematyki abstrakcyjnej. Co my innego jako ludzie potrafimy inaczej niż zwierzęta, nie opierając się na nauce. Tylko rozumienia matematyki abstrakcyjnej, bo obliczeniowo, to jak damy kotu dwie miski, to on wie, że dwie miski to jest więcej niż jedna miska. Ale matematyka abstrakcyjna, wyprowadzenie istnienia czarnych dziur bez ich obserwacji w latach 60. przez Penrose'a była możliwe tylko dzięki temu, że zobaczył to w swoim mózgu w matematyce abstrakcyjnej.",
+    "start": 2959.9,
+    "end": 2993.0,
+    "tokens": 210,
+    "turn_start": 2959.9,
+    "turn_end": 2993.0,
+    "id": 194
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "A wydawało się, że ostatnią dziedziną działalności cywilizacji homo samiens, która upadnie, to będzie sztuka i kultura, prawda? Czyli twórcze działanie. A od tego się zaczęło. Od tego się zaczęło. To pierwsze upadło.",
+    "start": 2993.0,
+    "end": 3003.0,
+    "tokens": 78,
+    "turn_start": 2993.0,
+    "turn_end": 3003.0,
+    "id": 195
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Ja dwa dni temu w Łodzi spotkałem się z Agnieszką Piłat, polsko-amerykańską artystką, która w Boston Dynamics ma rezydenturę i tam trenuje spoty, te słynne roboty, takie pieski, malować. I zadałem jej pytanie o to, jak, w jaki sposób sobie radzą od punktu widzenia kreatywności. I rozmawialiśmy o tym, czy nawet ten obszar nie jest pomału odbierany człowiekowi. I ona uważa, że jest odbierany człowiekowi, że jedyne, co zostaje człowiekowi w rozumieniu sztuki, to jest idea. Odpowiedziała mi pytanie, że to jest idea, że tylko, że idea ma człowiek. Ale czym jest idea? Co to znaczy idea?",
+    "start": 3003.0,
+    "end": 3044.1,
+    "tokens": 213,
+    "turn_start": 3003.0,
+    "turn_end": 3044.1,
+    "id": 196
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Ja tylko, jeśli mogę i prawdopodobnie szybko dojdziemy do wniosku, że musimy się pięknie nie zgadzać. Znaczy, ja mam dużą potrzebę sygnalizowania, że jest to tylko jeden z scenariuszy. Nie wiem czemu, to musi być gra o sumie zerowej, tak? Znaczy, to. grę o sumie zerowej. To znaczy to, że mamy samochody nie spowodowało, że ludzie przestali biegać maratony, że znajdują w tym przyjemność, że konkurują i że robi się wielki biznes.",
+    "start": 3045.1,
+    "end": 3070.4,
+    "tokens": 159,
+    "turn_start": 3045.1,
+    "turn_end": 3070.4,
+    "id": 197
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Samochód nie jest rzeczywistością. Zdaję sobie sprawę, ale sztuczna inteligencja, mógłbym tak trochę na przekór powiedzieć, że tak, mamy wzrost wykładniczy po to, żebyśmy wszyscy mogli wyglądać jak postacie ze studia Ghibli dzisiaj, tak? Znaczy bo i wiem, że upraszczam i wiem, że trzeba szukać pod powierzchnią tych dogłębnych wpływ",
+    "start": 3070.4,
+    "end": 3089.0,
+    "tokens": 131,
+    "turn_start": 3070.4,
+    "turn_end": 3089.0,
+    "id": 198
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "sztucznej inteligencji, tylko wydaje mi się w tej sytuacji bardzo ważne rysowanie innych scenariuszy. Jestem trochę zaniepokojony poziomem do jakiego i sposobem, w jakim rzeczywiście ci pracownicy, już o tym, tak jak mówiłem, największych laboratoriów przedstawiają pewne wizje, moim zdaniem",
+    "start": 3089.0,
+    "end": 3106.4,
+    "tokens": 99,
+    "turn_start": 3089.0,
+    "turn_end": 3106.4,
+    "id": 199
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "w sposób nieodpowiedzialny albo nie zawsze unopowiedzialny.",
+    "start": 3106.4,
+    "end": 3110.0,
+    "tokens": 20,
+    "turn_start": 3106.4,
+    "turn_end": 3110.0,
+    "id": 200
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Ale co w tym jest nieodpowiedzialnego?",
+    "start": 3110.0,
+    "end": 3110.4,
+    "tokens": 12,
+    "turn_start": 3110.0,
+    "turn_end": 3110.4,
+    "id": 201
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "No bo to jest często deklaracja wiary po prostu. No jakiej wiary? No na przykład to, że za dwa lata będziemy już na najlepszym kroku do tego, żeby sztuczna inteligencja przejęła masę funkcji ekonomicznych i nie będzie dla ludzi w ogóle pracy. Znaczy to się jeszcze nie wydarzyło.",
+    "start": 3110.4,
+    "end": 3124.8,
+    "tokens": 94,
+    "turn_start": 3110.4,
+    "turn_end": 3124.8,
+    "id": 202
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Ale nie wiem, czy się nie wydarzyło, dlatego, bo nie wiemy w jaki sposób podejmowane są kluczowe decyzje i jaki jest wpływ na te pojedyncze, konkretne decyzje mechanizmów sztucznej inteligencji. Mój reumatolog na przykład w trakcie spotkania ze mną powiedział, że on się wykorzystuje dwa dni temu, kiedy zacząłem z nim rozmawiać, mówię, że dokładnie to samo powiedział mi grok na Twitterze, co pan mówi. On mówi, no ale ja też korzystam i wspieram się w diagnostyce, dlatego, bo w dostępie do istniejących przy deep searchu różnych terapii jest dużo lepszy niż ja. No ale on tego nie powie oficjalnie na konferencji. Nie zobaczy tego pan w żadnym raporcie, w żadnych statystykach, ale te decyzje podskórnie są podejmowane dzisiaj w jakimś procencie z wykorzystaniem narzędzi. Wszystkie, jeżeli spojrzymy sobie przy mocy obliczeniowej, proporcjonalnie, a powiem jeszcze inaczej, ilość nowych technologii, nad którymi pracujemy, tak na przykład wykorzystywanie organoidów mózgowych jako alternatywy dla mocy obliczeniowej, co z wielkim sukcesem tworzy dzisiaj firma Final Spark w Szwajcarii. Jak odwiedzałem ich parę dni temu i zadałem pytanie jak wzrasta ilość ich klientów, to wzrasta każdego roku około",
+    "start": 3124.8,
+    "end": 3204.8,
+    "tokens": 416,
+    "turn_start": 3124.8,
+    "turn_end": 3204.8,
+    "id": 203
+  },
+  {
+    "speaker": "UNKNOWN",
+    "text": "220 a 260 procent. Rozwój nauka dzisiaj podąża, rozwija się w sposób tak",
+    "start": 3204.8,
+    "end": 3213.8,
+    "tokens": 26,
+    "turn_start": 3204.8,
+    "turn_end": 3213.8,
+    "id": 204
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "nieprawdopodobnie szybki, nieprzewidywalny, niezdolny do tego, żeby budować jakiekolwiek trafne przewidywania, że mówienie o tym, że są jakiekolwiek inne scenariusze ma sens oczywiście pod warunkiem, że zaznaczymy, że one są dużo mniej prawdopodobne, bo to wszystko, co obserwujemy, sprowadza nas do tego jednego konkretnego scenariusza.",
+    "start": 3213.8,
+    "end": 3236.2,
+    "tokens": 121,
+    "turn_start": 3213.8,
+    "turn_end": 3236.2,
+    "id": 205
+  },
+  {
+    "speaker": "UNKNOWN",
+    "text": "Ale ten przykład, jeśli mogę, bo naprawdę myślę, że mamy tu inne",
+    "start": 3236.2,
+    "end": 3241.2,
+    "tokens": 26,
+    "turn_start": 3236.2,
+    "turn_end": 3241.2,
+    "id": 206
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "spojrzenie. Przykład reumatologa jest bardzo dobry. Już mamy tu inne spojrzenie. Przykład reumatologa jest bardzo dobry.",
+    "start": 3241.2,
+    "end": 3243.2,
+    "tokens": 41,
+    "turn_start": 3241.2,
+    "turn_end": 3243.2,
+    "id": 207
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Dzisiaj ta sztuczna inteligencja, której on używa, wie tyle, ile suma wiedzy innych reumatologów dostępna w publicznym internecie i być może w jakichś prywatnych bazach danych. Wiąże się to z tym, o czym powiedziałeś, rzeczywiście z ograniczeniami...",
+    "start": 3243.2,
+    "end": 3258.2,
+    "tokens": 85,
+    "turn_start": 3243.2,
+    "turn_end": 3258.2,
+    "id": 208
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Nie do końca, ponieważ te najnowsze modele mają już coś, co nazywamy takie decision tree, mają już monolog wewnętrzny.",
+    "start": 3258.2,
+    "end": 3265.2,
+    "tokens": 41,
+    "turn_start": 3258.2,
+    "turn_end": 3265.2,
+    "id": 209
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Tam jest jakaś formuła rewizyjna. Jednak na bazach wiedzy umownie najlepszym źródłem dla sztucznej inteligencji nie jest obserwowanie wszechświata, bo nie ma ku temu narzędzi, tylko jest zastanie wiedzy z Wikipedii i z otwartego publicznego internetu. Znaczy nie ma innych źródeł trenowania i zgadzam się, że się pojawiają, są też bardzo duże dyskusje. Tak, to jest bardzo dobra kwestia. Pytanie, ile jest tego czasu? Ja też z zupełnie innej perspektywy patrząc. Dla mnie jest to jakiś przejaw cywilizacyjnego, nie wiem, takiego głębokiego, metafizycznego, nie wiem, jakiegoś masochizmu, defetyzmu. Dlaczego ci ludzie nie potrafią mieć pozytywnej wizji koegzystencji? Jest ona równie możliwa i mogłaby napędzać ich w szacunku.",
+    "start": 3265.4,
+    "end": 3315.4,
+    "tokens": 266,
+    "turn_start": 3265.4,
+    "turn_end": 3315.4,
+    "id": 210
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Może, tak. Tego nie wiemy i nie rozstrzygniemy. Rzeczywiście profesor Stephen Hawking mówił kiedyś w odpowiedzi na pytanie jakiegoś dziennikarza na konferencji prasowej, kiedy ten go zapytał, jaka sztuczna inteligencja, jakie obawy? Przecież wystarczy wyjąć wtyczkę. A Hawking miał wtedy powiedzieć, że ona będzie wiedziała, że pan chce wyjąć wtyczkę, zanim pan o tym pomyśli, że chce pan to zrobić i ona to w jakiś sposób uprzedzi, prawda? Więc rzeczywiście ten czerwony guzik to chyba niekoniecznie. A są i takie wizje, jak ta, którą profesor Dragan opowiada, przedstawia, że to nie jest tak, że my mamy coś przeciwko mrówkom, kiedy budujemy autostradę. No nie, nie jest tak, że budujemy autostradę po to, żeby zniszczyć mrowisko. Ale jeżeli jest akurat mrowisko na trasie planowanej przez człowieka autostrady, to ono zniknie. I może być podobnie. To nie jest tak, że my będziemy na celu sztucznej inteligencji, tylko, że przy okazji być może nie będziemy aż tak istotnie potrzebni.",
+    "start": 3315.4,
+    "end": 3366.0,
+    "tokens": 355,
+    "turn_start": 3315.4,
+    "turn_end": 3366.0,
+    "id": 211
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Bo mrówki potrafią przenieść swoje mrowisko, to tak bym uzupełniła tę wypowiedź Dragana. Tak, to prawda.",
+    "start": 3366.0,
+    "end": 3373.0,
+    "tokens": 42,
+    "turn_start": 3366.0,
+    "turn_end": 3373.0,
+    "id": 212
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "No dobrze, Joanna, to skoro jesteś przy głosie, bo miałem taki plan, żeby cię zapytać, czy my jako Europejczycy, czy my jako Europa, organizm, no pytanie jak bardzo spójny, to być może jest fundamentalne pytanie, ale załóżmy, że w jakimś zakresie spójny. Przecież organizm, w którym żyje więcej Europa, w której żyje więcej ludzi niż w Stanach Zjednoczonych. Czy my możemy jakoś wcisnąć nogę w drzwi pomiędzy Stany Zjednoczone a Chiny? I czy my możemy istotnie odegrać jakąś tutaj ważną rolę w rozwoju najnowocześniejszych technologii? Czy my tutaj mamy szansę? Z tej sceny już padło dzisiaj kilka dobrych rzeczy o Europie i bardzo za to dziękuję. Słyszeliśmy, dlaczego nie jesteśmy tak bardzo z tyłu. W niektórych dziedzinach, przy okazji np. fabryk, industrializacji. Czy my mamy szansę jako Unia Europejska w najnowszych technologiach, szczególnie przy sztucznej inteligencji? Czy nie? Czy to już jest stracona?",
+    "start": 3373.0,
+    "end": 3423.0,
+    "tokens": 325,
+    "turn_start": 3373.0,
+    "turn_end": 3423.0,
+    "id": 213
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "sztucznej inteligencji, czy nie? Czy to już jest stracona okazja i Stany Zjednoczone odjechały, i Chiny?",
+    "start": 3420.0,
+    "end": 3427.0,
+    "tokens": 39,
+    "turn_start": 3420.0,
+    "turn_end": 3427.0,
+    "id": 214
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Nie, tak jak wcześniej rozmawialiśmy, sztuczna inteligencja jest nową technologią i wszystko jest możliwe.",
+    "start": 3427.0,
+    "end": 3433.0,
+    "tokens": 34,
+    "turn_start": 3427.0,
+    "turn_end": 3433.0,
+    "id": 215
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Pytanie jak tam w Brukseli. Decydenci teraz z różnych państw będą potrafili się porozumieć i trzeba wziąć pod uwagę, że są różne ich też interesy.",
+    "start": 3433.0,
+    "end": 3444.0,
+    "tokens": 53,
+    "turn_start": 3433.0,
+    "turn_end": 3444.0,
+    "id": 216
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Więc czy będzie nam po drodze wspólnie, to trudno powiedzieć. Fajnie by było, żebyśmy rzeczywiście stanowili taką siłę,",
+    "start": 3444.0,
+    "end": 3452.0,
+    "tokens": 45,
+    "turn_start": 3444.0,
+    "turn_end": 3452.0,
+    "id": 217
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "ale też żebyśmy my jako Polska nie stanowili tutaj znowu rynku zbytu, tylko potrafili uczestniczyć w tych projektach.",
+    "start": 3452.0,
+    "end": 3459.0,
+    "tokens": 39,
+    "turn_start": 3452.0,
+    "turn_end": 3459.0,
+    "id": 218
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "A na razie dużo jest ogłaszanych projektów, na przykład odpowiedź na maska Starlinka. Pojawiała się taka inicjatywa tutaj ze strony Unii Europejskiej, żeby też taki system przygotować.",
+    "start": 3459.0,
+    "end": 3472.0,
+    "tokens": 60,
+    "turn_start": 3459.0,
+    "turn_end": 3472.0,
+    "id": 219
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Tak, tylko że tam są zaangażowane takie kraje jak Luksemburg, Hiszpania i Francja. My w Polsce mamy fajne firmy, które potrafią już zbudować satelitę i wynieść go w kosmos, jak i też jesteśmy jednymi z najlepszych w analizie danych tych, które przesyła satelita tu na Ziemię.",
+    "start": 3472.0,
+    "end": 3492.0,
+    "tokens": 96,
+    "turn_start": 3472.0,
+    "turn_end": 3492.0,
+    "id": 220
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Więc moglibyśmy o to zawalczyć, tylko jak się okazuje i z naszych tam informacji, a mamy rzeczywiście ekspertów rozproszonych we wszystkich strukturach na całym świecie, tak akurat nam wyszło,",
+    "start": 3492.0,
+    "end": 3504.0,
+    "tokens": 64,
+    "turn_start": 3492.0,
+    "turn_end": 3504.0,
+    "id": 221
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "że tam Polska w ogóle nie zabiera głosu. Tak naprawdę nie walczymy o to. Więc jeżeli nie walczymy, to trudno, żeby oni nas tam sami zapraszali, więc my stajemy się tylko podwykonawcą. Więc rzeczywiście warto jest, żeby ten głos tam wybrzmiał i stąd znowu powrócę do tego, żeby świat nauki mógł być usieciowienny i tutaj, żeby mógł razem stanowić jedność. Wtedy będzie to godna reprezentacja i rzeczywiście będziemy mogli się starać o dotacje unijne w tych programach największych, a teraz rzadko nam się to zdarza, a nawet jak wystartujemy, to rzadko dostajemy. Więc żeby móc tutaj to swoje miejsce zaznaczyć. No i czy Unia ma szansę? Ma szansę, ale jest tak obecnie podzielona i jest też walka sił i to jest ten układ, który się zmienia. I pytanie, czy Stany Zjednoczone będą walczyć o ten prymat swój, który miał treść światową i dadzą ten parasol tutaj nam ochronny,",
+    "start": 3504.0,
+    "end": 3560.0,
+    "tokens": 315,
+    "turn_start": 3504.0,
+    "turn_end": 3560.0,
+    "id": 222
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "w sytuacji, kiedy Rosja jest, no cóż, coraz bardziej agresywna i też walczy o swoje, czy też będzie się wycofywała? I teraz pytanie, czy nas zostawi i w takim, no sytuacji, róbcie co tam chcecie, czy też my będziemy potrafili podjąć tą rękawicę",
+    "start": 3560.0,
+    "end": 3576.0,
+    "tokens": 91,
+    "turn_start": 3560.0,
+    "turn_end": 3576.0,
+    "id": 223
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "i uważam, że jako kraj nie powinniśmy się oglądać na wszystkich, którzy nas mają tutaj wybawić, bo już tak było w sytuacji drugiej wojny światowej. No i jakoś nikt tam nie przyszedł nam na pomoc za bardzo, tylko patrzyli. Więc musimy mieć to z tyłu głowy, że może być powtórka z tej sytuacji. Musimy mieć możliwości tutaj zadziałania i też samostanowienia.",
+    "start": 3576.0,
+    "end": 3600.0,
+    "tokens": 124,
+    "turn_start": 3576.0,
+    "turn_end": 3600.0,
+    "id": 224
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "I to jest chyba takie najważniejsze. Nie wiem na czym to polega. I to jest chyba takie najważniejsze.",
+    "start": 3600.0,
+    "end": 3602.0,
+    "tokens": 38,
+    "turn_start": 3600.0,
+    "turn_end": 3602.0,
+    "id": 225
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Nie wiem, na czym to polega, że cały czas patrzymy na innych i chcemy być poklepani po plecach, a nie potrafimy stać z tych kolan i powiedzieć, że tak, chcemy być tutaj kimś znaczącym i mamy ku temu potencjał, bo mamy. Polska tutaj w ostatnich latach bardzo dobrze się rozwijała, super przerosł PKB, super fajni ludzie, kompetencje. No i cóż, jeżeli nie ma środowiska, to zaczęli uciekać.",
+    "start": 3602.0,
+    "end": 3625.0,
+    "tokens": 150,
+    "turn_start": 3602.0,
+    "turn_end": 3625.0,
+    "id": 226
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Maczku, trzy słowa, widzę, że coś... Chciałem powiedzieć, że ja uważam, że wyścig taki, jeżeli chodzi o przełomy technologicznie związane z rozwojem sztucznej inteligencji, przegraliśmy, możemy się z tym pożegnać i nie ma sensu w ogóle, żebyśmy wydawali na to kasę, dlatego, bo nie prześcigniemy Stanów Zjednoczonych i możemy sobie tworzyć, to jest ekstra oczywiście, agentów, malutkich agencików i to jest bardzo dobrze, żeby to się działo w Europie, ale są technologie, co do których mamy szansę jeszcze być liderem i którego wyścigu nie przegraliśmy i to są technologie kwantowe, to jest nawet to, co robi firma IQM w Helsinkach, to, co robi Polskie Cyfrowe Wojsko w kontekście pułapkowania jonów wapnia, tworzenia cyfrowego komputera kwantowego z naprawdę sukcesami technologicznymi, to, co robi profesor Pareń jak w laboratoriach Uniwersytetu Warszawskiego, to, co robi profesor Wszoła z pułapkowaniem molekuł wodorów w UMK, to są innowacyjne, przełomowe technologicznie eksperymenty, niedofinansowywane dzisiaj, dlatego, bo budujemy iluzję tego, że Polska przez to, że ma Wojtka Zarembę, Kubę Pachockiego, Szymona Sidora, którzy przebywają 12 tysięcy kilometrów stąd, będzie potęgą sztucznej inteligencji. Otóż nie będzie potęgą sztucznej inteligencji.",
+    "start": 3625.0,
+    "end": 3711.0,
+    "tokens": 447,
+    "turn_start": 3625.0,
+    "turn_end": 3711.0,
+    "id": 227
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Ale nikt nie mówi, że potęgą, ale mamy potencjał, żeby w określonych niszach zaistnieć i być liderem.",
+    "start": 3711.0,
+    "end": 3717.0,
+    "tokens": 43,
+    "turn_start": 3711.0,
+    "turn_end": 3717.0,
+    "id": 228
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "No to na przykład tą niszą fantastyczną jest dron, są drony. Dlaczego Polska nie stawia na nisze, możemy wykorzystywać tam wizję, możemy wykorzystywać tam sztuczną inteligencję. Dlaczego jeden z najfajniejszych, moim zdaniem, w Europie projektów droniarskich, jakim jest Prometeusz, autonomiczny dron zdolny do detekcji metanu, autonomiczny, prawie padł albo już padł? To jest bardzo dobre pytanie.",
+    "start": 3717.0,
+    "end": 3742.0,
+    "tokens": 144,
+    "turn_start": 3717.0,
+    "turn_end": 3742.0,
+    "id": 229
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Ja mogę powiedzieć dlaczego. Dlatego, że są dwa powody wzajemnie się uzupełniające i sprzęgnięte z sobą. Generalnie wyznaczono nam miejsce polityczno-społeczne jako podwykonawców w peryferyjnym systemie kapitalistycznym. I parametry zasilania kapitałowego, pracy kapitału u nas są takie, że u nas nie można osiągnąć pewnej skali. A zatem trudno finansować przedsięwzięcia. Jest wielka rywalizacja o kapitał, również państwowy, pomiędzy nawet ośrodkami naukowymi, co powoduje feudalizację nauki, feudalizację innowacji. Tak naprawdę antykulturę tego co jest z Silicon Valley.",
+    "start": 3742.0,
+    "end": 3780.0,
+    "tokens": 205,
+    "turn_start": 3742.0,
+    "turn_end": 3780.0,
+    "id": 230
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Do tego w przypadku kultury, Do tego w przypadku konkretnie dronów jest ogromne lobby zbrojeniowe, które chce żebyśmy kupowali czołgi, fregaty, stare rzeczy i żeby nie było żadnej rewolucji, technologii podwójnego zastosowania, których oni nie kontrolują łańcuchów wartości, nie trzeba specjalnych certyfikatów służb, które dzielą między siebie te frukta. Ludzie się boją powiedzieć o tym, że tak jest, my w Strategy and Future nie boimy się mówić. Tak to działa, w związku z tym duszone są wszystkie tego inicjatywy, które wychodzą poza system kontroli tego jak ma być rozłożony łańcuch wartości. Źródłem ma być technologia zachodnia ze Stanów albo z Europy Zachodniej i ludzie, kolonizatorzy, Polacy, którzy rozkładają to i kontrolują miejscową siłę roboczą i nie może być polskiej myśli technologicznej w tym zakresie, która by stworzyła cały łańcuch wartości technologicznej, bo jest to sprzeczne z ideą. Tu jest wina polityków, że nie potrafią sobie to stawić.",
+    "start": 3780.0,
+    "end": 3843.0,
+    "tokens": 329,
+    "turn_start": 3780.0,
+    "turn_end": 3843.0,
+    "id": 231
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Wzięcie nas w tą stronę to też powoduje, że w przypadku agresji Rosji jesteśmy osłabieni.",
+    "start": 3843.0,
+    "end": 3850.0,
+    "tokens": 34,
+    "turn_start": 3843.0,
+    "turn_end": 3850.0,
+    "id": 232
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "To w ogóle generuje bardzo wiele rzeczy, jak brak realnej modernizacji wojska, brak wiary społeczeństwa, że potrafimy i tak dalej. Brak jakiegokolwiek poza bohaterskimi przykładami poszczególnych przedsiębiorców, którzy najczęściej muszą pięć razy więcej pracy włożyć i sześć razy lepiej liczyć pieniądze, żeby w ogóle wystąpić na rynku globalnym w jakikolwiek sposób. To mi się przekłada tak samo do nauki. Po prostu trzeba cudu, jakiegoś wielkiego wysiłku jednego człowieka, a później czytamy w książkach o wielkich Łukasiewiczach i innych wielkich Polakach. Nie jest to naturalne środowisko i jest to głównie wina polityków, że system jest tak skonstruowany i wielcy tego świata nie są zainteresowani odmianą tego systemu, bo my mamy określone miejsce w łańcuchu wartości. Programy kosmiczne czy technologie kosmiczne są tego bardzo dobrym przykładem. Nie chodzi o to, żeby polskie firmy kosmiczne, start-upy, New Space budowały cokolwiek na przykład bezpośrednio dla Amerykanów, tylko najlepiej, żeby kontrolowały to leśne dziadki powiązane z Europejską Agencją Kosmiczną. Po prostu jest dławiony samorozwój. Nie stworzone są warunki, żeby Polska Agencja Kosmiczna tworzyła rynek przez wydawanie pieniędzy na polskie start-upy. To jest dopiero masakra ta Polska Agencja Kosmiczna. Dziękuję. od transformacji Polski Wyszyńskiego, która wyszła z fabryk, musiała się nauczyć angielskiego i później wystąpić na globalnym rynku pracy, a nie państwa, które absolutnie nic nie pomogło w tym zagrożeniu.",
+    "start": 3851.0,
+    "end": 3971.56,
+    "tokens": 537,
+    "turn_start": 3851.0,
+    "turn_end": 3971.56,
+    "id": 233
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "A polski mit nauki budowany jest na Marii Curie-Skłodowskiej.",
+    "start": 3971.56,
+    "end": 3976.16,
+    "tokens": 22,
+    "turn_start": 3971.56,
+    "turn_end": 3976.16,
+    "id": 234
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "A nawet Marii Skłodowskiej-Curie.",
+    "start": 3976.16,
+    "end": 3978.56,
+    "tokens": 14,
+    "turn_start": 3976.16,
+    "turn_end": 3978.56,
+    "id": 235
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "A nawet Marii Skłodowskiej-Curie. Wiedziałem, że mnie o to poprawisz i dobrze, że to zrobiłeś, ale chciałem powiedzieć, że jakbyśmy zapytali Polaka o współczesną polską naukowczynię, która robi wielkie rzeczy, to przecież nawet nie mają szansy się o tym nigdzie dowiedzieć.",
+    "start": 3978.56,
+    "end": 3993.52,
+    "tokens": 102,
+    "turn_start": 3978.56,
+    "turn_end": 3993.52,
+    "id": 236
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Tak, ale mówił Maciek o sukcesach np. Wojsk Obrony Cyberprzestrzeni, o kwantową dystrybucji klucza.",
+    "start": 3993.52,
+    "end": 4003.08,
+    "tokens": 43,
+    "turn_start": 3993.52,
+    "turn_end": 4003.08,
+    "id": 237
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Przepraszam, a dlaczego jest to sukces Wojska Obrony Cyberprzestrzeni? Bo tam nie ma realnych, bo pieniądze są w gąsienicy, w lufie, w amunicji, a nie w jakichś takich, nie wiadomo, czary maryjnych.",
+    "start": 4003.08,
+    "end": 4012.84,
+    "tokens": 77,
+    "turn_start": 4003.08,
+    "turn_end": 4012.84,
+    "id": 238
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "I się nie przyjmują z tym, pozostawiają ich.",
+    "start": 4012.84,
+    "end": 4014.84,
+    "tokens": 16,
+    "turn_start": 4012.84,
+    "turn_end": 4014.84,
+    "id": 239
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Dokładnie tak. Karol Molenda ma święty spokój.",
+    "start": 4014.84,
+    "end": 4017.92,
+    "tokens": 18,
+    "turn_start": 4014.84,
+    "turn_end": 4017.92,
+    "id": 240
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Być może tak. Co się udało zrobić? Ile jest takich Karolów Molendów, który był dowódcą Wojsk Obrony Cyberprzestrzeni, gdy Błaszczak był ministrem obrony narodowej i jest dowódcą Wojsk Obrony Cyberprzestrzeni, gdy jest Kosiniak-Kamysz. Prawdopodobnie jest jedyny w Polsce, jest ciągłość zachowana instytucjonalna.",
+    "start": 4017.92,
+    "end": 4035.4,
+    "tokens": 118,
+    "turn_start": 4017.92,
+    "turn_end": 4035.4,
+    "id": 241
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Generał Karol Molenda, szef Wojsk Obrony Cyberprzestrzeni, są tutaj w tej sferze, my mamy enigma, mamy te swoje jakieś takie umiejętności.",
+    "start": 4035.4,
+    "end": 4044.4,
+    "tokens": 54,
+    "turn_start": 4035.4,
+    "turn_end": 4044.4,
+    "id": 242
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Tak, faszerowanie właśnie, enigmą.",
+    "start": 4044.96,
+    "end": 4046.96,
+    "tokens": 13,
+    "turn_start": 4044.96,
+    "turn_end": 4046.96,
+    "id": 243
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "No tak, ale na przykład...",
+    "start": 4046.96,
+    "end": 4048.96,
+    "tokens": 9,
+    "turn_start": 4046.96,
+    "turn_end": 4048.96,
+    "id": 244
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "To jest przygoda Brytyjczyków z XVI wieku.",
+    "start": 4048.96,
+    "end": 4050.96,
+    "tokens": 15,
+    "turn_start": 4048.96,
+    "turn_end": 4050.96,
+    "id": 245
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Nie, słuchajcie, ale ja chciałem powiedzieć o XIXI roku, nie o XVI wieku, a nie o enigmie, tylko o XIXI. Bo jednym z twórców kryptografii kwantowej, jednym z ojców, człowiekiem, który napisał protokół taki najbardziej... Eckert. Tak, jest Artur Eckert, który ok, zrobił to w Oksfordzie, zrobił to w Anglii, dzisiaj pracuje głównie w Singapurze i w Oksfordzie.",
+    "start": 4050.96,
+    "end": 4072.96,
+    "tokens": 136,
+    "turn_start": 4050.96,
+    "turn_end": 4072.96,
+    "id": 246
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Ale to jest Polak, takie rzeczy się dzieją. Przepraszam Patrecjuszu, bo my na tym etnosie. Chodzi o to, żeby stworzyć takie warunki ludziom, żeby chcieli tu żyć, budować łańcuchy wartości i własne firmy, które będą zatrudniały ludzi i będą produkowały rzeczy, które są potrzebne społeczeństwu do rozwoju. Chodzi o to, że jest to tak skonstruowane, że jest to niemożliwe w Polsce. W związku z tym naprawdę od około 450 lat co pokolenie maszynka, taki bęben wyrzucania, albo co zdolniejszych, albo co bardziej zrozpaczonych na zewnątrz, na lepsze rynki, na lepszą stopę zwrotu.",
+    "start": 4073.52,
+    "end": 4115.08,
+    "tokens": 220,
+    "turn_start": 4073.52,
+    "turn_end": 4115.08,
+    "id": 247
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Kto to zaprojektował? Kto ten bęben wytworzył?",
+    "start": 4115.08,
+    "end": 4118.08,
+    "tokens": 22,
+    "turn_start": 4115.08,
+    "turn_end": 4118.08,
+    "id": 248
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Najpierw świat, system kapitalistyczny, potem nasza klasa panująca szlachta nie umiała wyjść naprzeciw zmianom, potem zaborcy nie pomagali, potem druga Rzeczpospolita miała bardzo trudne i generalnie system światowy.",
+    "start": 4118.64,
+    "end": 4131.64,
+    "tokens": 77,
+    "turn_start": 4118.64,
+    "turn_end": 4131.64,
+    "id": 249
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "A można to jakoś przełamać dzisiaj?",
+    "start": 4131.64,
+    "end": 4133.64,
+    "tokens": 13,
+    "turn_start": 4131.64,
+    "turn_end": 4133.64,
+    "id": 250
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Generalnie wojna, która teraz się rozpoczęła w 2018 roku jest o zmianę tego systemu i musimy się zastanowić, czy my jesteśmy rewizjonistą, czy obrońcą status quo.",
+    "start": 4133.64,
+    "end": 4141.64,
+    "tokens": 59,
+    "turn_start": 4133.64,
+    "turn_end": 4141.64,
+    "id": 251
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Muszę obronić ten status quo, bo to co się zaczęło w 2018 roku jest wielką wojną o zmianę dominacji Atlantyku nad właśnie, co jest centrum, co jest peryferium.",
+    "start": 4140.0,
+    "end": 4150.0,
+    "tokens": 55,
+    "turn_start": 4140.0,
+    "turn_end": 4150.0,
+    "id": 252
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Mamo tego najgorsze, co można teraz zrobić, to tych ludzi zatrzymywać w Polsce, dlatego, że jeżeli ich zatrzymasz w Polsce, to oni w poczuciu frustracji nie zrobią tego, co by zrobili wyjeżdżając za granicą. To przynajmniej mamy tam polskich ambasadorów.",
+    "start": 4150.0,
+    "end": 4162.0,
+    "tokens": 98,
+    "turn_start": 4150.0,
+    "turn_end": 4162.0,
+    "id": 253
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Mam pomysł na to, co można by zrobić i może wesprzyjcie to, bo macie ogromną wolność społeczną. Ja przecież tylko tą geopolityką się zajmuję, nikt tego poważnie w Polsce nie bierze, bo co Polska może zrobić. Ale generalnie pomyślmy o tym, a może byśmy powodowali, żeby politycy uchwalili ustawę, że budujemy miasto od początku, które podobnie jak kiedyś miasto na prawie magdeburskim jest na określonych prawach, gdzie nie ma tych starych metod, jest nowe. Taka idylla. Tak, zupełnie nowe. No skoro budujemy CPK i będzie miasto powstawać tam, to dlaczego nie zbudować tam smart city? A my z Jackiem będziemy burmistrzami tego miasta.",
+    "start": 4162.0,
+    "end": 4201.0,
+    "tokens": 226,
+    "turn_start": 4162.0,
+    "turn_end": 4201.0,
+    "id": 254
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Ja z kolei myślę, że może pogódźmy się z tym, bo wracając do tego dobra wspólnego.",
+    "start": 4201.0,
+    "end": 4210.0,
+    "tokens": 31,
+    "turn_start": 4201.0,
+    "turn_end": 4210.0,
+    "id": 255
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Jest to piękna, trochę to powiedziałeś, misja Polski. No rzeczywiście, zasilamy globalny rozwój technologii. Mamy ten odpływ, ale może to jest to, co my potrafimy zrobić. Ja też nie wierzę w tę historię, że to jest kwestia pieniędzy. Ludzie, którzy w San Francisco mogą chodzić i pływać, że tak powiem, w tej zupie debat o AGI, co wrócą tutaj i będą chodzić do ministerstwa na ulice królewską, opowiadać ministrowi coś. To w ogóle się nie skleja. Ja wiem, że to brzmi pesymistycznie i boję się, że głównie z powodów tych geopolitycznych. Zobaczymy sobie, na co możemy pozwolić. Jeśli to jest nasza jakaś tam karta przetargowa. Tylko jeszcze chciałem powiedzieć, bo nas zawsze zbija to bycie liderem. Wszystkie polskie dokumenty strategiczne, cyfrowe, gdzieś zawsze się zatrudnia konsulting. Na przykład w jednym z pierwszych dokumentów o policji AGI napisał, że będziemy challengerem AGI w trzy lata i to zostało zaktualizowane po trzech latach, ale cytat został, bo to dobrze wygląda. Tajwan, gdy weszli na trajektorię budowania TSMC, tam nikt nie mówił, że oni będą liderem, tylko po prostu wymyślili, że muszą się zmodernizować, że geopolitycznie to jest ważne i tak dalej. A my mam wrażenie, że zamiast właśnie realnie, może to jest po prostu bardzo trudne, lubimy zadać sobie pytanie jak być liderem.",
+    "start": 4210.0,
+    "end": 4281.0,
+    "tokens": 467,
+    "turn_start": 4210.0,
+    "turn_end": 4281.0,
+    "id": 256
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Jest coś kulturowego rzeczywiście w Polsce. Doszliśmy do tego momentu dyskusji. To nie umiem powiedzieć, bo to socjolog może, czy filozof. Jest coś kulturowego do naprawienia.",
+    "start": 4282.0,
+    "end": 4293.0,
+    "tokens": 63,
+    "turn_start": 4282.0,
+    "turn_end": 4293.0,
+    "id": 257
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Ale wydaje mi się, że jest też dobra sytuacja do zmiany i przykładem jest chyba dobra sytuacja z profesorem Sankowskim, bo nauka bardzo dużo znosiła i w kółko odbiór im funduszy. Doszliśmy do tego, że w tym roku w budżecie państwa na naukę jest przeznaczone raptem 1,07% PKB. To najniżej od lat dziewięćdziesiątych. Inne kraje podnoszą te nakłady, a my zmniejszamy, więc to nie jest dobra informacja. to nie jest dobra informacja, ale przy profesorze Sankowskim tak naprawdę po raz pierwszy świat nauki powiedział stop, czyli doszliśmy chyba do tej granicy, jak i też społeczeństwo powiedziało tak, chcemy mieć szansę i być z czegoś dumni i dzięki temu powstał już nowy IDS i profesor Sankowski ma miejsce, tylko, że na samym profesorze jednym i jego zespole nie zbudujemy.",
+    "start": 4293.0,
+    "end": 4345.6,
+    "tokens": 268,
+    "turn_start": 4293.0,
+    "turn_end": 4345.6,
+    "id": 258
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "A właśnie to jest ciekawy wątek, czy my dojrzewamy do tego, może to się od nas zacznie, może ambicja was, nas wszystkich jest coraz większa.",
+    "start": 4345.6,
+    "end": 4356.6,
+    "tokens": 46,
+    "turn_start": 4345.6,
+    "turn_end": 4356.6,
+    "id": 259
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Tylko zryw społeczny Piotra nie rozwiązał problemu tego, w jakiej on dzisiaj jest sytuacji. Pytanie pytałeś o to Piotrka, w jakiej sytuacji jest dzisiaj NCB i IDS, bez zespołu, bez ekspertów, bez ludzi, bez możliwości komunikacji.",
+    "start": 4356.6,
+    "end": 4370.6,
+    "tokens": 86,
+    "turn_start": 4356.6,
+    "turn_end": 4370.6,
+    "id": 260
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Chciałem powiedzieć o czymś większym, przepraszam, ale to zabrzmi, o ambicjach Polaków. Mam takie wrażenie, że obserwuję, że my zaczynamy chcieć coraz więcej, zaczynamy rozumieć, że nas na coraz więcej stać. Zaczynamy widzieć, że mamy pracowitość, kreatywność, że mamy różne talenty i zaczynamy trochę oczekiwać coraz więcej. Czy jest jakiś rodzaj takiego oddolnego, było to widać przy CPK, kiedy pojawiły się bardzo istotne, dość masowe głosy, że dlaczego, nie przekreślajmy. Pojawiło się to właśnie przy profesorze Senkowskim, kiedy nawet ludzie nie rozumieli czego bronią, ale czuli, że ktoś chce im zabrać jakąś szansę rozwoju.",
+    "start": 4370.6,
+    "end": 4413.6,
+    "tokens": 237,
+    "turn_start": 4370.6,
+    "turn_end": 4413.6,
+    "id": 261
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "I właśnie dlatego bronili. Jest coś takiego? Wy widzicie, że wśród nas, półtorej minuty mamy, jak to się stało, że my zaczynamy oczekiwać więcej, że jesteśmy głodni czegoś ważniejszego i większego?",
+    "start": 4413.6,
+    "end": 4425.6,
+    "tokens": 73,
+    "turn_start": 4413.6,
+    "turn_end": 4425.6,
+    "id": 262
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Wydaje mi się, że jest taka sytuacja i rzeczywiście wreszcie chcemy podnieść tą głowę i poczuć, że samostanowimy o sobie i mamy ambicje. I dobrym przykładem jest tutaj sytuacja Bielika, nie wiem czy na sali jest Sebastian Konradzki, bo był wcześniej ze mną na prelekcji. I on opowiadał taką historię, skąd się wziął Bielik. Był na spotkaniu wirtualnym tutaj, chyba na, nie pamiętam po prostu z kim on udzielał wywiadu na YouTubie. I tam padło pytanie do niego, pół żartem, pół serio, że dlaczego Polska nie ma dużego modelu językowego. I on mu to weszło tak na ambicje. No dobrze, to ja zrobię. Powiedziałem to publicznie, to zadziałam. No i potem zaczął chodzić i powiedział, że chce stworzyć model językowy. Minęły dwa lata, trzy tysiące uczestników, oddolnie stworzony model językowy, który jest bardzo dobrze oceniany teraz.",
+    "start": 4425.6,
+    "end": 4477.6,
+    "tokens": 315,
+    "turn_start": 4425.6,
+    "turn_end": 4477.6,
+    "id": 263
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "I to jest najciekawsza historia w Bieliku, że jest on oddolny i to jest bardzo polskie. Bez żadnego modelu biznesowego. Bo poza tym, ja jestem wielkim fanem Bielika, ale umówmy się, prawie każdy kraj europejski ma dziś swojego Bielika i my uwielbiamy myśleć, że to jest kolejny raz. Tak, zrobiliśmy to, a potem się rozejrzymy, Szwedzi dwa lata wcześniej. Ale nasz jest lepszy? Ale oddolny coś? Nie, nie jest wcale lepszy. Jak wszystkie małe modele jest przeciętny, umówmy się. Ma być może fajne zastosowanie się administracyjne. Umówmy się, ma być może fajne zastosowanie się administracja publiczna, a w to wejdzie. Ta oddolność, to moim zdaniem jakby szukać tego klucza to jest to, tylko my nie umiemy budować oddolnych strategii, nie umiemy robić oddolne zrywy.",
+    "start": 4477.6,
+    "end": 4512.0,
+    "tokens": 264,
+    "turn_start": 4477.6,
+    "turn_end": 4512.0,
+    "id": 264
+  },
+  {
+    "speaker": "SPEAKER_05",
+    "text": "Słuchajcie, jeden z zdecydowanie najfajniejszych paneli, w jakich ostatnio brałem udział, zawsze taki moment, kiedy jest ten nerw, prawda? Oni się pięknie potrafią różnić i w dodatku prowadzący jest na chwilę na bocznym torze, takie panele najbardziej lubię prowadzić.",
+    "start": 4512.0,
+    "end": 4526.0,
+    "tokens": 96,
+    "turn_start": 4512.0,
+    "turn_end": 4526.0,
+    "id": 265
+  },
+  {
+    "speaker": "SPEAKER_04",
+    "text": "Joanna Szczegielniak, Maciej Kawecki, Alek Tarkowski, Jacek Bartosiak, zasłużyli na Państwa brawa. Bardzo dziękujemy.",
+    "start": 4527.0,
+    "end": 4534.0,
+    "tokens": 47,
+    "turn_start": 4527.0,
+    "turn_end": 4534.0,
+    "id": 266
+  },
+  {
+    "speaker": "SPEAKER_02",
+    "text": "Niemniejsza brawa Patrycjusz Rzeszga, prowadzący.",
+    "start": 4537.0,
+    "end": 4540.0,
+    "tokens": 21,
+    "turn_start": 4537.0,
+    "turn_end": 4540.0,
+    "id": 267
+  },
+  {
+    "speaker": "UNKNOWN",
+    "text": "Ja jeszcze jako zapasowy prowadzący pozwoliłbym sobie na taką zapasową puentę, bo moim zdaniem tu chodzi trochę o kompleksy.",
+    "start": 4540.0,
+    "end": 4557.0,
+    "tokens": 44,
+    "turn_start": 4540.0,
+    "turn_end": 4557.0,
+    "id": 268
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "text": "Zobaczcie, na początku zostało powiedziane o borówce, że eksportujemy tę borówkę za granicę, tylko jaka jest ta borówka? Amerykańska, powinna być borówka mazowiecka, żeby chociaż coś było po nas na tym świecie.",
+    "start": 4557.0,
+    "end": 4569.0,
+    "tokens": 80,
+    "turn_start": 4557.0,
+    "turn_end": 4569.0,
+    "id": 269
+  },
+  {
+    "speaker": "SPEAKER_03",
+    "text": "Mieli Państwo 15 minut przerwy, tak zwane wietrzenie sali. Ostatni panel o 15.45 będzie dotyczył człowieka i dobrostanu, czyli tego o czym jeszcze na tej scenie przez dwa dni nie rozmawialiśmy, co myślę, że będzie fantastyczną klamrą dla całej sceny dyskusji. Wróćcie proszę niebawem.",
+    "start": 4570.0,
+    "end": 4587.0,
+    "tokens": 104,
+    "turn_start": 4570.0,
+    "turn_end": 4587.0,
+    "id": 270
+  },
+  {
+    "speaker": "UNKNOWN",
+    "text": "Napisy stworzone przez społeczność Amara.org",
+    "start": 4599.0,
+    "end": 4602.0,
+    "tokens": 14,
+    "turn_start": 4599.0,
+    "turn_end": 4602.0,
+    "id": 271
+  }
+]

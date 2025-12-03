@@ -1,0 +1,61 @@
+[0.00 - 4.00] SPEAKER_01: Grecja jest w ogóle inspiracją na wiele lat podróżowania, proszę państwa.
+[4.00 - 7.00] SPEAKER_01: Takiego właśnie jak lubimy, o jakim opowiadają nasi goście.
+[7.00 - 10.00] SPEAKER_01: Nasi goście nigdzie się nie ruszają, bo my mamy kolejnego gościa,
+[10.00 - 13.00] SPEAKER_01: który też w sprawie Grecji. Blok pod Akropolem.
+[13.00 - 16.00] SPEAKER_03: Mieszkał bardzo ten nasz gość wiele lat w Grecji,
+[16.00 - 20.00] SPEAKER_03: a dzisiaj opowie nam właśnie o tych doświadczeniach pani Joanna Barska.
+[20.00 - 23.00] SPEAKER_03: I właśnie ustalmy, mieszkała czy mieszka w Grecji?
+[23.00 - 26.00] SPEAKER_03: Bo w naszym scenariuszu jest napisane, że mieszkała.
+[26.00 - 29.00] SPEAKER_01: Dzień dobry, kalimera wszystkim.
+[29.00 - 30.00] SPEAKER_01: Dzień dobry.
+[30.00 - 33.00] SPEAKER_01: Kalimera, tutaj mamy cudownych gości, mamy nadzieję.
+[33.00 - 36.00] SPEAKER_03: Cały czas tam, czy jednak z powrotem w Polsce?
+[36.00 - 40.00] SPEAKER_02: Cały czas tutaj. Pozdrawiam was z gorących i słonecznych Aten.
+[40.00 - 47.00] SPEAKER_01: No to czy pytanie, jak tam pogoda pod Akropolem jest zasadne, czy nie jest zasadne?
+[47.00 - 51.00] SPEAKER_02: Pogoda jest bardzo dobra.
+[51.00 - 58.00] SPEAKER_02: Niezbyt dobra na zwiedzanie w południe, bo temperatura dochodzi nawet do 40 stopni.
+[58.00 - 61.00] SPEAKER_02: Ale to idealny czas na plażowanie wtedy.
+[61.00 - 63.00] SPEAKER_01: No tak, oczywiście.
+[63.00 - 69.00] SPEAKER_03: Proszę powiedzieć, co sprawiło, że to właśnie tam toczy się pani życie?
+[69.00 - 72.00] SPEAKER_04: Właściwie to nie była moja decyzja.
+[72.00 - 79.00] SPEAKER_04: Gdy miałam trzylatka, moi rodzice zdecydowali, że chcą wyemigrować na Grecję, do Grecji.
+[79.00 - 83.00] SPEAKER_04: I rodzinnie po prostu się przeprowadziliśmy tutaj i tak zostaliśmy.
+[83.00 - 86.00] SPEAKER_03: Czy jedno z nich jest narodowości greckiej, a drugie polskiej?
+[86.00 - 87.00] SPEAKER_03: Obydwoje są Polakami?
+[87.00 - 93.00] SPEAKER_04: Obydwoje są Polakami. Ja też jestem Polką i moja siostra też jest Polką.
+[93.00 - 98.00] SPEAKER_04: Także rodzinnie jesteśmy tutaj w Atenach od prawie 30 lat.
+[98.00 - 104.00] SPEAKER_01: Wspaniale. Nasi goście opowiadali przecudowne historie i zachęcali nas do podróżowania po kontynencie.
+[104.00 - 111.00] SPEAKER_01: To my chcemy wiedzieć od pani Joasiu Droga, co warto poza Akropolem zwiedzić.
+[112.00 - 117.00] SPEAKER_04: Oj, bardzo, bardzo dużo. Ateny przede wszystkim kojarzą się z Akropolem,
+[117.00 - 122.00] SPEAKER_04: ale gdy ktoś tak troszkę bardziej sprawdzi, co tutaj można zobaczyć,
+[122.00 - 125.00] SPEAKER_04: to naprawdę jest dużo perełek do zobaczenia.
+[125.00 - 135.00] SPEAKER_01: Słuchaj, kiedyś było tak, że kończę program, a wieczorem już widzę Tomka Kamela w Atenach.
+[135.00 - 137.00] SPEAKER_01: Było kiedyś tak, pamiętasz?
+[138.00 - 140.00] SPEAKER_03: Za 99 zł w tej swobodzie.
+[140.00 - 145.00] SPEAKER_01: Mówi człowieku, że ty mi nie powiedział. No więc nie będę go pytać, jak mam osobę,
+[145.00 - 150.00] SPEAKER_01: która tam mieszka w Atenach, co tam warto zwiedzić, jak wyskoczę sobie nawet na weekend.
+[150.00 - 152.00] SPEAKER_03: A ja chętnie usłyszę, co przegapiłem.
+[153.00 - 155.00] SPEAKER_02: Ja chętnie się dowiem, co pan zobaczył.
+[157.00 - 163.00] SPEAKER_05: Więc skoro mówimy o Akropolu, to warto również obejrzeć, pójść do Muzeum Akropolu.
+[163.00 - 165.00] SPEAKER_03: Byłem, prawda.
+[167.00 - 175.00] SPEAKER_05: Jest to nowe muzeum, stoi od 10 lat, zostało zbudowane właśnie 10 lat temu.
+[175.00 - 183.00] SPEAKER_05: Jest to bardzo nowoczesny budynek ze szkła i cementu i bardzo ładnie eksponuje.
+[180.00 - 190.00] SPEAKER_05: budynek ze szkła i cementu i bardzo ładnie eksponuje wszystkie artefakty i eksponaty wykorzystujące światło dzienne.
+[190.00 - 191.00] UNKNOWN: Super.
+[191.00 - 202.00] SPEAKER_05: No oczywiście spacerując po mieście można zobaczyć bardzo dużo zabytków, takie jak świątynię Zeusa Olimpijskiego,
+[202.00 - 208.00] SPEAKER_04: stadion Panateński, który jest najstarszym nadal działającym stadionem na świecie.
+[208.00 - 214.00] SPEAKER_04: A ta najstarsza dzielnica Aten mówią, że niesłychanie piękna, uwodząca.
+[214.00 - 222.00] SPEAKER_02: Tak, dzielnica Plaka. Jest to najstarsza dzielnica, która jest zamieszkała przez ostatnie 3,5 tysiąca lat bez przerwy.
+[222.00 - 224.00] SPEAKER_02: To jest niesamowite.
+[224.00 - 228.00] SPEAKER_02: Tak, tą historię czuć tam po prostu na każdym kroku.
+[228.00 - 239.00] SPEAKER_02: Uliczki są wąziutkie, pełne kolorowych kwiatów, kolorowych okiennic i tam znajduje się też taka magiczna dzielnica Anafiotika.
+[239.00 - 250.00] SPEAKER_02: O tej dzielnicy mówią wyspa w centrum Aten, ponieważ domki zbudowane w tamtym miejscu zostały zbudowane przez wyspiarzy z wyspy Anafi,
+[250.00 - 258.00] SPEAKER_02: która znajduje się obok Santorini i zostały zbudowane właśnie na styl tych ich domków z wyspy.
+[258.00 - 263.00] SPEAKER_02: Czyli są to niskie, białe domki z kolorowymi okiennicami, wąskimi uliczkami.
+[263.00 - 270.00] SPEAKER_02: Ja już tam się widzę. Ja już tam jestem. Ja przymykam oczy i ja już tam jestem, bo ja nigdy nie byłam w Atenach.
+[270.00 - 276.00] SPEAKER_01: Musisz pojechać albo polecieć. Tym bardziej, że Ateny są piękne również do oglądania z dachu w hoteli.
+[276.00 - 284.00] SPEAKER_01: Są różne hotele. Pewnie pani czasem zdarzało się bywać w tych różnych barach i restauracjach usytuowanych na dachu, gdzie widać pięknie panoramę miasta.
+[284.00 - 291.00] SPEAKER_01: Plus jeszcze jedna rzecz, którą polecam. W Atenach jest klub jazzowy, który jest toczka w toczkę taki jak nowojorski Blue Note.
+[291.00 - 298.00] SPEAKER_01: I grają tam największe gwiazdy jazzu i dostać się tam jest dużym wyczynem, ale gdy już się wejdzie, szczęście niepojęte.
+[298.00 - 309.00] SPEAKER_04: Bądźmy w kontakcie. Bądźmy w kontakcie. Było wspaniale panią poznać. Bądźmy w kontakcie i po prostu spotykajmy się w słusznej sprawie, jaką jest z całą pewnością Grecja.
+[309.00 - 312.00] SPEAKER_01: Co jeszcze w programie? Proszę zobaczyć.

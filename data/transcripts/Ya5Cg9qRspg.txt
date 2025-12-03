@@ -1,0 +1,1705 @@
+[0.00 - 22.48] UNKNOWN: Witam na przedostatnim panelu sceny dyskusji.
+[22.48 - 26.76] SPEAKER_01: Już teraz widzę, że jednym z liczniejszych, tak mi się wydaje, paneli.
+[26.76 - 33.08] SPEAKER_01: Przy pierwszych było trzeba mówić, że w pierwszych rzędach miejsca są bezpłatne, przy tym miejsca stojące na końcu.
+[33.08 - 42.60] SPEAKER_01: Ale to dobrze świadczy o tym temacie, szczególnie, że zwróciłem uwagę, że mówimy już drugi dzień o tym, jak technologia wpływa na artystów, na sztukę, na teatr, na nowe media i na wiele różnych innych rzeczy.
+[42.96 - 51.96] SPEAKER_01: Ale teraz mam wrażenie, że w tym panelu, jak to się pięknie po słowiańsku mówi, odzoomujemy trochę i sprawdzimy, jak technologia wpływa na szeroki świat.
+[51.96 - 56.00] SPEAKER_01: Panel ten poprowadzi Patrycjusz Wyszga, Radio 357. Serdecznie zapraszam cię na scenę.
+[56.00 - 59.24] SPEAKER_01: Tutaj już na oklaski, wiadomo, procedura jest znajoma.
+[60.08 - 66.08] SPEAKER_01: W panelu udział wezmą Joanna Szczygielniak, Alek Tarkowski, dr Maciej Kawecki, dr Jacek Bartosiak. Zapraszamy na scenę.
+[72.64 - 74.96] SPEAKER_02: Dzień dobry, witam serdecznie. Kłaniam się państwu nisko.
+[75.56 - 80.36] SPEAKER_02: Głęboko ufam, że to jest dopiero początek frekwencji. Będzie w trakcie najbliższych minut frekwencja rosła.
+[80.72 - 83.88] SPEAKER_02: No bo i zacni pan liści, prawda?
+[83.88 - 91.08] SPEAKER_02: Gdybym był na państwa miejscu, też bym się zdecydował, żeby przyjść tutaj i posłuchać, co oni na ważne sprawy mają do powiedzenia.
+[91.08 - 94.48] SPEAKER_02: Cyfrowy świat, jak technologia kształtuje geopolityczne krajobrazy.
+[94.52 - 103.64] SPEAKER_02: To jest taka tematyka, którą żyjemy niestety w ostatnich latach szczególnie intensywnie, bo są to sprawy ważne, które się dzieją w naszej okolicy
+[103.64 - 107.84] SPEAKER_02: i bezpośrednio lub pośrednio wpływają na nasze życie i kształtują naszą przyszłość.
+[107.84 - 118.08] SPEAKER_02: To od razu do rzeczy. Jacek Bartosiak, założyciel, dyrektor generalny Strategy&Future, na pewno państwo doskonale kojarzą, być może korzystają z publikacji, oglądają, śledzą pana Jacka.
+[119.08 - 128.08] SPEAKER_02: Co moglibyśmy powiedzieć o geostrategii w erze cyfrowej? W takim momencie się znaleźliśmy, chyba bez pudła możemy mówić, że jesteśmy w erze cyfrowej.
+[128.08 - 135.08] SPEAKER_02: Coś takiego jak Big Data, jak sztuczna inteligencja, w ogóle jak rozwój technologii.
+[135.08 - 147.08] SPEAKER_02: Jak to zmienia, często pan o tym opowiada, o polu walki i o rywalizacji mocarstw w tej części świata, w innych częściach świata?
+[147.08 - 158.08] SPEAKER_02: Jak ta otoczka technologiczna, w której się znaleźliśmy, która się nieustannie codziennie zmienia w zasadzie, ona tak bardzo przyspiesza, wpływa na ten koncert mocarstw i na to, co się na świecie dzieje?
+[158.08 - 168.08] SPEAKER_03: Dziękuję bardzo, dziękuję za zaproszenie, jest mi bardzo miło. Dziękuję również za to pytanie, bo ono dotyczy samej istoty rywalizacji.
+[169.08 - 179.08] SPEAKER_04: Nowinki technologiczne, czy przełomy technologiczne, zwłaszcza organizacyjne wynikające z innowacji samej technicznej wpływają na znaczący wzrost produktywności człowieka.
+[179.08 - 185.08] SPEAKER_04: A zatem jego sprawczości, a zatem sprawczości organizmu politycznego, w którym ten człowiek pracuje.
+[185.08 - 200.08] SPEAKER_05: A to przekłada się na wzrost narzucenia woli swojej innym, bo w systemie międzynarodowym państwa nie są równe, biznesy też nie są równe, po prostu nie jesteśmy równi, no taka jest prawda i rywalizujemy.
+[200.08 - 213.08] SPEAKER_05: I te nowinki technologiczne, czy sposób sprzęgnięcia rozwoju technologicznego z produktywnością bezpośrednio ma znaczenie dla uwarunkowań geopolitycznych, geostrategicznych.
+[213.08 - 227.08] SPEAKER_04: Często jest to sprzężenie zwrotne dlatego, że państwa podejmując rywalizację starają się też kierować środki i wysiłek na daną technologię, czy to AI jak teraz, czy rozwój kosmiczny, czy konkretne systemy broni.
+[227.08 - 240.08] SPEAKER_04: Przy czym bardzo wyraźnie bym powiedział, że sama wojna kinetyczna jest tylko małym elementem tego, dlatego, że rywalizacja trwa cały czas w wyniku podziału pracy człowieka i jest nieustającym zjawiskiem.
+[240.08 - 253.08] SPEAKER_04: Również w relacjach nawet jest tak osobistych i w relacjach w ogóle codzienności tak naprawdę i całe koncepcje filozoficzne powstawały, żeby człowiekowi oswajać albo wyjaśniać dlaczego tak jest.
+[253.08 - 262.08] SPEAKER_04: Od grzechu pierworodnego po konfucjańskie różne systemy wyjaśniania rzeczywistości społecznej, czy duszy.
+[262.08 - 269.08] SPEAKER_05: Innymi słowy technologia ma jak najbardziej bezpośredni wpływ. Podsumowując na to co się dzieje i co się będzie działo.
+[269.08 - 282.08] SPEAKER_05: Czasami technologia jest tak przełomowa, że doprowadza do tak zwanej rewolucji technologicznej. Mieliśmy pierwszą rewolucję technologiczną, czyli maszyna parowa, zastąpienie pracy mięśni człowieka i zwierząt maszyną.
+[282.08 - 298.08] SPEAKER_04: Potem mieliśmy drugą rewolucję, prąd, ropa naftowa, później trzecią cyfrowa. Teraz mamy rewolucję, która nadchodzi, czy jest już z nami trochę do dyskusji, która też absolutnie zmieni oblicze ziemi, tego jak pracujemy, jak funkcjonujemy i też korelacji geopolitycznych.
+[298.08 - 310.08] SPEAKER_05: Bardzo dziękuję. Proszę Państwa mam do Was pytanie. Gdybyście byli tak łaskawi i zechcieli podnieść dłoń ci z Was, którzy w ciągu ostatniego tygodnia w jakiejś formie korzystali ze sztucznej inteligencji, w sposób świadomy.
+[310.08 - 324.08] SPEAKER_02: A ci, którzy nie podnieśli to w sposób nieświadomy korzystali pewnie. Gdzieś tam w telefonach, bo to jest gdzieś zaimplementowane, to się po prostu dzieje. To jest niesamowite, ale tak, jest dokładnie tak jak słyszeliśmy. To po prostu się dzieje, to jest tu i teraz.
+[324.08 - 338.08] SPEAKER_02: Joanna Szczegielniak, proszę Państwa, niezwykła osoba, twórca innowacyjnych rozwiązań sztucznej inteligencji w połączeniu z najnowszymi osiągnięciami neuronauki, ekspert i szkoleniowiec z obszaru praktycznego zastosowania rozwiązań sztucznej inteligencji oraz neuromarketingu dla biznesu i sektora publicznego.
+[339.08 - 360.08] SPEAKER_05: Ale także Pani Joanna jest liderem sekcji Graj do spraw aktualizacji polityki rozwoju sztucznej inteligencji i w ramach tego zespołu pół tysiąca ekspertów w tym zespole przygotowali rekomendacje do aktualizacji polityki AI w Polsce na lata 2025-2030.
+[361.08 - 385.08] SPEAKER_05: Trochę ciąg dalszy tego pytania Pani Joanna o to jak z jednej strony rozwój sztucznej inteligencji wpływa na rywalizację między tymi dużymi krajami, ale z uwzględnieniem może skupmy się przez chwilę na tym jak to dotyka, jak to wpływa na taki nie za duży kraj, ale też nie zupełnie mały jak Polska. W jaki sposób my to odczuwamy i jak w tym wszystkim funkcjonuje nasza ojczyzna?
+[386.08 - 408.08] SPEAKER_01: Dzień dobry Państwu, bardzo dziękuję za zaproszenie do tego panelu. Temat jest bardzo istotny. Naszym zdaniem, czyli ja mogę tu się wyopowiadać jako grupa Graj, czyli eksperci, to jest fenomen, po prostu pół tysiąca osób z Polski zgromadziło się, żeby robono pracować na rzecz rozwoju sztucznej inteligencji w Polsce.
+[409.08 - 434.08] SPEAKER_02: Sami z siebie, więc to nie jest, że nas ktoś tutaj inspirował. Dlatego razem współpracujemy, bo widzimy sens. Widzimy po prostu to, że Polska teraz stoi przed naprawdę wielką szansą. Jesteśmy na takim rozdrożu, że albo z tego skorzystamy i będziemy jakimś krajem, który stanowi po prostu jakość,
+[434.08 - 450.08] SPEAKER_02: albo też będziemy, no cóż, tylko krajem klienckim, czyli będziemy kupować technologie zagraniczne i to za duże pieniądze. Więc teraz od nas, od społeczeństwa, jak i od decydentów zależy bardzo, bardzo dużo.
+[450.08 - 479.08] SPEAKER_05: Były niedawno takie artykuły Rzeczpospolitej, czy przed nami są czypy, czy maliny, więc my jako Polska jesteśmy podobno bardzo dobrze w eksporcie borówki, więc albo będziemy te owoce hodować i eksportować i liczyć na to, że w ten sposób odbijemy ten świat, albo postawimy na nowe technologie, to nie tylko sztuczną inteligencję, czy technologie cyfrowe, tylko już na technologie przekrojowe i na dual use, czyli podwójnego zastosowania.
+[480.08 - 499.08] SPEAKER_05: I czy mamy tutaj potencjał i szansę? A więc tak, mamy, ponieważ mamy kapitał ludzki unikalny na skalę światową, bo to Polacy współtworzyli OpenAI i tam są właśnie w zarządzie, to nasza myśl technologiczna jest w wielu, wielu rozwiązaniach, które są stosowane na świecie.
+[499.08 - 522.08] SPEAKER_05: No i teraz bardzo, bardzo ważne jest to, żeby zaktualizować politykę rozwoju sztucznej inteligencji i wskazać właściwy kierunek. I to co, jeżeli Państwo słuchają pana Jacka, o temat strategii, geopolityki i tego, że kraj powinien tutaj nawiązywać nasz sojusze różnego rodzaju, tylko musimy zadać sobie pierwsze ważne pytanie, kim my chcemy być?
+[522.08 - 544.08] SPEAKER_05: Po pierwsze, jako kraj nie mamy w ogóle strategii takiej na 50 lat do przodu, więc tak naprawdę dryfujemy i gdzie nas wiadr zawieje, to tam zaczynamy płynąć. To nie jest dobry kierunek i dobre zachowanie, więc powinniśmy zadać sobie pytanie, jeżeli chodzi o sztuczną inteligencję, co mamy tam zrobić i jak możemy? I teraz, czy możemy zawalczyć z Stanami Zjednoczonymi i z Chinami?
+[544.08 - 569.08] SPEAKER_05: No raczej nie, nie mamy, nie jesteśmy takimi potęgami ani finansowymi, ani gospodarczymi, ale możemy wybrać sobie, zdefiniować, zidentyfikować obszary, w których mamy największy potencjał. I jest na to możliwość i jest na to czas, ponieważ sztuczna inteligencja jest na wczesnym etapie jeszcze rozwoju i nikt nie wie, w którą stronę ona dokładnie podąży i gdzie będzie największy zysk.
+[569.08 - 598.08] SPEAKER_05: Więc teraz, identyfikując takie nisze, mamy szansę na to, żeby stać się nawet liderem. I w naszej grupie, tutaj w naszych rekomendacjach, które przekazaliśmy do Ministerstwa Cyfryzacji, wskazaliśmy sześć takich projektów priorytetowych, które wysyłają się na prowadzenie i m.in. to są małe modele językowe, są to struktury wieloagentowe, jest to AI dla zdrowia, jest to federacja na sieć danych.
+[599.08 - 600.08] SPEAKER_05: Ai.
+[180.00 - 187.32] SPEAKER_04: I to są, jak i też zastosowania tutaj AI-a w sektorze i kosmicznym i obronnym.
+[187.32 - 192.52] SPEAKER_05: Ponieważ też powinniśmy zdać sobie sprawę, że musimy wiedzieć, na których obszarach mamy się skupić.
+[192.52 - 197.68] SPEAKER_05: Wiele pewnie Państwo słyszeli w przestrzeni mediowej, że Polska wydaje gigantyczne pieniądze,
+[197.68 - 202.48] SPEAKER_05: już wydała na rozwój i cyfryzacji, jak i też technologii.
+[202.48 - 209.00] SPEAKER_05: Okej, wydaliśmy, tylko nie było do tego dopisanej strategii, więc te wydatki rozeszły się, bo były rozproszone.
+[209.20 - 214.76] SPEAKER_05: Patrząc na to, na zestawienie, które przygotowała OSCD chyba w 2021 roku,
+[214.76 - 221.56] SPEAKER_04: kraje skupiają się rzeczywiście i unijne, i Stany Zjednoczone, i Chinę na określonych obszarach.
+[221.56 - 226.72] SPEAKER_04: My zadeklarowaliśmy w 2021 roku, że wybieramy aż 8 obszarów.
+[226.72 - 229.68] SPEAKER_04: No, kto bogatemu zabroni, można by było powiedzieć.
+[229.68 - 233.84] SPEAKER_04: No, jeżeli popatrzymy sobie na Japonię, która wybrała raptem 4, ale co to jest Japonia,
+[233.84 - 238.28] SPEAKER_04: jeżeli Stany Zjednoczone tylko 5, no ale my jak szaleć, to szaleć, to możemy i 8.
+[238.28 - 240.40] SPEAKER_04: Więc to nie jest dobra droga.
+[240.40 - 246.28] SPEAKER_04: Powinniśmy się powrócić tutaj do rewizji tego założenia i wybrać rzeczywiście te obszary,
+[246.28 - 253.96] SPEAKER_04: w których mamy rzeczywiście szansę, jak i też wybrać do tego odpowiednie projekty priorytetowe.
+[253.96 - 256.20] SPEAKER_04: I to jest właśnie w trakcie analizy.
+[256.20 - 262.04] SPEAKER_04: Miejmy nadzieję, że decydenci będą w stanie podjąć odpowiednią decyzję i żeby rzeczywiście
+[262.04 - 264.56] SPEAKER_05: tutaj współpracować na szerszej niwie.
+[264.56 - 269.04] SPEAKER_05: Bo to, co na przykład, jeżeli spojrzymy sobie na Chinę, które teraz są naprawdę dobrym przykładem,
+[269.04 - 279.48] SPEAKER_05: nie tyle co strategii, co też realizacji strategii, to jak AlphaGo wygrało i pokonało mistrza Go w 2016 roku,
+[279.48 - 284.64] SPEAKER_05: co obserwowało 300 milionów ludzi, no głównie rynek azjatycki, to w porównaniu do...
+[284.64 - 290.20] SPEAKER_04: To był taki fenomen i taki wstrząs dla Azji, to tak jakbyśmy teraz przynieśli piłkę nożną,
+[290.20 - 294.16] SPEAKER_04: wzięli roboty humanoidalnej i byłby mecz i roboty by wygrały.
+[294.16 - 295.92] SPEAKER_04: Z najlepszą drużyną świata.
+[295.92 - 306.16] SPEAKER_05: Więc to był taki impuls dla Chin, że trzeba coś tutaj zmienić i jest szansa, żeby wygrać w tym wyścigu światowym.
+[306.16 - 313.84] SPEAKER_05: I rok później, po tej wygranej sztucznej inteligencji, oni już opracowali strategię swoją i powiedzieli,
+[313.84 - 319.44] SPEAKER_02: że do roku 2020 nauczą się, opanują najważniejsze techniki sztucznej inteligencji.
+[319.44 - 322.20] SPEAKER_02: I do 2025 będą już...
+[326.28 - 331.36] SPEAKER_02: Dokonają przełomowego odkrycia w automatyzacji sztucznej inteligencji, więc to jest ten rok,
+[331.36 - 336.00] SPEAKER_02: zobaczymy, obserwujemy, a do 2030 będą już liderem światowym.
+[336.00 - 340.92] SPEAKER_02: Można powiedzieć teraz, patrząc na statystyki, że oni już teraz stają się liderem,
+[340.92 - 343.64] SPEAKER_02: a w niektórych obszarach są na przykład już monopolistą.
+[344.16 - 349.20] SPEAKER_02: Więc to widać, jak skutecznie można to zrobić w tym krótkim czasie.
+[349.20 - 354.20] SPEAKER_05: Według profesora Senkowskiego, jeślibyśmy mieli teraz decyzję decydentów,
+[354.20 - 360.16] SPEAKER_05: jak i też budżet na to, żeby ruszyć do przodu, to dobrze wybierając właśnie ten kierunek,
+[360.16 - 364.12] SPEAKER_05: mniej więcej 2-3 lata możemy stać się liderem w jakimś tam obszarze.
+[364.12 - 367.68] SPEAKER_05: Więc to jest taki potencjał, taka szansa i jeżeli my teraz ją zmarnujemy,
+[367.68 - 371.68] SPEAKER_05: czy nie będziemy nawet podejmować żadnej decyzji, no to jest tak samo cofanie się z tyłu.
+[371.68 - 376.64] SPEAKER_05: To, co pan Jacek z kolei mówi, no mamy sytuację geopolityczną, za naszą granicą jest wojna,
+[376.64 - 379.68] SPEAKER_05: jest zmiana po prostu układu sił, Stany Zjednoczone, Chiny,
+[379.68 - 384.00] SPEAKER_02: my musimy się jakoś odnaleźć, tylko my nawet nie mamy w tej chwili przepisu na to,
+[384.00 - 388.60] SPEAKER_01: kim chcemy być, czy mamy być partnerem i znaczącym partnerem w Unii Europejskiej
+[388.60 - 394.44] SPEAKER_01: i z kim mamy ten sojusz zawrzeć, czy też mamy być, od razu wskazujemy się na to,
+[394.44 - 398.92] SPEAKER_01: że idziemy w jakieś niszowe rolnictwo, no i będziemy krajem, rynkiem zbytu.
+[398.92 - 402.92] SPEAKER_01: Więc to jest, taki mamy teraz obecnie wybór.
+[403.20 - 408.48] SPEAKER_01: Bardzo dziękuję, w istocie zadałem to pytanie profesorowi Semkowskiemu,
+[408.48 - 412.92] SPEAKER_01: czy my mamy szansę wciąż skoczyć do tego pociągu, czy on nam już odjechał?
+[412.92 - 417.36] SPEAKER_02: To pytanie pojawia się, polecam państwu jeden z wcześniejszych odcinków na kanale Dida Skalia.
+[417.36 - 421.60] SPEAKER_02: Profesor właśnie tak odpowiada, że tak, jeżeli zdecydujemy, to wciąż jest szansa,
+[421.60 - 425.96] SPEAKER_02: żeby się na ten pociąg załapać, a kiedy Joanna mówiła o borówkach i o rolnictwie,
+[425.96 - 432.24] SPEAKER_02: kto z państwa, przypomniał mi się pewien serial, kto z państwa oglądał 1670, ten serial?
+[432.28 - 437.08] SPEAKER_02: To skojarzycie tę scenę, kiedy najsłynniejszy Jan Paweł w historii Polski mówi,
+[437.08 - 443.68] SPEAKER_02: że my mamy nasze zboża, my mamy nasze spichlerze, więc niepotrzebne są nam jakieś innowacje.
+[443.68 - 446.20] SPEAKER_02: I on tłumaczy wtedy, że z rozmowem z jakimś Włochem, który powiedział,
+[446.20 - 448.36] SPEAKER_02: wy Polako, stupido, prawda?
+[448.36 - 452.60] SPEAKER_01: Nie pamiętam, jak on to przetłumaczył, ale to odebrał jako komplement,
+[452.60 - 457.52] SPEAKER_01: że my dzięki temu, że mamy spichlerze, że mamy zboża, że mamy rolnictwo,
+[457.52 - 462.04] SPEAKER_05: to nie musimy zajmować się jakimiś tam niepotrzebnymi innowacjami.
+[462.04 - 466.36] SPEAKER_05: Wiele wskazuje na to, że jednak powinniśmy i być może warto by do tego pociągu wskoczyć.
+[466.36 - 473.60] SPEAKER_05: Jeżeli byśmy szli tym tropem rolnictwa, co oczywiście nie uniejszając naszemu potencjału,
+[473.60 - 477.44] SPEAKER_05: bo tutaj naprawdę mamy też duże osiągnięcia i możliwości eksportowe,
+[477.44 - 480.44] SPEAKER_05: no to z zagranicą mamy konkurencję w postaci Ukrainy,
+[480.44 - 484.04] SPEAKER_05: no to kraj o wiele większy i bogatszy i tak dalej.
+[484.04 - 488.48] SPEAKER_05: No i w perspektywie to, że Unia Europejska chce podpisywać umowy
+[488.48 - 493.04] SPEAKER_05: na dostawę właśnie produktów rolnych z Marko Sur,
+[493.04 - 498.76] SPEAKER_05: więc to nie jest taki kierunek, który byłby dobry, tak jak w tym filmie,
+[498.76 - 503.92] SPEAKER_05: więc musimy wziąć pod uwagę to, że możemy tutaj zawalczyć raczej o te nowe technologie
+[503.92 - 508.80] SPEAKER_05: i zwłaszcza, że my powołaliśmy również kapitułę konsultacyjną AI
+[508.80 - 512.64] SPEAKER_05: składającą się z najlepszych profesorów i ekspertów AI w Polsce,
+[512.64 - 516.04] SPEAKER_05: między innymi jest tam też profesor Sankowski
+[516.04 - 521.24] SPEAKER_05: i oni jednym głosem mówią, że teraz musimy działać i teraz iść do przodu,
+[521.24 - 526.64] SPEAKER_05: bo polska nauka ma ten potencjał, eksperci też, tylko musimy mieć warunki,
+[526.64 - 531.16] SPEAKER_05: więc tu jest też warunki do tego, żeby stworzyć nam możliwości.
+[531.16 - 534.52] SPEAKER_05: Bardzo dziękuję, ale żeby to nie było tak, żeby państwo nie myśleli,
+[534.52 - 539.52] SPEAKER_05: że to jest jakaś tam sztuczna inteligencja i jacyś tam wybitni naukowcy
+[539.52 - 543.68] SPEAKER_05: i że to są wysokie tematy, nam szaraczkom niespecjalnie dostępne,
+[543.68 - 548.28] SPEAKER_05: więc może kiedyś ewentualnie skorzystamy z dobrodziejstw takiego rozwoju
+[548.28 - 551.72] SPEAKER_05: tych najbardziej doskonałych, najnowocześniejszych technologii nad Wisłą,
+[551.72 - 554.60] SPEAKER_05: ale póki co nie, bo to nie dla nas, to raczej dla nich.
+[554.60 - 558.40] SPEAKER_05: Nie chcę, żeby tak było, bo to w istocie może być też sprawa,
+[558.40 - 561.44] SPEAKER_05: która bezpośrednio nas dotyczy i o to teraz chciałbym zapytać.
+[561.44 - 565.60] SPEAKER_05: Alek Tarkowski, proszę państwa, jest socjologiem, aktywistą cyfrowym i strategiem.
+[565.60 - 569.60] SPEAKER_05: Jest współzałożycielem i dyrektorem ds. strategii w Open Future,
+[569.60 - 572.92] SPEAKER_05: to jest europejski think tank na rzecz cyfrowego commons.
+[572.92 - 575.52] SPEAKER_05: Jest także przewodniczącym Rady Fundacji Centrum Cyfrowe
+[575.52 - 578.32] SPEAKER_05: i o to chciałem właśnie pana doktora zapytać.
+[578.32 - 582.36] SPEAKER_05: Jak to zrobić, żeby te najnowocześniejsze technologie,
+[582.36 - 586.60] SPEAKER_05: niech to będzie sztuczna inteligencja i wszystkie inne, które w tej chwili rozwijamy,
+[586.60 - 591.08] SPEAKER_05: które tak dynamicznie niemalże wybuchają, jak ta wiosna za chwilę w Warszawie,
+[591.08 - 595.16] SPEAKER_05: żeby to służyło dobru wspólnemu, żeby to nie były tylko jakieś
+[595.16 - 598.92] SPEAKER_05: nie wiadomo jak wielkie instytucje czy korporacje, tylko żebyśmy my,
+[598.92 - 602.56] SPEAKER_01: obywatele, jak tutaj siedzimy, poczuli pewne w naszych życiach
+[602.60 - 607.20] SPEAKER_01: jakieś konkretne ulgi czy jakieś atuty wynikające z rozwoju najnowszej technologii.
+[607.20 - 608.20] SPEAKER_01: Jak to zrobić?
+[609.64 - 611.24] SPEAKER_01: Chciałem powiedzieć, że to już się dzieje.
+[611.24 - 613.36] SPEAKER_01: Może nie jak to zrobić, tylko jak to jest robione,
+[613.36 - 618.80] SPEAKER_01: bo nie wiem na ile się Państwo orientują, ale te różne rozwiązania technologiczne,
+[618.80 - 622.76] SPEAKER_01: które nazywamy sztuczną inteligencją ogólnie, są dziś dobrem wspólnym.
+[622.76 - 628.64] SPEAKER_01: W 2007 roku, może się mylę, zespół badaczy w DeepMindzie
+[628.84 - 632.48] SPEAKER_01: pracował, pracował, główkował, główkował i wymyślił architekturę
+[632.48 - 635.40] SPEAKER_01: uczenia maszynowego, która się nazywa Transformers.
+[635.40 - 640.08] SPEAKER_01: I napisali paper, attention is all you need, i on jest publicznie dostępny.
+[640.08 - 643.68] SPEAKER_02: To nie zostało opatentowane, to nie zostało zamknięte w sejfie,
+[643.68 - 648.04] SPEAKER_02: nie wiem, nie zamknięto samych tych badaczy, żeby broń Boże ktoś się nie dowiedział,
+[648.04 - 649.44] SPEAKER_02: tylko wypuszczono w świat.
+[649.44 - 655.16] SPEAKER_02: Jest to dziś architektura, na której się właśnie buduje 100% generatywnego AI
+[655.16 - 656.16] SPEAKER_02: z bardzo małymi wyjątkami.
+[656.16 - 657.52] SPEAKER_02: Łukasz Kajser stworzył.
+[657.80 - 659.76] SPEAKER_02: Jeden w zespole był Polak.
+[659.76 - 664.40] SPEAKER_02: Więc to się dzieje, ale i można te przykłady mnożyć.
+[664.40 - 671.08] SPEAKER_02: Są biblioteki w Pythonie, są konkretne benchmarki, są zazwyczaj dobrem wspólnym.
+[671.08 - 675.24] SPEAKER_02: Ten cały sektor właściwie się karmi ideą otwartego oprogramowania,
+[675.24 - 676.24] SPEAKER_03: otwartej nauki.
+[676.24 - 678.76] SPEAKER_03: No ale skoro jest tak dobrze, to dlaczego jest źle?
+[679.12 - 683.32] SPEAKER_03: No bo zupełnie inaczej wygląda sytuacja na poziomie hardware'u.
+[683.36 - 687.40] SPEAKER_03: Myślę, że to też warto za każdym razem odczarowywać.
+[687.40 - 691.52] SPEAKER_03: Mówimy, nie wiem, chmura i chyba każdy widzi jednak obłoki.
+[691.52 - 696.60] SPEAKER_03: Mówimy AI, nie wiem co widzimy, powinniśmy widzieć silikon, prawda?
+[696.60 - 701.04] SPEAKER_03: Znaczy powinniśmy widzieć czipy, powinniśmy widzieć karty GPU.
+[701.04 - 705.84] SPEAKER_03: I pamiętaj, że w tym obszarze monopolistą, który kontroluje zdaje się 90%
+[705.84 - 708.12] SPEAKER_03: albo więcej rynku jest po prostu dzisiaj Nvidia.
+[708.12 - 711.56] SPEAKER_03: Z małymi wyjątkami AMD próbuje konkurować.
+[712.36 - 716.80] SPEAKER_03: Po prostu ma gorsze technologie, próbuje coś robić Amazon.
+[716.80 - 719.08] SPEAKER_03: To są jakieś po prostu pojedyncze procenty.
+[719.08 - 724.08] SPEAKER_03: Więc jeśli chodzi o ten niezbędny tak zwany kompiuto, moce obliczeniowe,
+[724.08 - 726.60] SPEAKER_03: to po prostu sytuacja wygląda zupełnie inaczej.
+[726.60 - 730.20] SPEAKER_03: Tu może chciałem trochę nawiązać, bo cieszę się, że na koniec wspomniałaś,
+[730.20 - 733.20] SPEAKER_03: powiedziałbym wreszcie, o Unii Europejskiej.
+[733.20 - 736.88] SPEAKER_03: Bo gdy słyszę te dyskusje Polska, Polska, Polska, co my zrobimy
+[736.88 - 739.08] SPEAKER_01: i my mamy nasz talent, no świetnie.
+[739.16 - 742.96] SPEAKER_01: Ja bym chciał, żeby ktoś napisał strategię rozwoju AI w Polsce
+[742.96 - 747.64] SPEAKER_01: na mocy naszych realnych, własnych, suwerennych zasobów.
+[747.64 - 750.80] SPEAKER_01: No i przepraszam wystąpienie, powiedziałbym, że szybko moim zdaniem
+[750.80 - 754.52] SPEAKER_01: dojdziemy do strategii, za przeproszeniem, obrączkowania tych informatyków,
+[754.52 - 756.20] SPEAKER_01: żeby z Polski nie wyjechali.
+[756.20 - 759.76] SPEAKER_01: Bo problem z polskim talentem jest taki, że on jest w dużej mierze w Dolinie Krzemowej.
+[759.76 - 763.56] SPEAKER_01: O tyle nie jest najgorzej, że to nie jest tylko nasz problem w Europie.
+[763.56 - 767.72] SPEAKER_01: Polska jest w dokładnie tej samej sytuacji, co właściwie wszystkie inne państwa europejskie.
+[768.04 - 771.80] SPEAKER_01: My na przykład nie mamy ani startupów, ani już większego rozmiaru firm AI,
+[771.80 - 774.88] SPEAKER_01: bo w ogóle nie mamy za dużo tak zwanych jednorożców.
+[774.88 - 780.00] SPEAKER_01: Mamy Spotify, mamy Aidena finansowego, no i można by się jeszcze może upierać coś jeszcze.
+[360.00 - 364.00] SPEAKER_05: Ale wydaje mi się, że to jest fundamentalne wyzwanie i Europa ma trudno,
+[364.00 - 368.00] SPEAKER_05: ale jeśli już mamy dać radę, to musimy to zrobić na poziomie europejskim.
+[368.00 - 372.00] SPEAKER_05: I tam na przykład, i dopiero moim zdaniem Europa na przykład może myśleć
+[372.00 - 378.00] SPEAKER_05: o idei zadbania o moce obliczeniowe, które są tutaj punktem wyjścia.
+[378.00 - 382.00] SPEAKER_05: Pamiętajmy, ja przepraszam, ale ja często mam taką potrzebę trochę
+[382.00 - 385.00] SPEAKER_02: wylewać kubeł zimnej wody do tej dyskusji i chętnie usłyszę,
+[385.00 - 388.00] SPEAKER_01: jeśli się nie zgadzacie, no ale widzę to na przykład tak, że Europa
+[388.00 - 393.00] SPEAKER_01: uruchamia program tak zwanych fabryk AI. Budżet nie był imponujący.
+[393.00 - 397.00] SPEAKER_01: On był na początku 2 miliardy, został zwiększony do 10 miliardów.
+[397.00 - 401.00] SPEAKER_01: XAI Maska wydało w zeszłym roku prawdopodobnie samo 6 miliardów
+[401.00 - 404.00] SPEAKER_01: na jedno centrum danych kolosusa w Memphis.
+[404.00 - 407.00] SPEAKER_01: No więc te liczby nie są imponujące, ale coś się dzieje.
+[407.00 - 410.00] SPEAKER_01: No ale Polska ledwo się dostała do tego AI Factor
+[410.00 - 414.00] SPEAKER_01: jako mniejszościowy partner fabryki fińskiej Lumi.
+[415.00 - 419.00] SPEAKER_02: Ja bardzo się cieszę, uważam, że XAI w ogóle robi świetną robotę,
+[419.00 - 423.00] SPEAKER_02: tylko też mam takie poczucie, że trochę wszyscy mówimy takim głosem
+[423.00 - 427.00] SPEAKER_02: mamy świetne pomysły, tylko ktoś nam musi stworzyć warunki
+[427.00 - 430.00] SPEAKER_02: i ja nie do końca wiem, kim jest ten ktoś.
+[430.00 - 431.00] SPEAKER_02: Mityczny trochę.
+[431.00 - 433.00] SPEAKER_05: Ale my dajemy receptę w naszych rekomendacjach.
+[433.00 - 435.00] SPEAKER_02: To tylko pytanie dla kogo?
+[435.00 - 436.00] SPEAKER_02: Dla decydentów.
+[436.00 - 440.00] SPEAKER_02: No dla decydentów, prawda? Dla tych trochę mitycznych decydentów.
+[440.00 - 444.00] SPEAKER_02: Ja też bardzo dużo jako think tank publiczny, pozarządowy
+[444.00 - 448.00] SPEAKER_02: oczekuję od decydentów, formułuję wizję polityki publicznej,
+[448.00 - 450.00] SPEAKER_01: ale może jeszcze do tego wrócimy.
+[450.00 - 453.00] SPEAKER_01: Wydaje mi się, że też mamy pewne, może to o tym jest,
+[453.00 - 455.00] SPEAKER_01: te położenie geopolityczne i pewna historia,
+[455.00 - 458.00] SPEAKER_01: która strasznie utrudnia to decydentom, wydaje mi się.
+[458.00 - 461.00] SPEAKER_05: Tak, ale mamy też, chcemy stworzyć taką przyjazny ekosystem,
+[461.00 - 464.00] SPEAKER_05: nie wiem, czy teraz mogę o tym powiedzieć, czy to będzie za chwileczkę,
+[464.00 - 469.00] SPEAKER_05: który rzeczywiście, myśmy w pracach szukali takiego najlepszego rozwiązania.
+[470.00 - 473.00] SPEAKER_05: Proszę państwa, cofnęliśmy się daleko wstecz,
+[473.00 - 478.00] SPEAKER_05: bo pierwszy model ekosystemu, tutaj współpracy technologii,
+[478.00 - 484.00] SPEAKER_05: świata nauki, biznesu i sektora społecznego powstał w 2001 roku,
+[484.00 - 486.00] SPEAKER_05: więc za chwilę będzie ćwierć wieku.
+[486.00 - 488.00] SPEAKER_05: I nadal poszukujemy tego rozwiązania.
+[488.00 - 493.00] SPEAKER_05: Nie to, że to jest mega innowacyjne i na miarę tutaj nagrody Nobla,
+[493.00 - 495.00] SPEAKER_05: bo to w innych krajach działa.
+[495.00 - 498.00] SPEAKER_05: Dlaczego u nas nie działa? No to każdy musi sobie znaleźć tą odpowiedź.
+[498.00 - 502.00] SPEAKER_05: Więc nawet nie chcemy się już na tym skupiać, tylko chcemy przystąpić do działania
+[502.00 - 505.00] SPEAKER_05: i rzeczywiście potrzebny jest tutaj tylko parasol.
+[505.00 - 513.00] SPEAKER_05: Parasol sektora społecznego, który umożliwi rozwój poprzez system zachęt,
+[513.00 - 517.00] SPEAKER_05: ulg podatkowych dla biznesu, jak i też wskaże kierunek nauce,
+[517.00 - 519.00] SPEAKER_05: gdzie powinna się rozwijać.
+[519.00 - 525.00] SPEAKER_05: Reszta już, to jest bardzo dużo, plus dotacje i programy finansowe,
+[526.00 - 531.00] SPEAKER_05: które pomogą nawiązać taką platformę, stworzyć platformę współpracy właśnie
+[531.00 - 536.00] SPEAKER_05: pomiędzy nauką, biznesem, żeby to, co odkrywa nauka,
+[536.00 - 539.00] SPEAKER_05: można było przyjść do biznesu i zarówno w drugą stronę,
+[539.00 - 543.00] SPEAKER_05: biznes potrzebuje określonego rozwiązania, nie wie jak to zrobić,
+[543.00 - 545.00] SPEAKER_05: żeby mógł przyjść do nauki.
+[545.00 - 550.00] SPEAKER_05: I tu jest potrzebna np. taka struktura jak Wirtualny Instytut Badawczy,
+[550.00 - 552.00] SPEAKER_05: czyli usieciowienie tych uczelni.
+[552.00 - 556.00] SPEAKER_05: Nieważna jest nazwa, do której nie powinniśmy się nawet przywiązywać,
+[556.00 - 560.00] SPEAKER_05: bo tutaj też już były pewne głosy, żeby jednak z niej rezygnować.
+[560.00 - 566.00] SPEAKER_05: To pojawiło się po raz pierwszy w polityce AI naszej Polski w 2020 roku,
+[566.00 - 570.00] SPEAKER_05: ale potrzeba tego jest tak duża, ponieważ jednostki naukowe,
+[570.00 - 574.00] SPEAKER_05: które mamy, są rozproszone i one między sobą nie współpracują.
+[574.00 - 578.00] SPEAKER_05: Więc żeby dać tą siłę i żeby zaistnieć na arenie unijnej
+[578.00 - 581.00] SPEAKER_05: i tam być partnerem, potrzebujemy je połączyć.
+[581.00 - 585.00] SPEAKER_05: I rzeczywiście tutaj jest też potrzebna taka inicjatywa.
+[585.00 - 587.00] SPEAKER_05: Na razie się dzieje to oddolnie.
+[587.00 - 589.00] SPEAKER_05: Możliwe, że pomarzymy tutaj jako gra
+[589.00 - 594.00] SPEAKER_05: i możliwe, że uda się przekonać też decydentów, żeby wreszcie to zaistniało.
+[594.00 - 595.00] SPEAKER_05: Bardzo dziękuję.
+[595.00 - 598.00] SPEAKER_05: Maciej Kawecki, proszę Państwa, jest dyrektorem Centrum Innowacji
+[598.00 - 601.00] SPEAKER_05: Uniwersytetu WSB Merito.
+[601.00 - 606.00] SPEAKER_01: Jest prezesem Instytutu Lema, ale być może kojarzą Państwo Maćka
+[606.00 - 609.00] SPEAKER_01: przede wszystkim jako fantastycznego twórcę YouTube'owego.
+[609.00 - 612.00] SPEAKER_01: Prowadzi kanał This Is It, a właściwie This Is IT.
+[612.00 - 615.00] SPEAKER_01: Fantastyczną robotę robi Maciek na YouTube.
+[615.00 - 619.00] SPEAKER_01: Jeśli jeszcze tego nie znacie, to koniecznie zasubskrybujcie jego kanał.
+[619.00 - 622.00] SPEAKER_01: Mówiąc krótko, rozmawia z naukowcami, jeździ po świecie,
+[622.00 - 626.00] SPEAKER_01: spotyka się z tymi najwybitniejszymi, jak prof. Roger Penrose,
+[626.00 - 629.00] SPEAKER_01: na przykład żyjącymi współcześnie naukowcami.
+[629.00 - 632.00] SPEAKER_01: Więc to są właśnie te treści, które bardzo bym chciał,
+[632.00 - 638.00] SPEAKER_01: żeby się rozprostrzeniały w tej polskiej sferze internetowej jak najszerzej.
+[638.00 - 642.00] SPEAKER_02: Maćku, no właśnie, bo ty też trochę, no właśnie, przez to, że wędrujesz,
+[642.00 - 645.00] SPEAKER_02: że podróżujesz, że nagrywasz te wywiady nie tylko w Polsce,
+[645.00 - 649.00] SPEAKER_02: ale jeździsz za tymi naukowcami w różne zakątki świata.
+[649.00 - 654.00] SPEAKER_02: No właśnie, wypuściłeś film z takiego, być może jest to jedna z najpopularniejszych
+[654.00 - 659.00] SPEAKER_02: czy najważniejszych, obok MIT pewnie, takich politechnik
+[659.00 - 662.00] SPEAKER_02: czy takich technologicznych uczelni najlepszych na świecie.
+[662.00 - 665.00] SPEAKER_02: Polecam państwu ten najnowszy film Maćka.
+[665.00 - 668.00] SPEAKER_02: To pewnie trochę wiesz, podsłuchujesz, zerkasz, zaglądasz za kotarę,
+[668.00 - 673.00] SPEAKER_02: co się w tych laboratoriach, które pracują nad AI w tej chwili dzieje.
+[673.00 - 678.00] SPEAKER_02: To znaczy, nad czym oni tam pracują? Co oni tam trzymają w piwnicach?
+[678.00 - 682.00] SPEAKER_03: Czy oni trzymają w piwnicach coś takiego, czego się powinniśmy obawiać?
+[682.00 - 684.00] SPEAKER_03: Czy nie? Jaki jest ten brakujący puzel?
+[684.00 - 688.00] SPEAKER_03: I co będzie, kiedy oni go już do tej układanki dołożą?
+[689.00 - 691.00] SPEAKER_03: Brakującym puzlem oczywiście jest fizyka.
+[691.00 - 697.00] SPEAKER_03: To znaczy, cały świat sztucznej inteligencji, wszystkie największe laboratoria,
+[697.00 - 701.00] SPEAKER_03: czy spojrzymy sobie na MEDE, czy na zespół googlowski,
+[701.00 - 704.00] SPEAKER_03: to wszystkie oczywiście poszukują odpowiedzi na pytanie, co zrobić,
+[704.00 - 709.00] SPEAKER_03: żeby przenieść świat fizyczny do świata cyfrowego.
+[709.00 - 714.00] SPEAKER_03: Próbowaliśmy zrobić to na różne sposoby i cały czas ten paradoks Moraweka
+[715.00 - 719.00] SPEAKER_03: pozostaje aktualny. Paradoks, który mówi o tym, jak to się dzieje,
+[719.00 - 724.00] SPEAKER_03: że z jednej strony mamy dzisiaj mechanizmy, opracowaliśmy te trzy filary
+[724.00 - 730.00] SPEAKER_03: uczenia maszynowego, zdolne do tego, żeby rozwiązywać najgłębsze łamigłówki.
+[730.00 - 734.00] SPEAKER_03: Mamy ten free reasoning, abstractional thinking w modelu O1,
+[734.00 - 738.00] SPEAKER_03: który gdzieś tam zaczyna już wykazywać cechy abstrakcyjnego rozumowania,
+[738.00 - 743.00] SPEAKER_01: ale cały czas roboty nie są zdolne do tego, żeby na naszą kobędę podejść
+[743.00 - 747.00] SPEAKER_01: i w sposób płynny w przestrzeni fizycznej przenieść szklankę
+[747.00 - 750.00] SPEAKER_01: z jednej części stołu do drugiej części stołu.
+[750.00 - 755.00] SPEAKER_01: Co jest przyczyną tego? Oczywiście my tego dzisiaj nie wiemy.
+[755.00 - 759.00] SPEAKER_01: Wiemy o tym, że to uczenie nadzorowane, uczenie ze wzmocnieniem,
+[759.00 - 763.00] SPEAKER_01: wykorzystywanie warstwy językowej jest niewystarczające
+[763.00 - 766.00] SPEAKER_01: i poszukujemy dzisiaj, głównie Laboratorium MEDE w Paryżu,
+[766.00 - 771.00] SPEAKER_01: nad tym pracuje Jana Lekun, poszukujemy odpowiedzi na pytanie, co zrobić.
+[772.00 - 778.00] SPEAKER_01: Najbardziej prawdopodobną hipotezą jest oczywiście to,
+[778.00 - 782.00] SPEAKER_02: że my nie znamy natury rzeczy, nie znamy pełnej natury świata,
+[782.00 - 786.00] SPEAKER_02: nie znamy natury rzeczywistości, nie wiemy jak funkcjonuje ludzki mózg
+[786.00 - 790.00] SPEAKER_02: ze wszystkimi jego detalami, nie wiemy na przykład, wiem o tym,
+[790.00 - 795.00] SPEAKER_02: że na wszystko co modelujemy w przestrzeni cyfrowej wpływ powinna mieć grawitacja,
+[795.00 - 800.00] SPEAKER_03: no bo jeżeli ma mieć wierną odzwierciedleniem rzeczywistości analogowej,
+[800.00 - 804.00] SPEAKER_02: no to ten punkt wyjścia jest fundamentalny, ale nie wiemy na przykład,
+[804.00 - 807.00] SPEAKER_02: co jest źródłem grawitacji, my tylko wiemy, że grawitacja istnieje,
+[807.00 - 812.00] SPEAKER_02: ale nie wiemy, co jest źródłem grawitacji, co tworzy grawitację.
+[812.00 - 817.00] SPEAKER_02: Już mówiłeś o Penrose, czyli o wszystkie tematy związane ze świadomością,
+[817.00 - 821.00] SPEAKER_02: czym jest świadomość, czy ona rodzi się na poziomie kwantowym,
+[821.00 - 825.00] SPEAKER_02: czy rodzi się na poziomie klasycznym, jeżeli rodzi się na poziomie klasycznym,
+[825.00 - 828.00] SPEAKER_02: no to będziemy w stanie zamknąć system binarny, jeżeli nie,
+[828.00 - 831.00] SPEAKER_02: będziemy wiedzieć o tym, że nie, to są wszystko te pytania,
+[831.00 - 834.00] SPEAKER_03: które dzisiaj kłopotają świat sztucznej inteligencji,
+[834.00 - 839.00] SPEAKER_03: to jest ten czwarty filar, który dzisiaj próbujemy przeskoczyć
+[839.00 - 843.00] SPEAKER_02: i jak spojrzymy sobie na tę, chociażby tę ostatnio sprzed trzech tygodni
+[843.00 - 849.00] SPEAKER_02: konferencję NVIDI, która spektakularnie chciała pokazać nam swoje roboty,
+[849.00 - 853.00] SPEAKER_03: no ona jest tak naprawdę dowodem na to, jak daleko jeszcze dzisiaj w tym obszarze
+[853.00 - 857.00] SPEAKER_03: jesteśmy, czyli mówiąc wprost, to nad czym dzisiaj pracuje świat,
+[857.00 - 862.00] SPEAKER_03: to jest próba przeniesienia praw fizyki do świata cyfrowego,
+[862.00 - 868.00] SPEAKER_02: czyli mówiąc wprost, AI, która rozumie przestrzenność, trójwymiarowość wszechświata.
+[868.00 - 873.00] SPEAKER_02: To jest bardzo fajne przejście od mnie, co robią te laby,
+[873.00 - 876.00] SPEAKER_02: do mówienia, co robi świat, bo wydaje mi się, że żyjemy w tej takiej sytuacji,
+[876.00 - 882.00] SPEAKER_02: gdy wszyscy spoglądamy na te laboratoria i mówimy, panowie, to co my wszyscy
+[882.00 - 886.00] SPEAKER_02: teraz budujemy, a oni po pierwsze mówią, nie, to my budujemy
+[886.00 - 891.00] SPEAKER_02: i to my jesteśmy wyjątkowi i pamiętajmy, uważam, geopolityka najczęściej,
+[891.00 - 895.00] SPEAKER_02: prawda, to są tematy typu USA i Chiny, czy Ukraina i Rosja.
+[895.00 - 899.00] SPEAKER_02: Uważam, że jest też geopolityka między tymi największymi labami
+[899.00 - 903.00] SPEAKER_02: i resztą świata, czy społecznościami i to nie mówię tego ja,
+[903.00 - 908.00] SPEAKER_02: tylko mówią to sami technolodzy, to znaczy, gdy jest masa teraz książek,
+[908.00 - 913.00] SPEAKER_02: takie jak pomysły na Network State, czy ta najnowsza książka współzałożyciela
+[913.00 - 920.00] SPEAKER_02: Palantira, która się nazywa Technological Empire i to są technopolityczne,
+[920.00 - 925.00] SPEAKER_02: geopolityczne wizje mocy korporacji, zasilanych potężnymi technologiami
+[925.00 - 929.00] SPEAKER_02: i to mi się wydaje bardzo ważne, bo na przykład uważam świetnie,
+[929.00 - 934.00] SPEAKER_02: że zaglądasz do tych laboratoriów, bo jesteśmy jako, uogólniam to,
+[934.00 - 939.00] SPEAKER_02: proszę Państwa, w trudnej sytuacji, my trochę ufamy dosyć zamkniętym firmom,
+[939.00 - 944.00] SPEAKER_02: paradoksalnie mówiłem, one niektórymi rzeczami się dzielą niezmiernie hojnie,
+[944.00 - 949.00] SPEAKER_02: są też takie trendy, żeby pewne rzeczy wypuszczać, bo to też ma sens biznesowy,
+[949.00 - 954.00] SPEAKER_05: ale mam wrażenie, że tymi takimi największymi zagadkami jednak się nie dzielą
+[954.00 - 959.00] SPEAKER_05: i my musimy ufać tym firmom, w jakim to wszystko kierunku zmierza.
+[540.00 - 545.00] SPEAKER_05: na przykład Ilii Sudskeverowi, który mówi, że już pewne dotychczasowe
+[545.00 - 549.44] SPEAKER_05: modele skalowania AI się nie sprawdzają, teraz stawiamy na nowe i trzeba chwilę
+[549.44 - 552.88] SPEAKER_05: pomyśleć i przypomnieć sobie, że on właśnie założył firmę, która próbuje
+[552.88 - 557.80] SPEAKER_05: dostać wielomiliardowe dofinansowanie z funduszy Venture Capital, dokładnie na
+[557.80 - 562.28] SPEAKER_05: ten pomysł. I to mnie bardzo zastanawia i to też uważam jest geopolityka, jak
+[562.28 - 567.40] SPEAKER_05: jednak wielkie pieniądze skrzywiają fundamentalne pytania o to, dokąd to
+[567.40 - 571.48] SPEAKER_05: zmniejsza. Bardzo dziękuję, jeszcze dopytam, Maćku, ty mówiłeś, czy to, o czym
+[571.48 - 575.48] SPEAKER_05: ty mówiłeś, o odnalezieniu się sztucznej inteligencji w przestrzeni
+[575.48 - 579.52] SPEAKER_05: fizycznej, w sensie w kuchni, to jest coś, co się nazywa tym testem
+[579.52 - 584.32] SPEAKER_05: cappuccino, żeby wpuścić robota do kuchni, w której nigdy go nie było i po
+[584.32 - 588.48] SPEAKER_05: prostu poprosić o zrobienie kawy, znaczy on musi sam ogarnąć resztę, to o to
+[588.48 - 593.24] SPEAKER_05: chodzi? No tak i o to chodzi, dokładnie o to chodzi, nie chodzi o to, żeby case by
+[593.24 - 597.28] SPEAKER_05: case mapować tą przestrzeń, ponieważ kiedy ją zmapujemy, stworzymy cyfrowego
+[597.28 - 601.04] SPEAKER_05: bliźniaka tej przestrzeni, do której robot będzie potrafił się w niej znaleźć.
+[601.04 - 606.48] SPEAKER_01: No i ten paradeks Moraweka mówi o tym, że wbrew pozorom, wbrew temu, co do tej
+[606.48 - 612.00] SPEAKER_01: pory myśleliśmy w nauce, myślenie abstrakcyjne nie wymaga dużej mocy
+[612.00 - 617.60] SPEAKER_01: obliczeniowej, a więc na poziomie wysokopoziomowym, ale przeniesienie jej na
+[617.60 - 622.80] SPEAKER_01: poziom percepcji niskopoziomowego, czyli tego, co wykonujemy, wymaga ogromnej
+[622.80 - 627.36] SPEAKER_01: mocy obliczeniowej. Problem polega na tym, że ta percepcja ma fundamentalny wpływ
+[627.36 - 631.24] SPEAKER_01: również na to, co się dzieje na poziomie abstrakcyjnym, dlatego, bo my odbieramy
+[631.24 - 635.16] SPEAKER_01: dzisiaj jednak świat różnego rodzaju zmysłami, które zakotwiczone są w naszym
+[635.16 - 641.32] SPEAKER_02: organizmie. No i na tym dzisiaj pracują laboratoria, żeby spróbować jednak dojść
+[641.32 - 647.32] SPEAKER_02: do tego punktu, w jaki sposób to zrobimy, no nikt tego dzisiaj jeszcze chyba do końca
+[647.32 - 649.44] SPEAKER_02: nie wie, ale na pewno to będą najbliższe lata.
+[649.68 - 653.56] SPEAKER_02: Bardzo dziękuję. Jacek Bartosiak jest niewątpliwie człowiekiem, który, proszę
+[653.56 - 658.28] SPEAKER_02: Państwa, sprawił, że Polacy en masse, no pewnie nie wszyscy, ale że to się stało
+[658.28 - 663.40] SPEAKER_02: masowe, mówiąc krótko, że zaczęliśmy się interesować dzięki jego przeróżnym
+[663.40 - 667.04] SPEAKER_02: wystąpieniom, przeróżnym wykładom, przeróżnym wywiadom, przeróżnym książkom,
+[667.04 - 671.16] SPEAKER_02: być może przede wszystkim dzięki książkom o takimi dużymi tematami, prawda,
+[671.16 - 676.48] SPEAKER_02: geopolityką czy geostrategią zaczęliśmy myśleć o takich, no interesować się po prostu
+[676.48 - 683.12] SPEAKER_03: takimi globalnymi układankami. Zaczęło nas to po prostu frapować, to jest niewątpliwa
+[683.12 - 688.08] SPEAKER_03: zasługa. No to trochę w kontekście tego, o czym tutaj teraz mówimy.
+[688.08 - 691.04] SPEAKER_03: Jest świetna książka, może niektórzy z Państwa już są po lekturze,
+[691.04 - 696.04] SPEAKER_03: Wojna o czipy, książka, która być może opowiada o tym, co za chwilę przed nami,
+[696.04 - 701.52] SPEAKER_03: ale jestem ciekaw, co Pan myśli o jednym konkretnym ruchu, właściwie biznesowym,
+[701.56 - 706.32] SPEAKER_03: korporacyjnym ruchu. On się chyba jeszcze zaczął, czy został zapowiedziany przez
+[706.32 - 709.60] SPEAKER_03: administrację Joe Bidena, ale wydarzył się teraz za Donalda Trumpa.
+[709.60 - 714.44] SPEAKER_03: Myślę o przeniesieniu tej fabryki TCMC, chyba tak się nazywa ten produk...
+[714.44 - 719.60] SPEAKER_03: tajwański producent czipów, który się przenosi z niektórymi fabrykami z Tajwanu
+[719.60 - 725.60] SPEAKER_03: do Stanów Zjednoczonych. Jeżeli Amerykanie mieli jakieś preteksty, żeby bronić Tajwanu,
+[725.60 - 729.72] SPEAKER_03: być może za wszelką cenę, to były te czipy, które tam były produkowane, ważne także dla
+[729.72 - 734.12] SPEAKER_03: Amerykanów. Pytanie, czy teraz, kiedy to jest przenoszone z Tajwanu do Stanów Zjednoczonych,
+[734.12 - 738.12] SPEAKER_03: to te argumenty Amerykanie tracą, czy bardzo się mylę?
+[738.12 - 743.88] SPEAKER_01: Okej, to jest też bardzo złożony temat, dlatego, że tak ostatecznie nie przenoszą
+[743.88 - 751.28] SPEAKER_01: za bardzo Ci Tajwańczycy tych fabryk z bardzo wielu powodów. Jednym z tych powodów jest,
+[751.28 - 755.24] SPEAKER_01: mówiąc zupełnie brutalnie, niska kultura techniczna w Stanach Zjednoczonych
+[755.24 - 760.52] SPEAKER_01: wskutek deindustrializacji, bo co innego jest mieć w Dolinie Krzemowej geniuszy,
+[760.52 - 767.24] SPEAKER_01: czyli jak ostatnio Reydaliu mówił, co innego jest mieć milion spośród 350 czy 340 milionów,
+[767.24 - 772.04] SPEAKER_01: milion wybitnych osób o świetnym wykształceniu, wysokiej inteligencji,
+[772.04 - 781.04] SPEAKER_01: bardzo rezolutnych i przedsiębiorczych, a do tego 60% społeczeństwa na poziomie
+[781.24 - 785.24] SPEAKER_02: intelektualnym szóstej klasy podstawówki, bo tak jest teraz w Stanach Zjednoczonych
+[785.24 - 792.24] SPEAKER_02: i skutek tego, jak gdyby przyczyną tego jest kapitalizm finansowy i głęboka
+[792.24 - 797.64] SPEAKER_02: deindustrializacja, która zaczęła się na początku lat 70. Po prostu można było
+[797.64 - 800.84] SPEAKER_03: robić pieniądze nie pracując w przemyśle i nie zarabiając na przemyśle.
+[800.84 - 807.84] SPEAKER_02: Długi temat, nie będę rozwijał i przy produkcji półprzewodników jest potrzebna
+[807.84 - 815.04] SPEAKER_02: bardzo wysoka kultura techniczna, której braki czasami nawet momentami
+[815.04 - 820.24] SPEAKER_02: przejawia się w złej organizacji pracy, w kosztach dodatkowych i tak dalej.
+[820.24 - 826.24] SPEAKER_02: Więc wielokrotnie się skarżyli ci włodarze w tych fabrykach, że Amerykanie
+[826.24 - 830.24] SPEAKER_02: ich przymuszają, ale nie bardzo to będzie działać, czy nie bardzo działa,
+[830.24 - 834.64] SPEAKER_03: więc jest to nierozstrzygnięta sprawa. Dotyczy to zresztą bardzo wielu
+[834.64 - 837.24] SPEAKER_03: technologii nowoczesnych w Stanach Zjednoczonych, bo co innego jest
+[837.24 - 842.04] SPEAKER_03: wymyślać, a co innego jest potem w materiale to zrobić i to na dużą skalę.
+[842.04 - 849.44] SPEAKER_02: Elon Musk wielokrotnie o tym mówił i to z czego kiedyś zachód był znany,
+[849.44 - 854.04] SPEAKER_03: czyli podejmowanie ryzyka przedsiębiorczego, podejmowanie ryzyka
+[854.04 - 860.84] SPEAKER_03: budownictwa określonego, budowy mostów, okrętów, statków, promów kosmicznych,
+[860.84 - 866.24] SPEAKER_02: prototypowanie szybkie, wskutek różnego rodzaju zjawisk, w tym kapitalizmu
+[866.24 - 871.44] SPEAKER_02: finansowego, w dużej mierze zostało wytracone i to jest poważny problem.
+[871.44 - 875.84] SPEAKER_02: Nie wiem jak to się konkretnie będzie przekładało na rozwój AI, to na pewno
+[875.84 - 879.64] SPEAKER_02: tutaj pozostali uczestnicy dużo bardziej kompetentnie ode mnie się wypowiedzą,
+[879.64 - 883.84] SPEAKER_02: natomiast myślę, że jest to głęboki problem i skoro powiedzieliśmy o Unii
+[883.84 - 887.24] SPEAKER_02: Europejskiej, dobrze by było, żeby Unia Europejska przez swoje słabne
+[887.24 - 891.04] SPEAKER_02: regulacje zadbała, żeby to się nie wydarzyło, bo Unia Europejska póki co
+[891.04 - 896.04] SPEAKER_02: jeszcze produkuje różne rzeczy, jest behemotem eksportowym, ma wysokiej
+[896.04 - 900.44] SPEAKER_02: jakości produkcję, bo tak wszyscy narzekamy na tą Unię, ale to jest
+[900.44 - 905.44] SPEAKER_02: absolutny behemot eksportowy świata, ze względu na jakość przede wszystkim
+[905.44 - 910.84] SPEAKER_02: produkcji w Europie, co daje nam model określonego funkcjonowania
+[910.84 - 914.64] SPEAKER_02: standardu życiowego, typu że się we Francji, w Niemczech za dużo nie pracuje,
+[914.64 - 919.84] SPEAKER_02: bo mamy wystarczającą marżę, no i cała ta rewolucja AI, sztucznej
+[919.84 - 923.44] SPEAKER_02: inteligencji dobrze jakby też się wkomponowała, żeby Europa miała pomysł
+[923.44 - 927.04] SPEAKER_02: na to w tym zakresie, bo mówię ja się nie czuję jakoś wybitnie kompetentny,
+[927.04 - 931.04] SPEAKER_02: ale to czytam ten raport, tamten raport i że Europa prawda zostaje w tyle,
+[931.04 - 938.24] SPEAKER_02: ale to musi też mieć wymiar fizycznego wykonywania tych rzeczy,
+[938.24 - 942.44] SPEAKER_02: o których tutaj Pan wspominał, że trzeba mieć te karty pamięci, trzeba mieć
+[942.44 - 947.24] SPEAKER_02: te wszystkie rzeczy i w dobie teraz rywalizacji geopolitycznej dobrze by
+[947.24 - 950.64] SPEAKER_02: było, żeby to było wykonywane na przykład na kontynencie europejskim fizycznie.
+[950.64 - 956.04] SPEAKER_05: A jaka jest szansa na powodzenie wizji pomysłów Trumpa, to jest trudne słowo
+[956.04 - 959.84] SPEAKER_05: reindustrializację, wolę mówić o renesansie przemysłu, bo się łatwiej
+[959.84 - 964.04] SPEAKER_05: wymawia. Jaka jest szansa, że on dopnie swego, że on przekona do tego,
+[964.04 - 967.24] SPEAKER_05: że te fabryki wrócą? No i tu jest oczywiście zagadnienie nie ma na to
+[967.24 - 972.24] SPEAKER_05: mądrych, bo ja się wypowiem oczywiście z własnego punktu widzenia,
+[972.24 - 976.64] SPEAKER_05: przy czym naprawdę nie ma mądrych, dlatego, że w historii świata nigdy
+[976.64 - 979.44] SPEAKER_05: jeszcze nie próbowano zrobić tego, co robi Trump w tej chwili.
+[979.44 - 982.44] SPEAKER_05: Nikt nie ćwiczył tego.
+[982.44 - 987.84] SPEAKER_05: Nie, absolutnie nie, dlatego, że Amerykanie byli na ścieżce wzrostowej,
+[987.84 - 992.44] SPEAKER_05: mieli kapitalizm przemysłowy, to jest absolutnie nieporównywalne.
+[992.44 - 996.44] SPEAKER_05: Nikt nie rolował świata globalnej gospodarki w ten sposób,
+[996.64 - 999.64] SPEAKER_05: próbując zachować prymat dolarowy, czyli waluty rezerwowej,
+[999.64 - 1002.64] SPEAKER_05: czyli zjeść ciastko i mieć ciastko, jednocześnie dokonać reindustrializacji.
+[1002.64 - 1005.64] SPEAKER_03: Więc ja wypowiem swoje zdanie, on jest dosyć twardy.
+[1005.64 - 1008.64] SPEAKER_02: Uważam, że Amerykanie nie mają szans na reindustrializację
+[1008.64 - 1014.64] SPEAKER_02: taką, dzięki obietnicy której Trump wygrał wybory,
+[1014.64 - 1018.64] SPEAKER_02: czyli stalownie w Ohio, przemysł ciężki, chemia i tak dalej.
+[1018.64 - 1023.64] SPEAKER_02: Myślę, że mają szansę, jeżeli dokona się rewolucja kulturowa w Stanach
+[1023.84 - 1026.84] SPEAKER_02: i włodarze nowego przemysłu technologicznego,
+[1026.84 - 1029.84] SPEAKER_02: Anduril, Palantir, tego typu, SpaceX,
+[1029.84 - 1037.84] SPEAKER_02: ci, którzy już mają inne podejście do tego, co jest prawdziwą gospodarką,
+[1037.84 - 1042.84] SPEAKER_02: ale przemysłową, jeżeli oni utworzą nowe cykle technologiczne
+[1042.84 - 1045.84] SPEAKER_02: i Amerykanie będą mieli fabryki z robotami, ale już nie wszystkiego,
+[1045.84 - 1048.84] SPEAKER_02: tylko niektórych rzeczy, to w to wierzę.
+[1048.84 - 1051.84] SPEAKER_02: Tylko to i będzie bardzo wąska ścieżka przez góry,
+[1052.04 - 1056.04] SPEAKER_02: bo to będzie wymagało bardzo wielu zręcznych ruchów strategicznych.
+[1056.04 - 1059.04] SPEAKER_02: Ja na razie nie widzę takiej zręczności w administracji amerykańskiej.
+[1059.04 - 1062.04] SPEAKER_02: Innymi słowy, uważam, że Amerykanie przegrają rywalizację.
+[1062.04 - 1066.04] SPEAKER_02: Tylko, że przegrywając, boję się, że mogą podpalić nam świat,
+[1066.04 - 1069.04] SPEAKER_02: tak jak zrobił Trump zresztą półtora tygodnia temu.
+[1069.04 - 1072.04] SPEAKER_02: Ze skutkami również dla rozwoju sztucznej inteligencji
+[1072.04 - 1077.04] SPEAKER_02: i podziale świata, co najmniej na chińską i okołochińską,
+[1077.04 - 1080.04] SPEAKER_02: a może europejską i amerykańską.
+[1080.24 - 1084.24] SPEAKER_02: Natomiast absolutnie nie wierzę w przywrócenie reindustrializacji,
+[1084.24 - 1088.24] SPEAKER_02: tak, że Amerykanie produkują wszystko, robią itd.
+[1088.24 - 1091.24] SPEAKER_03: Dreszcz mnie przeszedł, nie wiem, czy Państwo mają podobnie,
+[1091.24 - 1094.24] SPEAKER_03: kiedy słyszeliśmy przed momentem, że przy okazji może podpalić świat.
+[1094.24 - 1099.24] SPEAKER_03: A czy przegrana Donalda Trumpa i niezrealizowanie tej jego wizji
+[1099.24 - 1103.24] SPEAKER_03: to się równa i jest równoznaczne ze zwycięstwem Chin?
+[1103.24 - 1108.24] SPEAKER_03: Nie, raczej Chiny nie będą miały takiej pozycji jak Stany Zjednoczone,
+[1108.44 - 1113.44] SPEAKER_03: bo dominacja amerykańska była zupełnie wyjątkowa po II wojnie światowej,
+[1113.44 - 1115.44] SPEAKER_03: nie było innych silnych przeciwników
+[1115.44 - 1118.44] SPEAKER_03: i Amerykanie kontrolowali przepływy strategiczne wszystkie.
+[1118.44 - 1120.44] SPEAKER_03: To jest niepowtarzalna sytuacja.
+[1120.44 - 1124.44] SPEAKER_03: Chiny mają Rosję silną, mają Japonię, mają Koreę Południową, mają Indię
+[1124.44 - 1126.44] SPEAKER_02: i Stany Zjednoczone, Zachodnie Półkuli.
+[1126.44 - 1129.44] SPEAKER_02: Tego się nie da, będzie raczej zrównoważony system.
+[1129.44 - 1132.44] SPEAKER_02: Trudno powiedzieć, co to będzie oznaczało dla rozwoju technologicznego.
+[1132.44 - 1139.64] SPEAKER_02: Natomiast bardziej by mi zależało, żeby Amerykanie zeszli z tego.
+[720.00 - 722.00] SPEAKER_03: Z tego, kiedy stał bez wojny.
+[722.00 - 725.00] SPEAKER_03: To nie jest pewne, że zejdą bez wojny.
+[725.00 - 732.00] SPEAKER_03: Raczej to, jak się zachowują, świadczy o tym, że czekają nas potężne turbulencje.
+[732.00 - 738.00] SPEAKER_03: Bo mogliby, ja uważam, trochę bardziej rozsądnie do tego podejść.
+[738.00 - 743.00] SPEAKER_01: Ale nie ukrywam, że to jest pogląd, który nie jest powszechnie podzielany.
+[743.00 - 747.00] SPEAKER_01: Mój ten pogląd przedstawiony nie jest powszechnie podzielany, w tym w naszej drogiej ojczyźnie.
+[747.00 - 752.00] SPEAKER_01: Jak to mówił Piłsudski, każdy ma swoją rację, jak co innego.
+[752.00 - 759.00] SPEAKER_01: To będzie trudne. Nie chciałbym tutaj zabierać dużo czasu.
+[759.00 - 766.00] SPEAKER_01: Przede wszystkim trudność polega na alokacji kapitału i pochodzeniu tego kapitału.
+[766.00 - 774.00] SPEAKER_01: Jeżeli chce się zrobić reindustrializację, to trzeba niestety zarządzać kapitałem
+[774.00 - 778.00] SPEAKER_01: i mówić mu, ile ma czekać na stopę zwrotu i jaką ma dostać.
+[778.00 - 780.00] SPEAKER_01: I w ogóle to nie jest pewne.
+[780.00 - 788.00] SPEAKER_02: W świecie anglosaskim, prawnie, obyczajowo, filozoficznie, kapitał nie jest do tego przyzwyczajony,
+[788.00 - 789.00] SPEAKER_02: że mu się będzie mówić.
+[789.00 - 795.00] SPEAKER_02: A jednocześnie amerykański sukces Doliny Chrzemowej wynikał z recyklingu dolarowego.
+[795.00 - 797.00] SPEAKER_02: To znaczy, że był bardzo tani kapitał na przepalanie.
+[797.00 - 804.00] SPEAKER_03: Bo wszystko to, co my zarobiliśmy w Eurazy, z powodu układu bezpieczeństwa
+[804.00 - 808.00] SPEAKER_02: oraz wolności przepływów strategicznych, żeby kupić ropę i tak dalej,
+[808.00 - 811.00] SPEAKER_02: musieliśmy kupować obligacje amerykańskie albo inne aktywa.
+[811.00 - 814.00] SPEAKER_02: A zatem wprowadzaliśmy dolara z powrotem do systemu amerykańskiego.
+[814.00 - 817.00] SPEAKER_02: Amerykanie mieli łatwy kapitał, w związku z tym mogli przepalać na Dolinę Chrzemową
+[817.00 - 819.00] SPEAKER_02: i zawsze coś wyjdzie.
+[819.00 - 824.00] SPEAKER_02: Jeżeli Amerykanie będą dalej tak przegrywali wojnę handlową, jak w zeszłym tygodniu,
+[824.00 - 826.00] SPEAKER_02: to nie będą mieli tego taniego kapitału.
+[826.00 - 829.00] SPEAKER_02: I raptem ten cały dom skart runie, bo mają wielki dług.
+[829.00 - 836.00] SPEAKER_03: I jeżeli będą się bronić przed bankructwem za wszelką cenę, to podpalą.
+[836.00 - 839.00] SPEAKER_03: I to jest wielkie niebezpieczeństwo.
+[839.00 - 844.00] SPEAKER_02: Pociszające jest to, że w toku takich wielkich wojen systemowych, takich rywalizacji
+[844.00 - 846.00] SPEAKER_02: jest wielkie przyspieszenie rozwoju technologicznego.
+[846.00 - 851.00] SPEAKER_03: Dlatego właśnie, żeby mieć przewagę nad innymi, jest przyspieszenie
+[851.00 - 854.00] SPEAKER_03: znaczne rozwoju technologicznego i jest tak zawsze w historii świata.
+[854.00 - 858.00] SPEAKER_03: Czyli pokój raczej uspokaja, a rywalizacja geopolityczna
+[858.00 - 861.00] SPEAKER_03: znacząco przyspiesza przełomowe technologie.
+[861.00 - 866.00] SPEAKER_02: Tak, to prawda. Taka jest smutna historia cywilizacji Homo Sapiens.
+[866.00 - 870.00] SPEAKER_02: Dżentelmen, który siedzi w samym środku tej sceny, Alek Tarkowski.
+[870.00 - 873.00] SPEAKER_02: Mam wrażenie, nie wiem czy Państwo podzielają mój pogląd,
+[873.00 - 877.00] SPEAKER_02: w którymś momencie zdradzał takie sygnały, jakby go korciła, żeby to skomentować.
+[877.00 - 879.00] SPEAKER_02: Może się mylę.
+[879.00 - 881.00] SPEAKER_02: Był jakiś taki moment, ale on już...
+[881.00 - 882.00] SPEAKER_02: Uciekł.
+[882.00 - 884.00] SPEAKER_02: Zagapiłem się w ogórzko, ale może co innego powiem.
+[884.00 - 888.00] SPEAKER_02: A propos dual use, bo to mi się wydaje strasznie ciekawa kategoria,
+[888.00 - 894.00] SPEAKER_02: na którą można patrzeć z perspektywy, na której Pan się zna, takiej militarnej.
+[894.00 - 898.00] SPEAKER_02: Ja o niej myślę z perspektywy społecznej, bo to jest wielkie wyzwanie,
+[898.00 - 901.00] SPEAKER_02: co to znaczy być w społeczeństwie, w społeczeństwie bym tak powiedział,
+[901.00 - 905.00] SPEAKER_02: dual use. To się jakoś tak zakrada do nas bardzo powoli.
+[905.00 - 908.00] SPEAKER_02: Ciekawe jest to, mam wrażenie, jest przyjmowane, nie chcę powiedzieć
+[908.00 - 910.00] SPEAKER_02: bezkrytycznie, ale dużej debaty społecznej nie ma.
+[910.00 - 915.00] SPEAKER_02: Gdy w Stanach jakieś chyba pięć lat temu pojawił się temat dual use
+[915.00 - 918.00] SPEAKER_02: sztucznej inteligencji, był to taki temat, że Google podpisał duży kontrakt
+[918.00 - 925.00] SPEAKER_02: na system MAVEN, który był takim systemem inteligencji właśnie wojskowej.
+[925.00 - 927.00] SPEAKER_02: No to przede wszystkim pracownicy się zbuntowali.
+[927.00 - 931.00] SPEAKER_02: To był właśnie pierwszy taki przykład buntu IT, którzy mówili
+[931.00 - 934.00] SPEAKER_02: nie naszymi rękami, to nie będzie powstawać.
+[934.00 - 937.00] SPEAKER_02: U nas w którymś momencie wokół tych różnych zamieszań, nie wiem czy Państwo
+[937.00 - 941.00] SPEAKER_02: śledzą, wokół Instytutu Badawczego IDEAS, wokół NCBR-u pojawił się nagle wątek,
+[941.00 - 945.00] SPEAKER_02: że te działania będą też finansowane przez MON, że się pojawi dual use.
+[945.00 - 949.00] SPEAKER_02: I moim zdaniem wszyscy mówią OK. Być może mówimy OK, bo jesteśmy
+[949.00 - 951.00] SPEAKER_02: w miejscu w jakim jesteśmy. Chciałem jeszcze powiedzieć,
+[951.00 - 955.00] SPEAKER_05: wczoraj byłem na dosyć przejmującym spotkaniu z Centrum Sztuki Współczesnej,
+[955.00 - 959.00] SPEAKER_05: z ukraińskim artystą, który początkowo był rzeźbiarzem, potem się
+[959.00 - 963.00] SPEAKER_05: przekwalifikował na artystę Nowych Mediów, założył prywatną szkołę sztuki
+[963.00 - 966.00] SPEAKER_05: Nowych Mediów, która podobno jest w ogóle instytucją w Kijowie,
+[966.00 - 971.00] SPEAKER_05: bo państwowe uczelnie umownie nie potrafią uczyć photoshopa, a on potrafi.
+[971.00 - 975.00] SPEAKER_05: No ale nadeszła wojna i jak to mu powiedział bardzo skrótowo, bo nie może
+[975.00 - 979.00] SPEAKER_05: za dużo mówić, został inżynierem dronowym i tak zwanym piratem,
+[979.00 - 983.00] SPEAKER_05: czyli cywilem pracującym na froncie. I to było przejmujące z nim rozmawiać,
+[983.00 - 988.00] SPEAKER_05: bo to jest człowiek dual use. To jest człowiek, który ma skillsy takie jak Państwo.
+[988.00 - 992.00] SPEAKER_05: On tam puszczał też filmy, jak komponuje na przykład muzykę elektroniczną
+[992.00 - 995.00] SPEAKER_05: używając różnego rodzaju sprzętu, którym nic nie mówiła pewnie połowa
+[995.00 - 999.00] SPEAKER_05: z Państwa by to popodłączała, tak jak Pan Generator.
+[999.00 - 1003.00] SPEAKER_05: I nagle ciach, w sytuacji wojny wszystko się przesuwa.
+[1003.00 - 1007.00] SPEAKER_03: I to jest to, to przyspieszenie, tylko wydaje mi się, co jest ważne dla nas w Polsce,
+[1007.00 - 1011.00] SPEAKER_02: gdzie dzięki Bogu wiem, że mamy już wojnę hybrydową, ale na szczęście
+[1011.00 - 1017.00] SPEAKER_02: kinetycznej nie mamy, jak nie czekać na ten moment i jak wymyślać taki dual use,
+[1017.00 - 1020.00] SPEAKER_02: który dla mnie jest na przykład ważny, zachowuje też wartości demokratyczne,
+[1020.00 - 1024.00] SPEAKER_02: bo ten artysta wyraźnie mówił, że tam gdzieś już jego dusza naprawdę
+[1024.00 - 1029.00] SPEAKER_02: trafia na trudne momenty i jak my mamy tą naszą demokratyczną duszę obronić,
+[1029.00 - 1032.00] SPEAKER_02: to mi się wydaje fundamentalne wyzwanie.
+[1032.00 - 1035.00] SPEAKER_02: Tu jeśli mogę jedno zdanie, to jest bardzo ciekawe, co powiedziałeś,
+[1035.00 - 1043.00] SPEAKER_02: bo AI będzie absolutnie wprowadzało robotykę, już wprowadza na pole walki,
+[1043.00 - 1048.00] SPEAKER_02: co będzie generowało wielką ulgę dla społeczeństwa.
+[1048.00 - 1052.00] SPEAKER_02: Bo nie będzie masowych armii po prostu z milionami trupów,
+[1052.00 - 1057.00] SPEAKER_02: przynajmniej do pewnego momentu, dopóki nie zostanie użyte to w sposób inny niż tradycyjny.
+[1057.00 - 1065.00] SPEAKER_02: Natomiast będzie wywoływało głębokie dylematy moralne, prawne i tego rodzaju rzeczy.
+[1065.00 - 1073.00] SPEAKER_02: Wchodzimy w ogóle w fuzję cywilno-wojskową, stare systemy wojskowe nie działają
+[1073.00 - 1078.00] SPEAKER_02: i raczej systemy, które są zarówno cywilne, jak i wojskowe będą dawały odpowiedź.
+[1078.00 - 1082.00] SPEAKER_02: I AI jest tutaj łącznikiem, jest kluczem do tego wszystkiego,
+[1082.00 - 1086.00] SPEAKER_02: tak jak ja rozumiem na swój zupełnie nieinżynierski sposób.
+[1086.00 - 1090.00] SPEAKER_02: Także ja uważam, że powinny być wszystkie ręce na pokład w Polsce,
+[1090.00 - 1096.00] SPEAKER_03: również w tej modernizacji wojskowej, żebyśmy właśnie na to Big Data Analysis
+[1096.00 - 1101.00] SPEAKER_03: połączony z robotyką, z piętej AI, żeby w tą stronę pójść,
+[1101.00 - 1106.00] SPEAKER_03: zamiast kupować te gąsienice, czołgi, pancerze, jakieś absurdy zupełnie,
+[1106.00 - 1108.00] SPEAKER_03: tylko pójść w tą stronę.
+[1108.00 - 1111.00] SPEAKER_03: To jest naprawdę wielkie wyzwanie i wygrać też przyszłość,
+[1111.00 - 1115.00] SPEAKER_03: bo zbudować łańcuch wartości, o których tutaj mówiliście Państwu.
+[1115.00 - 1119.00] SPEAKER_03: To jest wielka szansa, zwłaszcza, że wydajemy tak dużo pieniędzy na to wojsko,
+[1119.00 - 1124.00] SPEAKER_03: do zbrojenia i dobrze byłoby nie przypalić tego na niepotrzebne rzeczy.
+[1124.00 - 1127.00] SPEAKER_02: Maćku, mam wrażenie, że chciałeś coś dodać, bo być może jest tak,
+[1127.00 - 1132.00] SPEAKER_02: że Maciej Kawecki, który eksploruje różne laboratoria nie tylko za granicą,
+[1132.00 - 1135.00] SPEAKER_02: ale być może przede wszystkim w Polsce, on to gdzieś dostrzegł,
+[1135.00 - 1138.00] SPEAKER_02: to zastosowanie Dual Use.
+[1138.00 - 1141.00] SPEAKER_02: Nie o tym chciałem powiedzieć. Chciałem powiedzieć, że nie jestem,
+[1141.00 - 1144.00] SPEAKER_02: siedzę tak cicho, bo nie jestem geopolitykiem i nie mam zbyt wiele mądrego
+[1144.00 - 1149.00] SPEAKER_02: do powiedzenia na tematy geopolityczne, natomiast mogę z całą odpowiedzialnością
+[1149.00 - 1154.00] SPEAKER_02: powiedzieć to, co obserwuję, że Stany Zjednoczone są nieprawdopodobną
+[1154.00 - 1161.00] SPEAKER_02: potęgą intelektualną i stolicą sztucznej inteligencji obok Chin jest
+[1161.00 - 1167.00] SPEAKER_02: Dolina Krzemowa i są Stany Zjednoczone. Laboratoria czołowych uczelni amerykańskich
+[1167.00 - 1174.00] SPEAKER_02: są cały czas potęgami, których PKB czy wpływ na PKB może być porównywalny
+[1174.00 - 1179.00] SPEAKER_02: do PKB niektórych z państw członkowskich Unii Europejskiej.
+[1179.00 - 1183.00] SPEAKER_02: Ale też chciałem powiedzieć o tym, bo o tym tutaj trochę nie rozmawiamy,
+[1183.00 - 1188.00] SPEAKER_02: rozmawiamy o geopolityce, żeby ją uprawiać i żeby ona istniała
+[1188.00 - 1193.00] SPEAKER_02: i żeby to wszystko miało sens, to oczywiście, może zrzucę tutaj
+[1193.00 - 1199.00] SPEAKER_02: taki Patrycjusz wysokopoziomowy aspekt, bardzo mi bliski, ale żeby ta geopolityka
+[1199.00 - 1205.00] SPEAKER_02: miała miejsce, to musi istnieć człowiek. Ja mam bardzo głęboką refleksję
+[1205.00 - 1211.00] SPEAKER_02: wynikającą z tego, że sztuczna inteligencja wyprze gatunek ludzki.
+[1211.00 - 1216.00] SPEAKER_02: Ja jestem głęboko przekonany i wszystkie rozmowy z największymi umysłami
+[1216.00 - 1220.00] SPEAKER_02: do tego wniosku mnie doprowadzają, że dochodzimy gdzieś do jakiegoś etapu
+[1220.00 - 1225.00] SPEAKER_02: kresu ewolucji ludzkiego gatunku jako takiego, że nie istnieje coś takiego
+[1225.00 - 1230.00] SPEAKER_01: jak czerwony przycisk, którego naciśnięcie, bo to byłby system totalitarny,
+[1230.00 - 1234.00] SPEAKER_01: spowoduje, że my nagle zatrzymamy rozwój AI, albo że wydarzy się coś,
+[1234.00 - 1238.00] SPEAKER_01: co spowoduje, że rozwój AI się zatrzyma. Uważam, że to jest iluzja.
+[1238.00 - 1241.00] SPEAKER_01: Jeżeli on będzie podążał, rozwijał się liniowo, tak jak się to dzieje dzisiaj,
+[1241.00 - 1249.00] SPEAKER_01: a już nawet się liniowo nie rozwija, to ona nas zastąpi.
+[1249.00 - 1253.00] SPEAKER_01: I to trzeba mówić w sposób bardzo świadomy, bardzo odważny.
+[1253.00 - 1257.00] SPEAKER_01: Wyprze podejmowanie decyzji w elementach kluczowych. Dzisiaj się to dzieje,
+[1257.00 - 1262.00] SPEAKER_01: dlatego, bo taki minister albo prezydent przed podjęciem decyzji korzysta z czata
+[1262.00 - 1269.00] SPEAKER_01: i robi to w sposób nieoficjalny, ale to robią. Za chwilę te decyzje będą podejmowane
+[1269.00 - 1276.00] SPEAKER_01: w ten sposób, w sposób fundamentalny i oficjalny. Dochodzimy do momentu,
+[1276.00 - 1280.00] SPEAKER_01: w którym sztuczna inteligencja zaczyna przejmować cechę, która do tej pory
+[1280.00 - 1285.00] SPEAKER_01: była wyłącznie cechą gatunku ludzkiego i to jest rozumienie matematyki abstrakcyjnej.
+[1285.00 - 1289.00] SPEAKER_01: Co my innego jako ludzie potrafimy inaczej niż zwierzęta?
+[1289.00 - 1293.00] SPEAKER_01: Nie opierając się na nauce, tylko rozumieniem matematyki abstrakcyjnej,
+[1293.00 - 1296.00] SPEAKER_01: bo obliczeniową, to jak damy kotu dwie miski, to on wie, że dwie miski
+[1296.00 - 1299.00] SPEAKER_01: to jest więcej niż jedna miska. Ale matematyka abstrakcyjna,
+[1299.00 - 1304.00] SPEAKER_01: o wyprowadzenie istnienia czarnych dziur bez ich obserwacji w latach 60.
+[1304.00 - 1308.00] SPEAKER_02: przez Penrose'a była możliwa tylko dzięki temu, że zobaczył to w swoim mózgu
+[1308.00 - 1310.00] SPEAKER_02: w matematyce abstrakcyjnej.
+[1310.00 - 1313.00] SPEAKER_01: A wydawało się, że ostatnią dziedziną działalności i cywilizacji homosabiens,
+[1313.00 - 1317.00] SPEAKER_01: która upadnie, to będzie sztuka i kultura, prawda? Czyli twórcze działanie.
+[1317.00 - 1320.00] SPEAKER_01: A od tego się zaczęło. Od tego się zaczęło. To pierwsze upadło.
+[900.00 - 903.04] SPEAKER_02: Ja dwa dni temu w Łodzi spotkałem się z Agnieszką Piłat,
+[903.08 - 907.40] SPEAKER_02: polsko-amerykańską artystką, która w Boston Dynamics ma rezydenturę
+[907.44 - 914.84] SPEAKER_02: i tam trenuje spoty, te słynne roboty, takie pieski, malować.
+[914.88 - 918.88] SPEAKER_02: I zadałem jej pytanie o to, w jaki sposób sobie radzą
+[918.92 - 922.08] SPEAKER_02: od punktu widzenia kreatywności.
+[922.12 - 924.96] SPEAKER_02: I rozmawialiśmy o tym, czy nawet ten obszar
+[925.00 - 926.72] SPEAKER_02: nie jest pomału odbierany człowiekowi.
+[926.76 - 929.48] SPEAKER_02: I ona uważa, że jest odbierany człowiekowi,
+[929.48 - 934.24] SPEAKER_02: że jedyne, co zostaje człowiekowi w rozumieniu sztuki, to jest idea.
+[934.28 - 938.20] SPEAKER_02: Odpowiedziała mi pytanie, że to jest idea, że tylko idea ma człowiek.
+[938.24 - 942.60] SPEAKER_02: Ale czym jest idea? Co to znaczy idea?
+[942.64 - 947.36] SPEAKER_02: Ja tylko, jeśli mogę i prawdopodobnie szybko dojdziemy do wniosku,
+[947.40 - 949.88] SPEAKER_02: że musimy się pięknie nie zgadzać.
+[949.92 - 954.64] SPEAKER_05: Ja mam dużą potrzebę sygnalizowania, że jest to tylko jeden z scenariuszy.
+[954.68 - 958.28] SPEAKER_05: Nie wiem czemu, to musi być gra o sumie zerowej.
+[958.60 - 963.84] SPEAKER_05: To, że mamy samochody, nie spowodowało, że ludzie przestali biegać maratony,
+[963.88 - 967.36] SPEAKER_05: że znajdują w tym przyjemność, że konkurują i że robi się wielki biznes.
+[967.40 - 968.80] SPEAKER_05: Samochód nie jest rzeczywistością.
+[968.84 - 969.92] SPEAKER_05: Zdaję sobie sprawę.
+[969.96 - 973.00] SPEAKER_05: Ale sztuczna inteligencja, mógłbym tak trochę na przekór powiedzieć,
+[973.04 - 976.96] SPEAKER_05: że tak, mamy wzrost wykładniczy po to, żebyśmy wszyscy mogli wyglądać
+[977.00 - 980.00] SPEAKER_05: jak postacie ze studia Ghibli dzisiaj.
+[980.04 - 984.44] SPEAKER_05: I wiem, że upraszczam i wiem, że trzeba szukać pod powierzchnią
+[984.48 - 986.88] SPEAKER_05: tych dogłębnych wpływów sztucznej inteligencji.
+[986.88 - 991.40] SPEAKER_05: Tylko wydaje mi się w tej sytuacji bardzo ważne rysowanie innych scenariuszy.
+[991.44 - 996.88] SPEAKER_05: Jestem trochę zaniepokojony poziomem do jakiego i sposobem,
+[996.92 - 999.20] SPEAKER_05: w jakim rzeczywiście ci pracownicy, już o tym do tego mówiłem,
+[999.24 - 1002.80] SPEAKER_05: największych laboratoriów przedstawiają pewne wizje.
+[1002.84 - 1007.24] SPEAKER_03: Moim zdaniem w sposób nieodpowiedzialny albo nie zawsze unopowiedzialny.
+[1007.28 - 1010.56] SPEAKER_02: Bo to jest często deklaracja wiary po prostu.
+[1010.60 - 1011.60] SPEAKER_02: Jakiej wiary?
+[1011.64 - 1014.72] SPEAKER_02: Na przykład to, że za dwa lata będziemy już na najlepszym kroku do tego,
+[1014.72 - 1018.00] SPEAKER_02: żeby sztuczna inteligencja przejęła masę funkcji ekonomicznych
+[1018.04 - 1019.72] SPEAKER_02: i nie będzie dla ludzi w ogóle pracy.
+[1019.76 - 1021.80] SPEAKER_02: To się jeszcze nie wydarzyło.
+[1021.84 - 1023.40] SPEAKER_02: Nie wiem, czy się nie wydarzyło.
+[1023.44 - 1026.48] SPEAKER_02: Bo nie wiemy, w jaki sposób podejmowane są kluczowe decyzje
+[1026.52 - 1030.76] SPEAKER_02: i jaki jest wpływ na te pojedyncze, konkretne decyzje
+[1030.80 - 1033.00] SPEAKER_02: mechanizmów sztucznej inteligencji.
+[1033.04 - 1036.76] SPEAKER_02: Mój reumatolog na przykład w trakcie spotkania ze mną
+[1036.80 - 1039.56] SPEAKER_02: powiedział, że on się wykorzystuje dwa dni temu.
+[1039.60 - 1043.36] SPEAKER_02: Kiedy zacząłem z nim rozmawiać, mówię, że dokładnie to samo powiedział mi Grok
+[1043.44 - 1044.92] SPEAKER_02: na Twitterze, co pan mówi.
+[1044.96 - 1049.64] SPEAKER_02: On mówi, no ale ja też korzystam i wspieram się w diagnostyce.
+[1049.68 - 1056.00] SPEAKER_02: Dlatego, bo w dostępie do istniejących przy deep searchu
+[1056.04 - 1058.28] SPEAKER_02: różnych terapii jest dużo lepszy niż ja.
+[1058.32 - 1060.32] SPEAKER_02: Ale on tego nie powie oficjalnie na konferencji.
+[1060.36 - 1064.56] SPEAKER_02: Nie zobaczy tego pan w żadnym raporcie, w żadnych statystykach.
+[1064.60 - 1067.96] SPEAKER_02: Ale te decyzje podskórnie są podejmowane dzisiaj
+[1068.00 - 1070.92] SPEAKER_02: w jakimś procencie z wykorzystaniem narzędzi.
+[1071.32 - 1074.52] SPEAKER_02: Wszystkie, jeżeli spojrzymy sobie przy mocy obliczeniowej,
+[1074.56 - 1077.48] SPEAKER_02: proporcjonalnie, a powiem jeszcze inaczej,
+[1077.52 - 1079.88] SPEAKER_02: ilość nowych technologii, nad którymi pracujemy.
+[1079.92 - 1086.80] SPEAKER_02: Na przykład wykorzystywanie organoidów mózgowych
+[1086.84 - 1089.40] SPEAKER_02: jako alternatywy dla mocy obliczeniowej,
+[1089.44 - 1093.68] SPEAKER_03: co z wielkim sukcesem tworzy dzisiaj firma Finalspark w Szwajcarii.
+[1093.72 - 1098.00] SPEAKER_03: Jak odwiedzałem ich parę dni temu i zadałem pytanie, jak wzrasta ilość ich
+[1098.00 - 1104.64] SPEAKER_03: klientów, to wzrasta każdego roku o 260, około, między 220 a 260 procent.
+[1104.68 - 1112.76] SPEAKER_03: Rozwój nauka dzisiaj podąża, rozwija się w sposób tak nieprawdopodobnie szybki
+[1112.80 - 1117.00] SPEAKER_03: i nieprzewidywalny, niezdolny do tego, żeby budować jakiekolwiek trafne
+[1117.04 - 1123.16] SPEAKER_03: przewidywania, że mówienie o tym, że są jakiekolwiek inne scenariusze
+[1123.20 - 1126.16] SPEAKER_02: ma sens oczywiście, pod warunkiem, że zaznaczymy,
+[1126.16 - 1129.84] SPEAKER_02: że one są dużo mniej prawdopodobne, bo to wszystko, co obserwujemy,
+[1129.88 - 1132.92] SPEAKER_02: sprowadza nas do tego jednego konkretnego scenariusza.
+[1132.96 - 1138.24] SPEAKER_02: Ale ten przykład, jeśli mogę, bo naprawdę myślę, że mamy tu inne spojrzenie.
+[1138.28 - 1140.16] SPEAKER_02: Przykład reumatologa jest bardzo dobry.
+[1140.20 - 1145.80] SPEAKER_02: Dzisiaj ta sztuczna inteligencja, której on używa, wie tyle, ile suma wiedzy
+[1145.84 - 1149.20] SPEAKER_02: innych reumatologów dostępna w publicznym internecie
+[1149.24 - 1151.32] SPEAKER_02: i być może w jakichś prywatnych bazach danych.
+[1151.36 - 1155.16] SPEAKER_02: Wiąże się to z tym, o czym powiedziałeś, rzeczywiście z ograniczeniami...
+[1155.16 - 1158.68] SPEAKER_02: Do końca, ponieważ te najnowsze modele mają już coś, co nazywamy
+[1158.72 - 1162.16] SPEAKER_02: takie decision tree, mają już monolog wewnętrzny.
+[1162.20 - 1163.96] SPEAKER_02: Tam jest jakaś forma rewizyjna.
+[1164.00 - 1168.44] SPEAKER_02: Jednak na bazach wiedzy umownie najlepszym źródłem dla Wikipedii dzisiaj,
+[1168.48 - 1172.20] SPEAKER_02: dla sztucznej inteligencji, nie jest obserwowanie wszechświata,
+[1172.24 - 1176.32] SPEAKER_02: bo nie ma ku temu narzędzi, tylko jest zastanie wiedzy z Wikipedii
+[1176.36 - 1178.28] SPEAKER_02: i z otwartego publicznego internetu.
+[1178.32 - 1183.72] SPEAKER_02: Znaczy nie ma innych źródeł trenowania i zgadzam się, że się pojawiają,
+[1183.72 - 1185.56] SPEAKER_02: ale to są też bardzo duże dyskusje.
+[1185.60 - 1187.48] SPEAKER_02: Tak, to jest bardzo dobra kwestia.
+[1187.52 - 1189.68] SPEAKER_02: Pytanie, ile jest tego czasu?
+[1189.72 - 1192.40] SPEAKER_02: No ja też z zupełnie innej perspektywy patrząc,
+[1192.44 - 1196.12] SPEAKER_02: dla mnie jest to jakiś przejaw cywilizacyjnego, nie wiem,
+[1196.16 - 1199.60] SPEAKER_02: takiego głębokiego, metafizycznego, nie wiem,
+[1199.64 - 1203.20] SPEAKER_02: jakiegoś masochizmu, defetyzmu.
+[1203.24 - 1206.36] SPEAKER_02: Dlaczego ci ludzie nie potrafią mieć pozytywnej wizji koegzystencji?
+[1206.40 - 1212.44] SPEAKER_02: Jest ona równie możliwa i mogłaby napędzać ich w szansę.
+[1212.48 - 1214.96] SPEAKER_02: Tak, tego nie wiemy i nie rozstrzygniemy.
+[1215.00 - 1217.96] SPEAKER_02: Rzeczywiście profesor Stephen Hawking mówił kiedyś w odpowiedzi
+[1218.00 - 1220.28] SPEAKER_02: na pytania jakiegoś dziennikarza na konferencji prasowej,
+[1220.32 - 1222.84] SPEAKER_02: kiedy ten go zapytał, jaka sztuczna inteligencja, jakie obawy?
+[1222.88 - 1224.80] SPEAKER_01: No przecież wystarczy wyjąć wtyczkę.
+[1224.84 - 1226.84] SPEAKER_01: A Hawking miał wtedy powiedzieć, że ona będzie wiedziała,
+[1226.88 - 1229.72] SPEAKER_01: że pan chce wyjąć wtyczkę, zanim pan o tym pomyśli,
+[1229.76 - 1233.04] SPEAKER_01: że chce pan to zrobić i ona to w jakiś sposób uprzedzi, prawda?
+[1233.08 - 1235.00] SPEAKER_01: Więc rzeczywiście ten czerwony guzik to chyba niekoniecznie,
+[1235.04 - 1238.52] SPEAKER_01: a są i takie wizje, jak ta, którą profesor Dragan opowiada,
+[1238.56 - 1241.32] SPEAKER_01: przedstawia, że to nie jest tak, że my mamy coś przeciwko mrówkom,
+[1241.32 - 1243.24] SPEAKER_01: kiedy budujemy autostradę.
+[1243.28 - 1245.96] SPEAKER_01: No nie, nie jest tak, że budujemy autostradę po to,
+[1246.00 - 1250.28] SPEAKER_01: żeby zniszczyć mrowisko, ale jeżeli jest akurat mrowisko
+[1250.32 - 1252.88] SPEAKER_01: na trasie planowanej przez człowieka autostrady,
+[1252.92 - 1255.20] SPEAKER_01: to ono zniknie i może być podobnie.
+[1255.24 - 1259.40] SPEAKER_01: To nie jest tak, że my będziemy na celu sztucznej inteligencji,
+[1259.44 - 1262.56] SPEAKER_01: tylko że przy okazji być może nie będziemy aż tak istotnie potrzebni.
+[1262.60 - 1264.88] SPEAKER_01: Bo mrówki potrafią przenieść swoje mrowisko,
+[1264.92 - 1268.12] SPEAKER_01: to tak bym uzupełniła tę wypowiedź Dragana.
+[1268.16 - 1269.52] SPEAKER_01: Czuj go w plejki ze studiów.
+[1269.56 - 1270.44] SPEAKER_01: Tak, to prawda.
+[1270.48 - 1272.36] SPEAKER_01: No dobrze, Joanna, to skoro jesteś przy głosie,
+[1272.40 - 1274.48] SPEAKER_01: bo miałem taki plan, żeby cię zapytać,
+[1274.52 - 1277.40] SPEAKER_01: czy my jako Europejczycy, czy my jako Europa,
+[1277.44 - 1279.88] SPEAKER_01: organizm, to pytanie jak bardzo spójny,
+[1279.92 - 1281.44] SPEAKER_01: to być może jest fundamentalne pytanie,
+[1281.48 - 1283.92] SPEAKER_01: ale załóżmy, że w jakimś zakresie spójny.
+[1283.96 - 1286.92] SPEAKER_01: Przecież organizm, w którym żyje więcej Europa,
+[1286.96 - 1289.40] SPEAKER_01: w której żyje więcej ludzi niż w Stanach Zjednoczonych.
+[1289.44 - 1292.68] SPEAKER_01: Czy my możemy jakoś wcisnąć nogę w drzwi
+[1292.72 - 1294.40] SPEAKER_01: pomiędzy Stany Zjednoczone a Chiny
+[1294.44 - 1297.48] SPEAKER_01: i czy my możemy istotnie odegrać jakąś tutaj ważną rolę
+[1297.52 - 1299.68] SPEAKER_01: w rozwoju najnowocześniejszych technologii,
+[1299.68 - 1301.28] SPEAKER_01: czy my tutaj mamy szansę?
+[1301.32 - 1304.72] SPEAKER_01: Z tej sceny już padło dzisiaj kilka dobrych rzeczy o Europie
+[1304.76 - 1306.32] SPEAKER_02: i bardzo za to dziękuję.
+[1306.36 - 1309.04] SPEAKER_02: Słyszeliśmy, dlaczego nie jesteśmy tak bardzo z tyłu,
+[1309.08 - 1312.92] SPEAKER_01: w niektórych dziedzinach przy okazji np. fabryk, industrializacji.
+[1312.96 - 1314.60] SPEAKER_01: Czy my mamy szansę jako Unia Europejska
+[1314.64 - 1318.68] SPEAKER_01: w najnowszych technologiach, szczególnie przy sztucznej inteligencji, czy nie?
+[1318.72 - 1321.36] SPEAKER_01: Czy to już jest stracona okazja
+[1321.40 - 1324.00] SPEAKER_01: i Stany Zjednoczone odjechały i Chiny?
+[1324.04 - 1326.48] SPEAKER_05: Nie, tak jak wcześniej rozmawialiśmy,
+[1326.52 - 1329.04] SPEAKER_05: że sztuczna inteligencja jest nową technologią
+[1329.04 - 1330.08] SPEAKER_05: i wszystko jest możliwe.
+[1330.12 - 1332.72] SPEAKER_05: Pytanie, jak tam w Brukseli.
+[1332.76 - 1337.52] SPEAKER_05: Decydenci teraz z różnych państw będą potrafili się porozumieć
+[1337.56 - 1341.68] SPEAKER_02: i trzeba wziąć pod uwagę, że są różne ich też interesy.
+[1341.72 - 1343.92] SPEAKER_02: Więc czy będzie nam po drodze wspólnie?
+[1343.96 - 1346.04] SPEAKER_02: Tego to trudno powiedzieć.
+[1346.08 - 1349.68] SPEAKER_02: Fajnie by było, żebyśmy rzeczywiście stanowili taką siłę,
+[1349.72 - 1354.08] SPEAKER_02: ale też żebyśmy my jako Polska nie stanowili tutaj znowu rynku zbytu,
+[1354.12 - 1356.28] SPEAKER_02: tylko potrafili uczestniczyć w tych projektach.
+[1356.32 - 1358.40] SPEAKER_02: A na razie dużo jest ogłaszanych projektów,
+[1358.40 - 1362.80] SPEAKER_02: na przykład odpowiedź na maska Starlinka.
+[1362.84 - 1367.40] SPEAKER_02: Pojawiała się taka inicjatywa tutaj ze strony Unii Europejskiej,
+[1367.44 - 1369.48] SPEAKER_02: żeby też taki system przygotować.
+[1369.52 - 1372.44] SPEAKER_02: Tak, tylko że tam są zaangażowane takie kraje jak Luksemburg,
+[1372.48 - 1374.12] SPEAKER_02: Hiszpania i Francja.
+[1374.16 - 1376.56] SPEAKER_02: My w Polsce mamy fajne firmy,
+[1376.60 - 1380.88] SPEAKER_02: które potrafią już zbudować satelitę i wynieść go w kosmos,
+[1380.92 - 1385.28] SPEAKER_02: jak i też jesteśmy jednymi z najlepszych w analizie danych tych,
+[1385.32 - 1388.24] SPEAKER_02: które przesyła satelita tu na Ziemię.
+[1389.08 - 1391.36] SPEAKER_02: Więc moglibyśmy o to zawalczyć,
+[1391.40 - 1394.52] SPEAKER_02: tylko jak się okazuje i z naszych tam informacji,
+[1394.56 - 1397.68] SPEAKER_02: a mamy rzeczywiście ekspertów rozproszonych we wszystkich strukturach
+[1397.72 - 1401.00] SPEAKER_02: na całym świecie, tak akurat nam wyszło,
+[1401.04 - 1403.08] SPEAKER_02: że tam Polska w ogóle nie zabiera głosu.
+[1403.12 - 1405.40] SPEAKER_01: Tak naprawdę nie walczymy o to.
+[1405.44 - 1408.76] SPEAKER_01: Więc jeżeli nie walczymy, to trudno, żeby oni nas tam sami zapraszali,
+[1408.80 - 1411.24] SPEAKER_01: więc my stajemy się tylko podwykonawcą.
+[1411.28 - 1414.72] SPEAKER_01: Więc rzeczywiście warto jest, żeby ten głos tam wybrzmiał
+[1414.76 - 1416.52] SPEAKER_02: i stąd znowu powrócę do tego,
+[1416.52 - 1421.92] SPEAKER_02: żeby świat nauki mógł być usieciowienny
+[1421.96 - 1424.60] SPEAKER_02: i tutaj, żeby mógł razem stanowić jedność,
+[1424.64 - 1426.64] SPEAKER_02: wtedy będzie to godna reprezentacja
+[1426.68 - 1429.12] SPEAKER_02: i rzeczywiście będziemy mogli się starać o dotację unijne
+[1429.16 - 1432.40] SPEAKER_02: w tych programach największych, a teraz rzadko nam się to zdarza,
+[1432.44 - 1434.88] SPEAKER_02: a nawet jak wystartujemy, to rzadko dostajemy, tak?
+[1434.92 - 1440.92] SPEAKER_02: Więc żeby móc tutaj to swoje miejsce zaznaczyć.
+[1440.96 - 1442.24] SPEAKER_02: No i czy Unia ma szansę?
+[1442.28 - 1445.80] SPEAKER_02: Ma szansę, tak, ale jest tak obecnie podzielona
+[1445.80 - 1449.36] SPEAKER_02: i jest też walka sił i to jest ten układ, który się zmienia.
+[1449.40 - 1453.56] SPEAKER_02: I pytanie, czy Stany Zjednoczone będą walczyć o ten prymat swój,
+[1453.60 - 1457.20] SPEAKER_02: który miał treść światową i dadzą ten parasol tutaj nam ochronny
+[1457.24 - 1461.32] SPEAKER_02: w sytuacji, kiedy Rosja jest, no cóż, coraz bardziej agresywna
+[1461.36 - 1464.20] SPEAKER_02: i też walczy o swoje, czy też będzie się wycofywała?
+[1464.24 - 1468.80] SPEAKER_02: I teraz pytanie, czy nas zostawi i w takim, no, sytuacji
+[1468.84 - 1472.32] SPEAKER_02: róbcie, co tam chcecie, czy też my będziemy potrafili
+[1472.36 - 1474.72] SPEAKER_02: podjąć tą rękawicę i uważam, że jako kraj
+[1474.72 - 1477.36] SPEAKER_02: nie powinniśmy się oglądać na wszystkich,
+[1477.40 - 1479.88] SPEAKER_02: którzy nas mają tutaj wybawić,
+[1479.92 - 1482.96] SPEAKER_02: bo już tak było w sytuacji drugiej wojny światowej.
+[1483.00 - 1486.72] SPEAKER_02: No i jakoś nikt tam nie przyszedł nam na pomoc za bardzo,
+[1486.76 - 1491.32] SPEAKER_02: tylko patrzyli, tak, więc musimy mieć to z tyłu głowy,
+[1491.36 - 1495.00] SPEAKER_02: że może być powtórka z tej sytuacji, musimy mieć możliwości tutaj
+[1495.04 - 1498.92] SPEAKER_02: zadziałania i też samostanowienia i to jest chyba takie najważniejsze.
+[1498.96 - 1500.32] SPEAKER_02: Nie wiem, na czym to polega.
+[1080.00 - 1085.00] SPEAKER_02: że cały czas patrzymy na innych i chcemy być poklepani po plecach,
+[1085.00 - 1090.00] SPEAKER_02: a nie potrafimy stać z tych kolan i powiedzieć, że tak, chcemy być tutaj kimś znaczącym
+[1090.00 - 1092.00] SPEAKER_03: i mamy ku temu potencjał, bo mamy.
+[1092.00 - 1096.00] SPEAKER_03: Polska tutaj w ostatnich latach bardzo dobrze się rozwijała,
+[1096.00 - 1099.00] SPEAKER_03: super przerosł PKB, super fajni ludzie, kompetencje,
+[1099.00 - 1102.00] SPEAKER_03: no i cóż, jeżeli nie ma środowiska, to zaczęli uciekać.
+[1102.00 - 1104.00] SPEAKER_03: Maczku, trzy słowa, widzę, że coś...
+[1105.00 - 1109.00] SPEAKER_03: Chciałem powiedzieć, że ja uważam, że wyścig taki,
+[1109.00 - 1114.00] SPEAKER_03: jeżeli chodzi o przełomy technologiczne związane z rozwojem sztucznej inteligencji,
+[1114.00 - 1118.00] SPEAKER_03: przegraliśmy, możemy się z tym pożegnać i nie ma sensu w ogóle,
+[1118.00 - 1122.00] SPEAKER_03: żebyśmy wydawali na to kasę, dlatego, bo nie prześcigniemy Stanów Zjednoczonych
+[1122.00 - 1126.00] SPEAKER_03: i możemy sobie tworzyć, to jest ekstra oczywiście, agentów, malutkich agencików
+[1126.00 - 1129.00] SPEAKER_02: i to jest bardzo dobrze, żeby to się działo w Europie,
+[1129.00 - 1133.00] SPEAKER_02: ale są technologie, co do których mamy szansę jeszcze być liderem
+[1133.00 - 1138.00] SPEAKER_02: i którego wyścigu nie przegraliśmy i to są technologie kwantowe,
+[1138.00 - 1143.00] SPEAKER_02: to jest nawet to, co robi firma IQM w Helsinkach,
+[1143.00 - 1148.00] SPEAKER_02: to, co robi Polskie Cyfrowe Wojsko w kontekście pułapkowania jonów wapnia,
+[1148.00 - 1152.00] SPEAKER_02: tworzenia cyfrowego komputera kwantowego,
+[1152.00 - 1154.00] SPEAKER_02: z naprawdę sukcesami technologicznymi,
+[1154.00 - 1159.00] SPEAKER_02: to, co robi profesor Pareń jak w laboratoriach Uniwersytetu Warszawskiego,
+[1159.00 - 1163.00] SPEAKER_02: to, co robi profesor Wszoła z pułapkowaniem molekuł wodorów w UMK,
+[1163.00 - 1171.00] SPEAKER_02: to są innowacyjne, przełomowe technologicznie eksperymenty,
+[1171.00 - 1176.00] SPEAKER_02: niedofinansowywane dzisiaj, dlatego, bo budujemy iluzję tego,
+[1176.00 - 1180.00] SPEAKER_02: że Polska przez to, że ma Wojtka Zarembę, Kubę Pachockiego,
+[1180.00 - 1184.00] SPEAKER_02: Szymona Sidora, którzy przebywają 12 tysięcy kilometrów stąd,
+[1184.00 - 1186.00] SPEAKER_02: będzie potęgą sztucznej inteligencji.
+[1186.00 - 1188.00] SPEAKER_02: Otóż nie będzie potęgą sztucznej inteligencji.
+[1188.00 - 1190.00] SPEAKER_02: Nikt nie mówi, że potęgą, ale mamy potencjał,
+[1190.00 - 1194.00] SPEAKER_02: żeby w określonych niszach zaistnieć i być liderem.
+[1194.00 - 1196.00] SPEAKER_02: Niszą fantastyczną jest dron, są drony.
+[1196.00 - 1198.00] SPEAKER_02: Dlaczego Polska nie stawia na niszę?
+[1198.00 - 1200.00] SPEAKER_02: Możemy wykorzystywać tam wizje,
+[1200.00 - 1202.00] SPEAKER_02: możemy wykorzystywać tam sztuczną inteligencję.
+[1202.00 - 1205.00] SPEAKER_02: Dlaczego jeden z najfajniejszych, moim zdaniem, w Europie
+[1205.00 - 1208.00] SPEAKER_02: projektów droniarskich, jakim jest Prometeusz,
+[1208.00 - 1213.00] SPEAKER_02: autonomiczny dron zdolny do detekcji metanu,
+[1213.00 - 1217.00] SPEAKER_02: autonomiczny, prawie padł albo już padł.
+[1217.00 - 1219.00] SPEAKER_02: To jest bardzo dobre pytanie.
+[1219.00 - 1221.00] SPEAKER_02: Mogę powiedzieć dlaczego.
+[1221.00 - 1226.00] SPEAKER_01: Dlatego, że są dwa powody wzajemnie się uzupełniające
+[1226.00 - 1228.00] SPEAKER_01: i sprzęgnięte z sobą.
+[1228.00 - 1232.00] SPEAKER_01: Generalnie wyznaczono nam miejsce polityczno-społeczne
+[1232.00 - 1236.00] SPEAKER_01: jako podwykonawców w peryferyjnym systemie kapitalistycznym
+[1236.00 - 1240.00] SPEAKER_01: i parametry zasilania kapitałowego, pracy kapitału u nas są takie,
+[1240.00 - 1243.00] SPEAKER_01: że u nas nie można osiągnąć pewnej skali,
+[1243.00 - 1245.00] SPEAKER_01: a zatem trudno finansować przedsięwzięcia.
+[1245.00 - 1248.00] SPEAKER_01: Jest wielka rywalizacja o kapitał, również państwowy,
+[1248.00 - 1252.00] SPEAKER_01: pomiędzy nawet ośrodkami naukowymi, co powoduje feudalizację nauki,
+[1252.00 - 1256.00] SPEAKER_01: feudalizację innowacji, tak naprawdę antykulturę tego,
+[1256.00 - 1258.00] SPEAKER_01: co jest z Silicon Valley.
+[1258.00 - 1265.00] SPEAKER_01: Do tego w przypadku konkretnie dronów jest ogromne lobby zbrojeniowe,
+[1265.00 - 1270.00] SPEAKER_01: które chce, żebyśmy kupowali czołgi, fregaty, stare rzeczy
+[1270.00 - 1273.00] SPEAKER_01: i żeby nie było żadnej rewolucji, podwójnej technologii,
+[1274.00 - 1277.00] SPEAKER_01: których oni nie kontrolują łańcuchów wartości,
+[1277.00 - 1280.00] SPEAKER_01: nie trzeba specjalnych certyfikatów służb,
+[1280.00 - 1283.00] SPEAKER_01: które dzielą między siebie później te frukta.
+[1283.00 - 1286.00] SPEAKER_01: Ludzie się boją powiedzieć o tym, że tak jest,
+[1286.00 - 1288.00] SPEAKER_01: my w Strategy and Future nie boimy się mówić.
+[1288.00 - 1292.00] SPEAKER_01: Tak to działa, w związku z tym duszone są wszystkie tego inicjatywy,
+[1292.00 - 1295.00] SPEAKER_01: które wychodzą spoza system kontroli tego,
+[1295.00 - 1297.00] SPEAKER_01: jak ma być rozłożony łańcuch wartości,
+[1297.00 - 1301.00] SPEAKER_01: źródłem ma być technologia zachodnia ze Stanów albo z Europy Zachodniej
+[1301.00 - 1307.00] SPEAKER_02: i ludzie, kolonizatorzy, Polacy, którzy rozkładają to
+[1307.00 - 1309.00] SPEAKER_02: i kontrolują miejscową siłę roboczą
+[1309.00 - 1312.00] SPEAKER_01: i nie może być polskiej myśli technologicznej w tym zakresie,
+[1312.00 - 1314.00] SPEAKER_01: która by stworzyła cały łańcuch wartości technologicznej,
+[1314.00 - 1316.00] SPEAKER_01: bo jest to sprzeczne z ideą.
+[1316.00 - 1320.00] SPEAKER_01: I tu jest wina polityków, że nie potrafią sobie postawić...
+[1320.00 - 1323.00] SPEAKER_01: Pięcie nas w tą stronę to też powoduje,
+[1323.00 - 1327.00] SPEAKER_05: że potem w przypadku agresji Rosji jesteśmy osłabieni.
+[1327.00 - 1329.00] SPEAKER_05: Nie, to w ogóle generuje bardzo wiele rzeczy,
+[1329.00 - 1331.00] SPEAKER_05: jak brak realnej modernizacji wojska,
+[1331.00 - 1334.00] SPEAKER_05: brak wiary społeczeństwa, że potrafimy i tak dalej.
+[1334.00 - 1341.00] SPEAKER_05: Brak jakiegokolwiek poza bohaterskimi przykładami poszczególnych przedsiębiorców,
+[1341.00 - 1344.00] SPEAKER_02: którzy najczęściej muszą pięć razy więcej pracy włożyć
+[1344.00 - 1346.00] SPEAKER_02: i sześć razy lepiej liczyć pieniądze.
+[1346.00 - 1350.00] SPEAKER_02: Żeby w ogóle wystąpić na rynku globalnym w jakikolwiek sposób
+[1350.00 - 1353.00] SPEAKER_02: to mi się przekłada tak samo do nauki.
+[1353.00 - 1357.00] SPEAKER_02: Po prostu trzeba cudu, jakiegoś wielkiego wysiłku jednego człowieka,
+[1357.00 - 1362.00] SPEAKER_02: a później czytamy w książkach o wielkich Łukasiewiczach i innych wielkich Polakach.
+[1362.00 - 1368.00] SPEAKER_02: Nie jest to naturalne środowisko.
+[1368.00 - 1372.00] SPEAKER_02: I jest to głównie wina polityków, że system jest tak skonstruowany
+[1372.00 - 1377.00] SPEAKER_02: i wielcy tego świata nie są zainteresowani odmianą tego systemu,
+[1377.00 - 1380.00] SPEAKER_02: bo my mamy określone miejsce w łańcuchu wartości.
+[1380.00 - 1384.00] SPEAKER_02: Programy kosmiczne czy technologie kosmiczne są tego bardzo dobrym przykładem.
+[1384.00 - 1389.00] SPEAKER_02: Nie chodzi o to, żeby polskie firmy kosmiczne, start-upy, New Space
+[1389.00 - 1392.00] SPEAKER_02: budowały cokolwiek na przykład bezpośrednio dla Amerykanów,
+[1392.00 - 1398.00] SPEAKER_02: tylko najlepiej, żeby kontrolowały to leśne dziadki powiązane z Europejską Agencją Kosmiczną.
+[1398.00 - 1402.00] SPEAKER_02: Po prostu jest dławiony samorozwój.
+[1402.00 - 1405.00] SPEAKER_01: Nie stworzone są warunki, że Polska Agencja Kosmiczna,
+[1405.00 - 1409.00] SPEAKER_01: żeby tworzyła rynek przez wydawanie pieniędzy publiczne na polskie start-upy.
+[1409.00 - 1412.00] SPEAKER_01: To jest dopiero masakra ta Polska Agencja Kosmiczna.
+[1412.00 - 1414.00] SPEAKER_01: Dlatego, że to nie o to im chodzi.
+[1414.00 - 1418.00] SPEAKER_02: To nie chodzi o to, żebyśmy mieli tu te sukcesy.
+[1418.00 - 1422.00] SPEAKER_02: To chodzi o podział pieniądza publicznego i przykładanie budzi
+[1422.00 - 1426.00] SPEAKER_02: między frakcjami polityczno-społecznymi w lepsze lub gorsze miejsca,
+[1426.00 - 1428.00] SPEAKER_02: a nie chodzi o żadną innowację.
+[1428.00 - 1432.00] SPEAKER_02: To jest rozwój zależny i konsekwentnie idziemy w tym kierunku.
+[1432.00 - 1437.00] SPEAKER_02: Cały wysiłek rozwój PKB, o czym pani mówiła, jest wynikiem wielkiego wysiłku społecznego
+[1437.00 - 1442.00] SPEAKER_02: od transformacji Polski Wyszyńskiego, która wyszła z fabryk,
+[1442.00 - 1446.00] SPEAKER_02: musiała się nauczyć angielskiego i później wystąpić na globalnym rynku pracy,
+[1446.00 - 1449.00] SPEAKER_02: a nie państwa, które absolutnie nic nie pomogło w tym zagraniu.
+[1449.00 - 1454.00] SPEAKER_02: A polski mit nauki budowany jest na Marii Curie-Skłodowskiej.
+[1454.00 - 1456.00] SPEAKER_02: A nawet Marii Skłodowskiej-Curie.
+[1456.00 - 1459.00] SPEAKER_02: A nawet Marii Skłodowskiej-Curie. Wiedziałem, że mnie o to poprawisz i dobrze, że to zrobiłeś.
+[1459.00 - 1466.00] SPEAKER_02: Ale chciałem powiedzieć, że jakbyśmy zapytali Polaka o współczesną polską naukowczynię,
+[1466.00 - 1471.00] SPEAKER_02: która robi wielkie rzeczy, to przecież nawet nie mają szansy się o tym nigdzie dowiedzieć.
+[1471.00 - 1477.00] SPEAKER_02: Tak, ale mówił Maciek o sukcesach np. Wojsk Obrony Cyberprzestrzeni,
+[1477.00 - 1480.00] SPEAKER_02: o kwantową dystrybucji klucza.
+[1480.00 - 1483.00] SPEAKER_02: Przepraszam, a dlaczego jest to sukces Wojska Obrony Cyberprzestrzeni?
+[1483.00 - 1488.00] SPEAKER_02: Bo tam nie ma realnych, bo pieniądze są w gąsienicy, w lufie, w amunicji,
+[1488.00 - 1490.00] SPEAKER_02: a nie w jakichś takich, nie wiadomo, czary marii.
+[1490.00 - 1492.00] SPEAKER_02: I się nie przyjmują, pozostawiają ich.
+[1492.00 - 1494.00] SPEAKER_02: Dokładnie tak.
+[1494.00 - 1499.00] SPEAKER_02: On ma święty spokój. Co się udało zrobić?
+[1499.00 - 1504.00] SPEAKER_02: Ile jest takich Karolów Molendów, który był dowódcą Wojsk Obrony Cyberprzestrzeni,
+[1504.00 - 1508.00] SPEAKER_02: gdy Błaszczak był ministrem obrony narodowej i jest dowódcą Wojsk Obrony Cyberprzestrzeni,
+[1508.00 - 1511.00] SPEAKER_02: gdy jest Kosiniak-Kamysz. Prawdopodobnie jest jedyny w Polsce.
+[1511.00 - 1513.00] SPEAKER_02: Ciągłość zachowana jest instytucjonalna.
+[1513.00 - 1516.00] SPEAKER_02: Generał Karol Molenda, szef Wojsk Obrony Cyberprzestrzeni.
+[1516.00 - 1522.00] SPEAKER_02: Są tutaj w tej sferze, my mamy enigma, mamy te swoje jakieś takie umiejętności.
+[1522.00 - 1524.00] SPEAKER_02: Faszerowanie właśnie enigmą.
+[1524.00 - 1526.00] SPEAKER_02: No tak, ale na przykład...
+[1526.00 - 1528.00] SPEAKER_02: Wróćmy do XVI wieku.
+[1528.00 - 1534.00] SPEAKER_02: Nie, słuchajcie, ale ja chciałem powiedzieć o XIX roku, nie o XVI wieku, a nie o enigmie.
+[1534.00 - 1539.00] SPEAKER_03: Tylko o XIX, bo jednym z twórców kryptografii kwantowej, jednym z ojców,
+[1539.00 - 1543.00] SPEAKER_03: człowiekiem, który napisał protokół taki najbardziej...
+[1543.00 - 1544.00] SPEAKER_03: Eckert.
+[1544.00 - 1548.00] SPEAKER_03: Tak, jest Artur Eckert, który ok, zrobił to w Oksfordzie, zrobił to w Anglii.
+[1548.00 - 1550.00] SPEAKER_03: Dzisiaj pracuje głównie w Singapurze i w Oksfordzie.
+[1550.00 - 1553.00] SPEAKER_05: Ale to jest Polak, takie rzeczy się dzieją.
+[1553.00 - 1557.00] SPEAKER_05: Przepraszam Patrecjuszu, bo my na tym etnosie.
+[1557.00 - 1561.00] SPEAKER_05: Chodzi o to, żeby stworzyć takie warunki ludziom, żeby chcieli tu żyć,
+[1561.00 - 1567.00] SPEAKER_05: budować łańcuchy wartości i własne firmy, które będą zatrudniały ludzi
+[1567.00 - 1572.00] SPEAKER_01: i będą produkowały rzeczy, które są potrzebne społeczeństwu do rozwoju.
+[1572.00 - 1576.00] SPEAKER_03: No i chodzi o to, że z tym jest tak skonstruowane, że jest to niemożliwe w Polsce.
+[1576.00 - 1582.00] SPEAKER_03: W związku z tym naprawdę od około 450 lat co pokolenie z maszynka,
+[1582.00 - 1589.00] SPEAKER_03: taki bęben wyrzucania albo co zdolniejszych, albo co bardziej zrozpaczonych na zewnątrz,
+[1589.00 - 1592.00] SPEAKER_03: na lepsze rynki, na lepszą stopę zwrotu.
+[1592.00 - 1595.00] SPEAKER_05: Kto to zaprojektował? Kto ten bęben wytworzył?
+[1595.00 - 1598.00] SPEAKER_04: Generalnie najpierw świat, system kapitalistyczny.
+[1598.00 - 1603.00] SPEAKER_01: Potem nasza klasa panująca szlachta nie umiała wyjść naprzeciw zmianom.
+[1603.00 - 1605.00] SPEAKER_01: Potem zaborcy nie pomagali.
+[1605.00 - 1608.00] SPEAKER_01: Potem II Rzeczpospolita miała bardzo trudne i generalnie system światowy.
+[1608.00 - 1610.00] SPEAKER_04: A można to jakoś przełamać dzisiaj?
+[1610.00 - 1614.00] SPEAKER_04: Generalnie wojna, która teraz się rozpoczęła w 2018 roku jest o zmianę tego systemu.
+[1614.00 - 1618.00] SPEAKER_04: I musimy się zastanowić, czy my jesteśmy rewizjonistą czy obrońcą status quo.
+[1618.00 - 1624.00] SPEAKER_04: Bo to co się zaczęło w 2018 roku jest wielką wojną o zmianę dominacji Atlantyku
+[1624.00 - 1626.00] SPEAKER_01: nad właśnie co jest centrum, co jest peryferią.
+[1626.00 - 1630.00] SPEAKER_01: U tego najgorsze co można teraz zrobić to tych ludzi zatrzymywać w Polsce.
+[1630.00 - 1635.00] SPEAKER_01: Dlatego, że jeżeli ich zatrzymasz w Polsce, to oni w poczuciu frustracji nie zrobią tego,
+[1635.00 - 1637.00] SPEAKER_01: co by zrobili wyjeżdżając za granicą.
+[1637.00 - 1639.00] SPEAKER_01: To przynajmniej mamy tam polskich ambasadorów.
+[1639.00 - 1642.00] SPEAKER_01: Mam pomysł na to, co można by zrobić.
+[1642.00 - 1645.00] SPEAKER_04: I może wesprzyjcie to, bo macie ogromną mnożność społeczną.
+[1645.00 - 1649.00] SPEAKER_01: Ja przecież tylko tą geopolityką się zajmuję, nikt tego poważnie w Polsce nie bierze.
+[1649.00 - 1651.00] SPEAKER_01: No bo co Polska może zrobić?
+[1651.00 - 1653.00] SPEAKER_01: Ale generalnie pomyślmy o tym.
+[1653.00 - 1657.00] SPEAKER_01: A może byśmy spowodowali, żeby politycy uchwalili ustawę,
+[1657.00 - 1662.00] SPEAKER_01: że budujemy miasto od początku, które podobnie jak kiedyś miasto na prawie magdeburskim
+[1662.00 - 1664.00] SPEAKER_01: jest na określonych prawach.
+[1664.00 - 1667.00] SPEAKER_01: Gdzie nie ma tych starych metod. Jest nowe.
+[1667.00 - 1668.00] SPEAKER_01: Taka idylla.
+[1668.00 - 1669.00] SPEAKER_01: Tak, zupełnie nowe.
+[1669.00 - 1672.00] SPEAKER_01: No skoro budujemy CPK i będzie miasto powstawać tam,
+[1672.00 - 1674.00] SPEAKER_01: to dlaczego nie zbudować tam smart city?
+[1674.00 - 1678.00] SPEAKER_01: A my z Jackiem będziemy burmistrzami tego miasta.
+[1678.00 - 1680.00] SPEAKER_02: Dlaczego wy?
+[1260.00 - 1262.00] SPEAKER_01: Właśnie, burmistrzyni powinna być.
+[1262.00 - 1266.00] SPEAKER_01: Ja z kolei myślę, że może pogódźmy się z tym, bo wracając do tego dobra wspólnego.
+[1266.00 - 1269.00] SPEAKER_01: Jest to piękna, trochę to powiedziałeś, misja Polski.
+[1269.00 - 1272.00] SPEAKER_01: Rzeczywiście, zasilamy globalny rozwój technologii.
+[1272.00 - 1275.00] SPEAKER_01: Mamy ten odpływ, ale może to jest to, co my potrafimy zrobić.
+[1275.00 - 1278.00] SPEAKER_01: Bo ja też nie wierzę w tę historię, że to jest kwestia pieniędzy.
+[1278.00 - 1284.00] SPEAKER_01: Ludzie, którzy w San Francisco mogą chodzić i pływać, że tak powiem, w tej zupie debat o AGI,
+[1284.00 - 1289.00] SPEAKER_01: co wrócą tutaj i będą chodzić do ministerstwa na ulice królewską, opowiadać ministrowi coś.
+[1289.00 - 1291.00] SPEAKER_01: To w ogóle się nie skleja.
+[1291.00 - 1296.00] SPEAKER_01: Ja wiem, że to brzmi pesymistycznie i boję się, że głównie z powodów tych geopolitycznych.
+[1296.00 - 1298.00] SPEAKER_01: Bo ja nie wiem, czy my sobie na to możemy pozwolić.
+[1298.00 - 1302.00] SPEAKER_01: To jest nasza jakaś tam karta przetargowa.
+[1302.00 - 1305.00] SPEAKER_02: Tylko jeszcze chciałem powiedzieć, bo nas zawsze zbija to bycie liderem.
+[1305.00 - 1308.00] SPEAKER_02: Wszystkie polskie dokumenty strategiczne, cyfrowe.
+[1308.00 - 1313.00] SPEAKER_01: Gdzieś zawsze się zatrudnia konsalty i na przykład w jednym z pierwszych dokumentów o policji AGI
+[1313.00 - 1317.00] SPEAKER_01: napisał, że będziemy challengerem AGI w trzy lata i to zostało zaktualizowane po trzech latach.
+[1317.00 - 1320.00] SPEAKER_01: Ale cytat został, bo to dobrze wygląda.
+[1320.00 - 1325.00] SPEAKER_01: Tajwan, gdy weszli na tę trajektorię budowania TSMC, tam nikt nie mówił,
+[1325.00 - 1329.00] SPEAKER_05: czy oni będą liderem, tylko po prostu wymyślili, że muszą się zmodernizować
+[1329.00 - 1331.00] SPEAKER_05: i że geopolitycznie to jest ważne itd.
+[1331.00 - 1335.00] SPEAKER_05: A my mam wrażenie, że zamiast właśnie realnie, może to jest po prostu bardzo trudne,
+[1335.00 - 1338.00] SPEAKER_05: lubimy zadać sobie pytanie jak być liderem.
+[1338.00 - 1341.00] SPEAKER_02: Jest coś kulturowego rzeczywiście w Polsce.
+[1341.00 - 1344.00] SPEAKER_02: Doszliśmy do tego momentu w dyskusji.
+[1344.00 - 1347.00] SPEAKER_02: Właśnie nie umiem powiedzieć, bo to socjolog może, czy filozof.
+[1347.00 - 1350.00] SPEAKER_02: Jest coś kulturowego do naprawienia.
+[1350.00 - 1354.00] SPEAKER_02: Ale wydaje mi się, że jest też dobra sytuacja do zmiany.
+[1354.00 - 1358.00] SPEAKER_02: Przykładem jest chyba dobra sytuacja z profesorem Sankowskim,
+[1358.00 - 1362.00] SPEAKER_02: bo nauka bardzo dużo znosiła i w kółko odbiór im funduszy.
+[1362.00 - 1366.00] SPEAKER_02: Doszliśmy do tego, że w tym roku w budżecie państwa na naukę
+[1366.00 - 1370.00] SPEAKER_02: jest przeznaczone raptem 1,07% PKB.
+[1370.00 - 1373.00] SPEAKER_02: To najniżej od lat dziewięćdziesiątych.
+[1373.00 - 1377.00] SPEAKER_02: Inne kraje podnoszą te nakłady, a my zmniejszamy.
+[1377.00 - 1381.00] SPEAKER_02: Więc to nie jest dobra informacja.
+[1381.00 - 1384.00] SPEAKER_02: Ale przy profesor Sankowskim tak naprawdę po raz pierwszy
+[1384.00 - 1386.00] SPEAKER_02: świat nauki powiedział stop.
+[1386.00 - 1388.00] SPEAKER_02: Czyli doszliśmy chyba do tej granicy.
+[1388.00 - 1390.00] SPEAKER_02: Jak i też społeczeństwo powiedziało tak.
+[1390.00 - 1394.00] SPEAKER_02: Chcemy mieć szansę i być z czegoś dumni.
+[1394.00 - 1397.00] SPEAKER_02: I dzięki temu powstały już nowe ideas.
+[1397.00 - 1399.00] SPEAKER_02: Profesor Sankowski ma miejsce.
+[1399.00 - 1403.00] SPEAKER_02: Tylko, że na samym profesorze jednym i jego zespole nie zbudujemy.
+[1403.00 - 1405.00] SPEAKER_01: To jest ciekawy wątek.
+[1405.00 - 1408.00] SPEAKER_01: Może to my, może to się od nas zacznie.
+[1408.00 - 1410.00] SPEAKER_01: Może my dojrzewamy do tego.
+[1410.00 - 1414.00] SPEAKER_01: Może ambicja was, nas wszystkich jest coraz większa.
+[1414.00 - 1418.00] SPEAKER_02: Zryw społeczny Piotra nie rozwiązał problemu tego,
+[1418.00 - 1420.00] SPEAKER_02: w jakiej on dzisiaj jest sytuacji.
+[1420.00 - 1424.00] SPEAKER_02: Pytałeś o to Piotrka, w jakiej sytuacji jest dzisiaj NCB i LIDS.
+[1424.00 - 1428.00] SPEAKER_02: Bez ekspertów, bez ludzi, bez możliwości finansowania.
+[1428.00 - 1430.00] SPEAKER_02: Chciałem powiedzieć o czymś większym.
+[1430.00 - 1433.00] SPEAKER_02: Przepraszam, ale to zabrzmi.
+[1433.00 - 1435.00] SPEAKER_02: O ambicjach Polaków.
+[1435.00 - 1440.00] SPEAKER_02: Mam takie wrażenie, że obserwuję, że my zaczynamy chcieć coraz więcej.
+[1440.00 - 1443.00] SPEAKER_02: Zaczynamy rozumieć, że nas ma coraz więcej stać.
+[1443.00 - 1447.00] SPEAKER_02: Zaczynamy widzieć, że mamy pracowitość, kreatywność,
+[1447.00 - 1451.00] SPEAKER_02: że mamy różne talenty i zaczynamy trochę oczekiwać coraz więcej.
+[1451.00 - 1454.00] SPEAKER_02: Że jest jakiś rodzaj takiego oddolnego...
+[1454.00 - 1459.00] SPEAKER_02: Było to widać przy CPK, kiedy pojawiły się bardzo istotne, dość masowe głosy,
+[1459.00 - 1462.00] SPEAKER_02: że dlaczego, nie przekreślajmy.
+[1462.00 - 1465.00] SPEAKER_02: Pojawiło się to właśnie przy profesorze Senkowskim,
+[1465.00 - 1467.00] SPEAKER_02: kiedy nawet ludzie nie rozumieli czego bronią,
+[1467.00 - 1470.00] SPEAKER_02: ale czuli, że ktoś chce im zabrać jakąś szansę rozwoju.
+[1470.00 - 1472.00] SPEAKER_02: I właśnie dlatego bronili.
+[1472.00 - 1475.00] SPEAKER_02: Jest coś takiego, że wy widzicie, że wśród nas...
+[1475.00 - 1477.00] SPEAKER_02: Półtorej minuty mamy, jak to się stało?
+[1477.00 - 1479.00] SPEAKER_02: Że my zaczynamy oczekiwać więcej?
+[1479.00 - 1482.00] SPEAKER_02: Że jesteśmy głodni czegoś ważniejszego i większego?
+[1482.00 - 1485.00] SPEAKER_02: Wydaje mi się, że jest taka sytuacja
+[1485.00 - 1488.00] SPEAKER_02: i rzeczywiście wreszcie chcemy podnieść tę głowę
+[1488.00 - 1491.00] SPEAKER_02: i poczuć, że samostanowimy o sobie.
+[1491.00 - 1492.00] SPEAKER_02: I mamy ambicje.
+[1492.00 - 1494.00] SPEAKER_02: I dobrym przykładem jest tutaj sytuacja Bielika.
+[1494.00 - 1496.00] SPEAKER_02: Nie wiem, czy na sali jest Sebastian Konradzki,
+[1496.00 - 1498.00] SPEAKER_02: bo był wcześniej ze mną na prelekcji.
+[1498.00 - 1501.00] SPEAKER_02: I on opowiadał taką historię, skąd się wziął Bielik.
+[1501.00 - 1507.00] SPEAKER_02: Był na spotkaniu wirtualnym tutaj chyba na...
+[1507.00 - 1511.00] SPEAKER_02: Nie pamiętam po prostu, z kim on udzielał wywiadu na YouTubie.
+[1511.00 - 1515.00] SPEAKER_02: I tam padło pytanie do niego, pół żartem, pół seria,
+[1515.00 - 1518.00] SPEAKER_02: że dlaczego Polska nie ma dużego modelu językowego.
+[1518.00 - 1519.00] SPEAKER_02: I to było dwa lata.
+[1519.00 - 1520.00] SPEAKER_02: I on mu to weszło tak na ambicje.
+[1520.00 - 1521.00] SPEAKER_02: No dobrze, to ja zrobię.
+[1521.00 - 1522.00] SPEAKER_02: I on powiedział.
+[1522.00 - 1525.00] SPEAKER_02: Ja mówię, ponieważ powiedziałem to publicznie, to zadziałam.
+[1525.00 - 1527.00] SPEAKER_02: No i potem zaczął chodzić i wszedł i opowiadał,
+[1527.00 - 1529.00] SPEAKER_02: że chce stworzyć model językowy.
+[1529.00 - 1531.00] SPEAKER_02: Przez dwa lata trzy tysiące uczestników.
+[1531.00 - 1533.00] SPEAKER_02: Oddolnie stworzony model językowy,
+[1533.00 - 1535.00] SPEAKER_02: który jest bardzo dobrze oceniany teraz.
+[1535.00 - 1537.00] SPEAKER_03: I to jest najciekawsza historia w Bieliku,
+[1537.00 - 1539.00] SPEAKER_03: że jest on oddolny i to jest bardzo polskie.
+[1539.00 - 1541.00] SPEAKER_03: Bez żadnego modelu biznesowego.
+[1541.00 - 1543.00] SPEAKER_03: Bo poza tym, ja jestem wielkim fanem Bielika,
+[1543.00 - 1545.00] SPEAKER_03: ale umówmy się, prawie każdy kraj europejski
+[1545.00 - 1546.00] SPEAKER_03: ma dziś swego Bielika.
+[1546.00 - 1548.00] SPEAKER_03: I my uwielbiamy myśleć, że to jest kolejny raz.
+[1548.00 - 1551.00] SPEAKER_03: Tak, zrobiliśmy to, a potem się rozejrzymy
+[1551.00 - 1552.00] SPEAKER_05: Szwedzi dwa lata wcześniej.
+[1552.00 - 1555.00] SPEAKER_05: Ale ten oddolny coś nie jest wcale lepszy.
+[1555.00 - 1558.00] SPEAKER_05: Jak wszystkie małe modele jest przeciętny, umówmy się.
+[1558.00 - 1560.00] SPEAKER_05: Ma być może fajne zastosowanie się
+[1560.00 - 1562.00] SPEAKER_05: administracja publiczna w to wejdzie.
+[1562.00 - 1564.00] SPEAKER_05: Ta oddolność, to moim zdaniem
+[1564.00 - 1566.00] SPEAKER_05: jakby szukać tego klucza, to jest to.
+[1566.00 - 1568.00] SPEAKER_05: Tylko my nie umiemy budować oddolnych strategii.
+[1568.00 - 1569.00] SPEAKER_01: Nie umiemy robić oddolne zrywy.
+[1569.00 - 1571.00] SPEAKER_01: Słuchajcie, jeden z zdecydowanie
+[1571.00 - 1575.00] SPEAKER_03: najfajniejszych paneli, w jakich ostatnio brałem udział.
+[1575.00 - 1577.00] SPEAKER_03: Zawsze taki moment, kiedy jest ten nerw, prawda?
+[1577.00 - 1579.00] SPEAKER_03: Oni się pięknie potrafią różnić.
+[1579.00 - 1582.00] SPEAKER_03: W dodatku prowadzący jest na chwilę na bocznym torze.
+[1582.00 - 1584.00] SPEAKER_03: Takie panele najbardziej lubię prowadzić.
+[1585.00 - 1587.00] SPEAKER_03: Joanna Szczegielniak, Maciej Kawecki,
+[1587.00 - 1589.00] SPEAKER_03: Alek Tarkowski, Jacek Bartosiak
+[1589.00 - 1591.00] SPEAKER_03: zasłużyli na państwa brawa. Bardzo dziękuję.
+[1594.00 - 1597.00] SPEAKER_04: Niemniejsza brawa Patrycjusz Rzeszga, prowadzący.
+[1606.00 - 1609.00] SPEAKER_01: Ja jeszcze jako zapasowy prowadzący
+[1609.00 - 1611.00] SPEAKER_04: pozwoliłbym sobie na taką zapasową puentę.
+[1611.00 - 1613.00] SPEAKER_04: Bo moim zdaniem tu chodzi trochę o kompleksy.
+[1613.00 - 1617.00] SPEAKER_04: Zobaczcie, na początku zostało powiedziane o borówce.
+[1617.00 - 1619.00] SPEAKER_04: Że eksportujemy tę borówkę za granicę.
+[1619.00 - 1621.00] SPEAKER_04: Tylko jaka jest ta borówka?
+[1621.00 - 1622.00] SPEAKER_04: Amerykańska.
+[1622.00 - 1624.00] SPEAKER_01: Powinna być borówka mazowiecka,
+[1624.00 - 1626.00] SPEAKER_01: żeby chociaż coś było po nas na tym świecie.
+[1626.00 - 1628.00] SPEAKER_01: Mieli państwo 15 minut przerwy,
+[1628.00 - 1629.00] SPEAKER_01: tak zwane wietrzenie sali.
+[1629.00 - 1631.00] SPEAKER_01: Ostatni panel o 15.45
+[1631.00 - 1634.00] SPEAKER_01: będzie dotyczył człowieka i dobrostanu.
+[1634.00 - 1636.00] SPEAKER_01: Czyli tego, o czym jeszcze na tej scenie
+[1636.00 - 1638.00] SPEAKER_01: przez dwa dni nie rozmawialiśmy.
+[1638.00 - 1640.00] SPEAKER_01: Co myślę, że będzie fantastyczną klamrą
+[1640.00 - 1642.00] SPEAKER_04: dla całej sceny dyskusji.
+[1642.00 - 1644.00] SPEAKER_04: Wróćcie proszę niebawem.
+[1440.00 - 1452.44] SPEAKER_02: Jest dyrektorem Centrum Innowacji Uniwersytetu WSB Merito, jest prezesem Instytutu Lema, ale być może kojarzą Państwo Maćka przede wszystkim jako fantastycznego twórcę YouTube'owego.
+[1452.44 - 1462.96] SPEAKER_02: Prowadzi kanał This Is It, a właściwie This Is IT. Fantastyczną robotę robi Maciek na YouTube. Jeśli jeszcze tego nie znacie, to koniecznie zasubskrybujcie jego kanał.
+[1462.96 - 1472.40] SPEAKER_02: Mówiąc krótko, rozmawia z naukowcami, jeździ po świecie, spotyka się z tymi najwybitniejszymi, jak prof. Roger Penrose, np. żyjącymi współcześnie naukowcami.
+[1472.40 - 1481.36] SPEAKER_02: To są właśnie te treści, które bardzo bym chciał, żeby się rozprostrzeniały w tej polskiej sferze internetowej jak najszerzej.
+[1481.36 - 1492.08] SPEAKER_02: Maćku, przez to, że wędrujesz, że podróżujesz, że nagrywasz te wywiady nie tylko w Polsce, ale jeździsz za tymi naukowcami w różne zakątki świata.
+[1492.08 - 1505.60] SPEAKER_02: Właśnie wypuściłeś film z takiego, być może jest to jedna z najpopularniejszych czy najważniejszych, obok MIT pewnie, takich politechnik czy takich technologicznych uczelni, najlepszych na świecie.
+[1505.60 - 1516.56] SPEAKER_02: Polecam państwu ten najnowszy film, Maćka. To pewnie trochę wiesz, podsłuchujesz, zerkasz, zaglądasz za kotarę, co się w tych laboratoriach, które pracują nad AI w tej chwili dzieje.
+[1516.56 - 1526.16] SPEAKER_02: To znaczy, nad czym oni tam pracują? Co oni tam trzymają w piwnicach? Czy oni trzymają w piwnicach coś takiego, czego się powinniśmy obawiać, czy nie?
+[1526.16 - 1531.96] SPEAKER_02: Jaki jest ten brakujący puzzle i co będzie, kiedy oni go już do tej układanki dołożą?
+[1531.96 - 1544.52] SPEAKER_03: Brakującym puzzlem oczywiście jest fizyka. To znaczy cały świat sztucznej inteligencji, wszystkie największe laboratoria, czy spojrzymy sobie na MEDE, czy na zespół googlowski,
+[1544.52 - 1552.40] SPEAKER_03: to wszystkie oczywiście poszukują odpowiedzi na pytanie, co zrobić, żeby przenieść świat fizyczny do świata cyfrowego.
+[1552.52 - 1565.24] SPEAKER_05: Próbowaliśmy zrobić to na różne sposoby i cały czas ten paradoks Moraweka pozostaje aktualny. Paradoks, który mówi o tym, jak to się dzieje, że z jednej strony mamy dzisiaj mechanizmy,
+[1565.24 - 1573.08] SPEAKER_01: opracowaliśmy te trzy filary uczenia maszynowego, zdolne do tego, żeby rozwiązywać najgłębsze łamigłówki.
+[1573.08 - 1585.20] SPEAKER_03: Mamy ten free reasoning, abstractional thinking w modelu O1, który gdzieś tam zaczyna już wykazywać cechy abstrakcyjnego rozumowania, ale cały czas roboty nie są zdolne do tego,
+[1585.20 - 1593.04] SPEAKER_03: żeby na naszą kobędę podejść i w sposób płynny w przestrzeni fizycznej przenieść szklankę z jednej części stołu do drugiej części stołu.
+[1593.76 - 1606.20] SPEAKER_01: Co jest przyczyną tego? Oczywiście my tego dzisiaj nie wiemy. Wiemy o tym, że to uczenie nadzorowane, uczenie ze wzmocnieniem, wykorzystywanie warstwy językowej jest niewystarczające.
+[1606.20 - 1614.44] SPEAKER_04: I poszukujemy dzisiaj, głównie Laboratorium METY w Paryżu, nad tym pracuje Jana Leku, poszukujemy odpowiedzi na pytanie, co zrobić.
+[1614.44 - 1623.04] SPEAKER_04: Najbardziej prawdopodobną hipotezą jest oczywiście to, że my nie znamy natury rzeczy.
+[1620.00 - 1623.36] SPEAKER_04: Oczywiście to, że my nie znamy natury rzeczy,
+[1623.36 - 1625.36] SPEAKER_01: nie znamy pełnej natury świata,
+[1625.36 - 1627.36] SPEAKER_01: nie znamy natury rzeczywistości,
+[1627.36 - 1629.36] SPEAKER_01: nie wiemy jak funkcjonuje ludzki mózg
+[1629.36 - 1631.36] SPEAKER_01: ze wszystkimi jego detalami.
+[1631.36 - 1633.36] SPEAKER_01: Nie wiemy na przykład, wiem o tym, że
+[1633.36 - 1635.36] SPEAKER_01: na wszystko co modelujemy
+[1635.36 - 1637.36] SPEAKER_01: w przestrzeni cyfrowej wpływ powinna mieć
+[1637.36 - 1639.36] SPEAKER_01: grawitacja, no bo jeżeli ma mieć wierną
+[1639.36 - 1641.36] SPEAKER_01: odzwierciedleniem
+[1641.36 - 1643.36] SPEAKER_04: rzeczywistości analogowej,
+[1643.36 - 1645.36] SPEAKER_01: no to ten punkt wyjścia jest fundamentalny,
+[1645.36 - 1647.36] SPEAKER_01: ale nie wiemy na przykład co jest źródłem
+[1647.36 - 1649.36] SPEAKER_01: grawitacji. My tylko wiemy, że grawitacja istnieje.
+[1649.36 - 1651.36] SPEAKER_01: Ale nie wiemy co jest źródłem
+[1651.36 - 1653.36] SPEAKER_01: grawitacji, co tworzy
+[1653.36 - 1655.36] SPEAKER_01: grawitację.
+[1655.36 - 1657.36] SPEAKER_01: Już mówiłeś o Penrose,
+[1657.36 - 1659.36] SPEAKER_01: czyli o wszystkie tematy związane ze świadomością.
+[1659.36 - 1661.36] SPEAKER_01: Czym jest świadomość?
+[1661.36 - 1663.36] SPEAKER_01: Czy ona rodzi się na poziomie kwantowym?
+[1663.36 - 1665.36] SPEAKER_01: Czy rodzi się na poziomie klasycznym?
+[1665.36 - 1667.36] SPEAKER_01: Jeżeli rodzi się na poziomie klasycznym,
+[1667.36 - 1669.36] SPEAKER_01: no to będziemy w stanie ją zamknąć w system binarny.
+[1669.36 - 1671.36] SPEAKER_01: Jeżeli nie, no to już będziemy wiedzieć
+[1671.36 - 1673.36] SPEAKER_01: o tym, że nie. To są wszystko te pytania,
+[1673.36 - 1675.36] SPEAKER_01: które dzisiaj kłopotają
+[1675.36 - 1677.36] SPEAKER_01: świat sztucznej inteligencji. To jest ten
+[1677.36 - 1679.36] SPEAKER_02: sparty filar, który
+[1679.36 - 1681.36] SPEAKER_02: dzisiaj próbujemy przeskoczyć.
+[1681.36 - 1683.36] SPEAKER_02: I jak spojrzymy sobie na te
+[1683.36 - 1685.36] SPEAKER_02: chociażby tą ostatnio sprzed
+[1685.36 - 1687.36] SPEAKER_02: trzech tygodni konferencję NVIDI, która
+[1687.36 - 1689.36] SPEAKER_02: spektakularnie
+[1689.36 - 1691.36] SPEAKER_02: chciała pokazać nam swoje roboty,
+[1691.36 - 1693.36] SPEAKER_02: no ona jest tak naprawdę dowodem na to,
+[1693.36 - 1695.36] SPEAKER_03: jak daleko jeszcze dzisiaj w tym obszarze
+[1695.36 - 1697.36] SPEAKER_03: jesteśmy. Czyli mówiąc
+[1697.36 - 1699.36] SPEAKER_03: wprost, to nad czym dzisiaj
+[1699.36 - 1701.36] SPEAKER_03: pracuje świat, to jest próba
+[1701.36 - 1703.36] SPEAKER_03: przeniesienia praw fizyki
+[1703.36 - 1705.36] SPEAKER_03: do świata cyfrowego.
+[1705.36 - 1707.36] SPEAKER_03: Czyli mówiąc wprost, AI, która
+[1707.36 - 1709.36] SPEAKER_03: rozumie przestrzenność, trójwymiarowość
+[1709.36 - 1711.36] SPEAKER_03: wszechświata.
+[1711.36 - 1713.36] SPEAKER_05: To jest bardzo
+[1713.36 - 1715.36] SPEAKER_05: fajne przejście od mnie, co robią te
+[1715.36 - 1717.36] SPEAKER_05: laby, do mówienia, co robi
+[1717.36 - 1719.36] SPEAKER_05: świat. Bo wydaje mi się, że żyjemy w tej takiej sytuacji,
+[1719.36 - 1721.36] SPEAKER_05: gdy wszyscy spoglądamy
+[1721.36 - 1723.36] SPEAKER_05: na te laboratoria i mówimy,
+[1723.36 - 1725.36] SPEAKER_05: panowie, to co my wszyscy
+[1725.36 - 1727.36] SPEAKER_05: teraz budujemy? A oni po pierwsze
+[1727.36 - 1729.36] SPEAKER_05: mówią, nie, to my budujemy i to my
+[1729.36 - 1731.36] SPEAKER_05: jesteśmy wyjątkowi. I
+[1731.36 - 1733.36] SPEAKER_05: pamiętajmy, uważam, geopolityka
+[1733.36 - 1735.36] SPEAKER_05: częściej, prawda, to są tematy
+[1735.36 - 1737.36] SPEAKER_05: typu USA i Chiny, czy
+[1737.36 - 1739.36] SPEAKER_05: Ukraina i Rosja. Uważam, że jest też
+[1739.36 - 1741.36] SPEAKER_05: geopolityka między tymi
+[1741.36 - 1743.36] SPEAKER_05: największymi labami i resztą
+[1743.36 - 1745.36] SPEAKER_05: świata, czy społecznościami.
+[1745.36 - 1747.36] SPEAKER_05: I to nie mówię tego ja, tylko mówią to
+[1747.36 - 1749.36] SPEAKER_05: sami technolodzy. To znaczy,
+[1749.36 - 1751.36] SPEAKER_05: gdy jest masa teraz książek,
+[1751.36 - 1753.36] SPEAKER_05: takie jak pomysły na
+[1753.36 - 1755.36] SPEAKER_05: Network State, czy ta najnowsza
+[1755.36 - 1757.36] SPEAKER_05: książka współzałożyciela Palantira,
+[1757.36 - 1759.36] SPEAKER_05: która się nazywa
+[1759.36 - 1761.36] SPEAKER_05: Technological Empire.
+[1761.36 - 1763.36] SPEAKER_05: I to są technopolityczne,
+[1763.36 - 1765.36] SPEAKER_05: geopolityczne wizje mocy
+[1765.36 - 1767.36] SPEAKER_05: korporacji zasilanych potężnymi
+[1767.36 - 1769.36] SPEAKER_05: technologiami. I to mi się wydaje
+[1769.36 - 1771.36] SPEAKER_05: bardzo ważne, bo na przykład
+[1771.36 - 1773.36] SPEAKER_05: uważam świetnie, że zaglądasz
+[1773.36 - 1775.36] SPEAKER_05: do tych laboratoriów, bo
+[1775.36 - 1777.36] SPEAKER_05: jesteśmy jako społeczeństwa
+[1777.36 - 1779.36] SPEAKER_05: w trudnej sytuacji. My trochę
+[1779.36 - 1781.36] SPEAKER_05: ufamy dosyć zamkniętym
+[1781.36 - 1783.36] SPEAKER_05: firmom. Paradoksalnie, mówiłem, one
+[1783.36 - 1785.36] SPEAKER_05: niektórymi rzeczami się dzielą
+[1785.36 - 1787.36] SPEAKER_05: niezmiernie hojnie. Są też
+[1787.36 - 1789.36] SPEAKER_05: takie trendy, żeby pewne rzeczy
+[1789.36 - 1791.36] SPEAKER_05: usłyszeć, bo to też ma sens biznesowy.
+[1791.36 - 1793.36] SPEAKER_05: Ale mam wrażenie, że tymi takimi
+[1793.36 - 1795.36] SPEAKER_05: największymi zagadkami jednak
+[1795.36 - 1797.36] SPEAKER_05: się nie dzielą. I my musimy
+[1797.36 - 1799.36] SPEAKER_05: ufać tym firmom,
+[1799.36 - 1801.36] SPEAKER_05: w jakim to wszystko kierunku
+[1801.36 - 1803.36] SPEAKER_05: zmierza. No ale ufamy...
+[1800.00 - 1802.16] SPEAKER_05: w jakim to wszystko kierunku zmierza.
+[1802.16 - 1808.00] SPEAKER_05: Ale ufamy na przykład Ilii Sudskeverowi, który mówi, że już pewne dotychczasowe
+[1808.00 - 1812.48] SPEAKER_05: modele skalowania AI się nie sprawdzają, teraz stawiamy na nowe i trzeba chwilę
+[1812.48 - 1815.92] SPEAKER_05: pomyśleć i przypomnieć sobie, że on właśnie założył firmę, która próbuje
+[1815.92 - 1820.80] SPEAKER_05: dostać wielomiliardowe dofinansowanie z funduszy Venture Capital, dokładnie na
+[1820.80 - 1825.28] SPEAKER_05: ten pomysł. I to mnie bardzo zastanawia i to też uważam jest geopolityką, jak
+[1825.28 - 1831.00] SPEAKER_05: jednak wielkie pieniądze skrzywiają fundamentalne pytania o to, dokąd to zmierza.
+[1831.00 - 1835.00] SPEAKER_02: Bardzo dziękuję. Jeszcze dopytam. Maćku, ty mówiłeś, czy to, o czym ty mówiłeś
+[1835.00 - 1840.16] SPEAKER_02: o odnalezieniu się sztucznej inteligencji w przestrzeni fizycznej, w sensie w kuchni,
+[1840.16 - 1845.60] SPEAKER_02: to jest coś, co się nazywa tym testem cappuccino, żeby wpuścić robota do kuchni,
+[1845.60 - 1849.08] SPEAKER_02: w której nigdy go nie było i po prostu poprosić o zrobienie kawy.
+[1849.08 - 1851.84] SPEAKER_02: Znaczy on musi sam ogarnąć resztę. To o to chodzi?
+[1851.88 - 1856.64] SPEAKER_04: No tak i to o to chodzi, dokładnie o to chodzi. Nie chodzi o to, żeby case by case
+[1856.64 - 1860.84] SPEAKER_04: mapować tą przestrzeń, ponieważ kiedy ją zmapujemy, stworzymy cyfrowego bliźniaka
+[1860.84 - 1864.00] SPEAKER_04: tej przestrzeni, to ten robot będzie potrafił się w niej znaleźć.
+[1864.00 - 1869.76] SPEAKER_04: No i ten paradeks Moraweka mówi o tym, że wbrew pozorom, wbrew temu, co do tej pory
+[1869.76 - 1876.44] SPEAKER_04: myśleliśmy w nauce, myślenie abstrakcyjne nie wymaga dużej mocy obliczeniowej,
+[1876.44 - 1882.20] SPEAKER_04: a więc na poziomie wysokopoziomowym, ale przeniesienie jej na poziom percepcji
+[1882.20 - 1886.80] SPEAKER_04: niskopoziomowego, czyli tego, co wykonujemy, wymaga ogromnej mocy obliczeniowej.
+[1886.80 - 1890.96] SPEAKER_04: Problem polega na tym, że ta percepcja ma fundamentalny wpływ również na to,
+[1890.96 - 1895.20] SPEAKER_04: co się dzieje na poziomie abstrakcyjnym, dlatego, bo my odbieramy dzisiaj jednak
+[1895.20 - 1899.20] SPEAKER_04: świat różnego rodzaju zmysłami, które zakotwiczone są w naszym organizmie.
+[1899.20 - 1905.12] SPEAKER_04: No i na tym dzisiaj pracują laboratoria, żeby spróbować jednak dojść do tego punktu,
+[1905.12 - 1910.68] SPEAKER_04: w jaki sposób to zrobimy. No nikt tego dzisiaj jeszcze chyba do końca nie wie,
+[1910.68 - 1912.68] SPEAKER_04: ale na pewno to będą najbliższe lata.
+[1912.68 - 1916.32] SPEAKER_03: Bardzo dziękuję. Jacek Bartosiak jest niewątpliwie człowiekiem, który,
+[1916.32 - 1921.76] SPEAKER_03: proszę Państwa, sprawił, że Polacy en masse, no pewnie nie wszyscy, ale że to się stało masowe,
+[1921.76 - 1927.04] SPEAKER_03: mówiąc krótko, że zaczęliśmy się interesować dzięki jego przeróżnym wystąpieniom,
+[1927.04 - 1931.00] SPEAKER_03: przeróżnym wykładom, przeróżnym wywiadom, przeróżnym książkom, być może przede wszystkim
+[1931.00 - 1935.96] SPEAKER_03: dzięki książkom, no takimi dużymi tematami, prawda, geopolityką czy geostrategią,
+[1935.96 - 1942.04] SPEAKER_01: zaczęliśmy myśleć o takich, no interesować się po prostu takimi globalnymi układankami.
+[1942.04 - 1946.80] SPEAKER_01: Zaczęło nas to po prostu frapować, to jest niewątpliwa zasługa.
+[1946.80 - 1950.28] UNKNOWN: No to trochę w kontekście tego, o czym tutaj teraz mówimy.
+[1950.28 - 1954.04] SPEAKER_02: Jest świetna książka, może niektórzy z Państwa już są po lekturze,
+[1954.04 - 1959.00] SPEAKER_02: Wojna o czipy, książka, która być może opowiada o tym, co za chwilę przed nami,
+[1959.00 - 1964.28] SPEAKER_02: ale jestem ciekaw, co Pan myśli o jednym konkretnym ruchu, właściwie biznesowym,
+[1964.28 - 1970.48] SPEAKER_02: korporacyjnym ruchu, on się chyba jeszcze zaczął, czy został zapowiedziany przez administrację Joe Bidena,
+[1970.48 - 1975.68] SPEAKER_02: ale wydarzył się teraz za Donalda Trumpa, myślę o przeniesieniu tej fabryki TCMC chyba,
+[1975.68 - 1983.20] SPEAKER_02: tak się nazywa ten tajwański producent czipów, który się przenosi z niektórymi fabrykami z Tajwanu do Stanów.
+[1980.00 - 1993.00] SPEAKER_05: z niektórymi fabrykami z Tajwanu do Stanów Zjednoczonych. Jeżeli Amerykanie mieli jakieś preteksty, żeby bronić Tajwanu, być może za wszelką cenę, to były te czipy, które tam były produkowane, ważne także dla Amerykanów.
+[1993.00 - 2001.00] SPEAKER_05: Pytanie, czy teraz kiedy to jest przenoszone z Tajwanu do Stanów Zjednoczonych, to te argumenty Amerykanie tracą, czy bardzo się mylę?
+[2002.00 - 2011.00] SPEAKER_03: To jest też bardzo złożony temat, dlatego że tak ostatecznie nie przenoszą za bardzo Ci Tajwańczycy tych fabryk z bardzo wielu powodów.
+[2011.00 - 2020.00] SPEAKER_03: Jednym z tych powodów jest, mówiąc zupełnie brutalnie, niska kultura techniczna w Stanach Zjednoczonych wskutek deindustrializacji.
+[2020.00 - 2037.00] SPEAKER_03: Co innego jest mieć w Dolinie Krzemowej geniuszy, co innego jest mieć milion spośród 350 czy 340 milionów wybitnych osób o świetnym wykształceniu, wysokiej inteligencji, bardzo rezolutnych i przedsiębiorczych,
+[2037.00 - 2056.00] SPEAKER_04: a do tego 60% społeczeństwa na poziomie intelektualnym szóstej klasy podstawówki, bo tak jest teraz w Stanach Zjednoczonych i skutek tego, jak gdyby przyczyną tego jest kapitalizm finansowy i głęboka deindustrializacja,
+[2056.00 - 2074.00] SPEAKER_04: która zaczęła się na początku lat 70. Po prostu można było robić pieniądze nie pracując w przemyśle i nie zarabiając na przemyśle. Długi temat, nie będę rozwijał i przy produkcji półprzewodników jest potrzebna bardzo wysoka kultura techniczna,
+[2074.00 - 2096.00] SPEAKER_01: której braki czasami nawet momentami przejawia się w złej organizacji pracy, w kosztach dodatkowych i tak dalej. Wielokrotnie się skarżyli ci włodarze w tych fabrykach, że Amerykanie ich przymuszają, ale nie bardzo to będzie działać, więc jest to nierozstrzygnięta sprawa.
+[2096.00 - 2123.00] SPEAKER_03: Dotyczy to zresztą bardzo wielu technologii nowoczesnych w Stanach Zjednoczonych, bo co innego jest wymyślać, a co innego jest potem w materiale to zrobić i to na dużą skalę. Elon Musk wielokrotnie o tym mówił i to z czego kiedyś zachód był znany, czyli podejmowanie ryzyka przedsiębiorczego, podejmowanie ryzyka budownictwa określonego, budowy mostów, okrętów, statków, promów kosmicznych,
+[2123.00 - 2143.00] SPEAKER_02: prototypowanie szybkie. Wskutek różnego rodzaju zjawisk, w tym kapitalizmu finansowego w dużej mierze zostało wytracone i to jest poważny problem. Nie wiem jak to się konkretnie będzie przekładało na rozwój AI, to na pewno tutaj pozostali uczestnicy dużo bardziej kompetentnie ode mnie się wypowiedzą.
+[2143.00 - 2163.00] SPEAKER_01: Natomiast myślę, że jest to głęboki problem i skoro powiedzieliśmy o Unii Europejskiej, to dobrze by było, żeby Unia Europejska przez swoje słabne regulacje zadbała, żeby to się nie wydarzyło. Unia Europejska póki co jeszcze produkuje różne rzeczy, jest behemotem eksportowym, ma wysokiej jakości produkcję, bo tak wszyscy narzekamy na tę Unię,
+[2160.00 - 2170.00] SPEAKER_01: Wszyscy narzekamy na tą Unię, ale to jest absolutny behemot eksportowy świata ze względu na jakość produkcji w Europie,
+[2170.00 - 2175.00] SPEAKER_01: co daje nam model określonego funkcjonowania standardu życiowego,
+[2175.00 - 2179.00] SPEAKER_01: typu, że się we Francji i Niemczech za dużo nie pracuje, bo mamy wystarczającą marżę.
+[2179.00 - 2188.00] SPEAKER_01: Cała ta rewolucja AI, sztucznej inteligencji dobrze się wkomponowała, żeby Europa miała pomysł na to w tym zakresie.
+[2188.00 - 2195.00] SPEAKER_01: Ja się nie czuję wybitnie kompetentny, ale to czytam ten raport, tamten raport i Europa zostaje w tyle.
+[2195.00 - 2203.00] SPEAKER_04: Ale to musi też mieć wymiar fizycznego wykonywania tych rzeczy, o których tutaj Pan wspominał,
+[2203.00 - 2207.00] SPEAKER_04: że trzeba mieć te karty pamięci, trzeba mieć te wszystkie rzeczy.
+[2207.00 - 2214.00] SPEAKER_04: W dobie teraz rywalizacji geopolitycznej dobrze by było, żeby to było wykonywane na przykład na kontynencie europejskim fizycznie.
+[2214.00 - 2220.00] SPEAKER_02: Jaka jest szansa na powodzenie wizji pomysłów Trumpa? To jest trudne słowo reindustrializację,
+[2220.00 - 2223.00] SPEAKER_02: wolę mówić o renesansie przemysłu, bo się łatwiej wymawia.
+[2223.00 - 2228.00] SPEAKER_02: Jaka jest szansa, że on dopnie swego, że on przekona do tego, że te fabryki wrócą?
+[2228.00 - 2235.00] SPEAKER_04: No i tu jest oczywiście zagadnienie nie ma na to mądrych, bo ja się wypowiem oczywiście z własnego punktu widzenia,
+[2235.00 - 2242.00] SPEAKER_04: przy czym naprawdę nie ma mądrych, dlatego, że w historii świata nigdy jeszcze nie próbowano zrobić tego, co robi Trump w tej chwili.
+[2243.00 - 2246.00] SPEAKER_04: Nikt nie ćwiczył tego.
+[2246.00 - 2253.00] SPEAKER_05: Nie, absolutnie nie, dlatego, że Amerykanie byli na ścieżce wzrostowej, mieli kapitalizm przemysłowy.
+[2253.00 - 2259.00] SPEAKER_05: To jest absolutnie nieporównywalne, nikt nie rolował świata globalnej gospodarki w ten sposób,
+[2259.00 - 2264.00] SPEAKER_05: próbując zachować prymat dolarowy, czyli walutę rezerwowej, czyli zjeść ciastko i mieć ciastko,
+[2264.00 - 2266.00] SPEAKER_05: jednocześnie dokonać reindustrializacji.
+[2266.00 - 2268.00] SPEAKER_05: Więc ja wypowiem swoje zdanie, ono jest dosyć twarde.
+[2268.00 - 2277.00] SPEAKER_05: Uważam, że Amerykanie nie mają szans na reindustrializację, dzięki obietnicy której Trump wygrał wybory,
+[2277.00 - 2281.00] SPEAKER_04: czyli stalownie w Ohio, przemysł ciężki, chemia i tak dalej.
+[2281.00 - 2289.00] SPEAKER_04: Myślę, że mają szansę, jeżeli dokona się rewolucja kulturowa w Stanach i włodarze nowego przemysłu technologicznego,
+[2290.00 - 2292.00] SPEAKER_04: Anduril, Palantir, tego typu, SpaceX.
+[2292.00 - 2302.00] SPEAKER_04: Ci, którzy już mają inne podejście do tego, co jest prawdziwą gospodarką przemysłową,
+[2302.00 - 2307.00] SPEAKER_03: jeżeli oni utworzą nowe cykle technologiczne i Amerykanie będą mieli fabryki z robotami,
+[2307.00 - 2310.00] SPEAKER_03: ale już nie wszystkiego, tylko niektórych rzeczy.
+[2310.00 - 2314.00] SPEAKER_03: To w to wierzę, tylko to i będzie bardzo wąska ścieżka przez góry,
+[2314.00 - 2318.00] SPEAKER_03: bo to będzie wymagało bardzo wielu zręcznych ruchów strategicznych.
+[2318.00 - 2322.00] SPEAKER_03: Ja na razie nie widzę takiej zręczności w administracji amerykańskiej.
+[2322.00 - 2325.00] SPEAKER_03: Innymi słowy uważam, że Amerykanie przegrają rywalizację,
+[2325.00 - 2329.00] SPEAKER_03: tylko że przegrywając boję się, że mogą podpalić nam świat,
+[2329.00 - 2332.00] SPEAKER_03: tak jak zrobił Trump zresztą półtora tygodnia temu,
+[2332.00 - 2336.00] SPEAKER_03: ze skutkami również dla rozwoju sztucznej inteligencji i podziale świata
+[2336.00 - 2343.00] SPEAKER_03: co najmniej na chińską i około chińską, a może europejską i amerykańską.
+[2340.00 - 2351.00] SPEAKER_02: a może europejską i amerykańską. Natomiast absolutnie nie wierzę w przywrócenie reindustrializacji. Amerykanie produkują wszystko, robią i tak dalej.
+[2351.00 - 2357.00] SPEAKER_05: Dreszcz mnie przeszedł, nie wiem czy Państwo mają podobnie, kiedy słyszeliśmy przed momentem, że przy okazji może podpalić świat.
+[2357.00 - 2367.00] SPEAKER_05: A czy przegrana Donalda Trumpa i niezrealizowanie tej jego wizji to się równa i jest równoznaczne ze zwycięstwem Chin?
+[2367.00 - 2376.00] SPEAKER_03: Nie, raczej Chiny nie będą miały takiej pozycji jak Stany Zjednoczone. Dominacja amerykańska była zupełnie wyjątkowa po II wojnie światowej.
+[2376.00 - 2383.00] SPEAKER_03: Nie było innych silnych przeciwników i Amerykanie kontrolowali przepływy strategiczne. To jest niepowtarzalna sytuacja.
+[2383.00 - 2389.00] SPEAKER_03: Chiny mają Rosję silną, mają Japonię, mają Koreę Południową, mają Indię i Stany Zjednoczone, Zachodnie Półkuli.
+[2389.00 - 2395.00] SPEAKER_04: Tego się nie da, będzie raczej zrównoważony system. Trudno powiedzieć co to będzie oznaczało dla rozwoju technologicznego.
+[2395.00 - 2405.00] SPEAKER_04: Bardziej by mi zależało, żeby Amerykanie zeszli z tego, kiedy stały bez wojny.
+[2405.00 - 2408.00] SPEAKER_05: To nie jest pewne, że zejdą bez wojny.
+[2408.00 - 2415.00] UNKNOWN: Raczej to jak się zachowują świadczy o tym, że czekają nas potężne turbulencje.
+[2415.00 - 2422.00] UNKNOWN: Ja uważam, że mogliby bardziej rozsądnie do tego podejść.
+[2422.00 - 2430.00] SPEAKER_02: Ale nie ukrywam, że to jest pogląd, który nie jest powszechnie podzielany. Mój ten pogląd przedstawiony nie jest powszechnie podzielany, w tym w naszej drogiej ojczyźnie.
+[2430.00 - 2436.00] SPEAKER_03: Każdy, jak to mówił Piłsudski, każdy ma swoją rację, jak co innego.
+[2436.00 - 2442.00] UNKNOWN: To będzie trudne. Nie chciałbym tutaj zabierać dużo czasu.
+[2442.00 - 2449.00] SPEAKER_01: Przede wszystkim trudność polega na alokacji kapitału i pochodzeniu tego kapitału.
+[2449.00 - 2461.00] SPEAKER_02: Jeżeli chce się zrobić reindustrializacji, to trzeba niestety zarządzać kapitałem i mówić mu ile ma czekać na stopę zwrotu i jaką ma dostać.
+[2461.00 - 2463.00] SPEAKER_02: I w ogóle to nie jest pewne.
+[2463.00 - 2472.00] SPEAKER_02: W świecie anglosaskim, prawnie, obyczajowo, filozoficznie kapitał nie jest do tego przyzwyczajony, że mu się będzie mówić.
+[2472.00 - 2478.00] SPEAKER_01: A jednocześnie amerykański sukces Doliny Krzemowej wynikał z recyklingu dolarowego.
+[2478.00 - 2484.00] SPEAKER_01: To znaczy, że był bardzo tani kapitał na przepalanie, bo wszystko to, co my zarobiliśmy w Eurazy,
+[2484.00 - 2491.00] SPEAKER_01: z powodu układu bezpieczeństwa oraz wolności przepływów strategicznych, żeby kupić ropę itd.
+[2491.00 - 2497.00] SPEAKER_02: musieliśmy kupować obligacje amerykańskie albo inne aktywa, a zatem wprowadzaliśmy dolara z powrotem do systemu amerykańskiego.
+[2497.00 - 2503.00] SPEAKER_02: Amerykanie mieli łatwy kapitał, w związku z tym mogli przepalać Dolinę Krzemową i zawsze coś wyjdzie.
+[2503.00 - 2509.00] SPEAKER_02: Jeżeli amerykanie będą dalej tak przegrywali wojnę handlową, jak w zeszłym tygodniu, to nie będą mieli tego taniego kapitału.
+[2509.00 - 2513.00] SPEAKER_02: I raptem ten cały dom skart runie, bo mają wielki dług.
+[2513.00 - 2518.00] SPEAKER_02: I jeżeli będą się bronić przed bankructwem za wszelką cenę, to podpalą.
+[2518.00 - 2522.00] SPEAKER_02: I to jest wielkie niebezpieczeństwo.
+[2520.00 - 2522.00] SPEAKER_02: I to jest wielkie niebezpieczeństwo.
+[2522.00 - 2529.00] SPEAKER_05: Pociszające jest to już naprawdę kończąc, że w toku takich wielkich wojen systemowych, takich rywalizacji jest wielkie przyspieszenie rozwoju technologicznego.
+[2529.00 - 2537.00] SPEAKER_05: Dlatego właśnie, żeby mieć przewagę nad innymi, jest przyspieszenie znaczne rozwoju technologicznego i jest tak zawsze w historii świata.
+[2537.00 - 2544.00] SPEAKER_05: Czyli pokój raczej uspokaja, a rywalizacja geopolityczna znacząco przyspiesza przełomowe technologie.
+[2544.00 - 2549.00] SPEAKER_05: Tak, to prawda. Taka jest smutna historia cywilizacji Homo Sapiens.
+[2549.00 - 2556.00] SPEAKER_05: Dżentelmen, który siedzi w samym środku tej sceny, Alek Tarkowski, mam wrażenie, nie wiem czy Państwo podzielają mój pogląd,
+[2556.00 - 2561.00] SPEAKER_05: w którymś momencie zdradzał takie sygnały, jakby go korciła, żeby to skomentować. Może się mylę.
+[2561.00 - 2564.00] SPEAKER_04: Był jakiś taki moment, ale on już...
+[2564.00 - 2565.00] SPEAKER_04: Uciekł.
+[2565.00 - 2571.00] SPEAKER_04: Zagapiłem się w ogórzka, ale może co innego powiem. A propos Dual Use, bo to mi się wydaje strasznie ciekawa kategoria,
+[2571.00 - 2577.00] SPEAKER_04: na którą można patrzeć z perspektywy, na której Pan się zna, takiej militarnej.
+[2577.00 - 2582.00] SPEAKER_03: Ja o niej myślę z perspektywy społecznej, bo to jest wielkie wyzwanie, co to znaczy być w społeczeństwie,
+[2582.00 - 2585.00] SPEAKER_03: w społeczeństwie bym tak powiedział, Dual Use.
+[2585.00 - 2590.00] SPEAKER_03: To się jakoś tak zakrada do nas bardzo powoli i ciekawe jest to, mam wrażenie, jest przyjmowane,
+[2590.00 - 2593.00] SPEAKER_03: nie chcę powiedzieć bezkrytycznie, ale dużej debaty społecznej nie ma.
+[2593.00 - 2599.00] SPEAKER_03: Gdy w Stanach jakieś chyba pięć lat temu pojawił się temat Dual Use sztucznej inteligencji,
+[2599.00 - 2603.00] SPEAKER_02: był to taki temat, że Google podpisał duży kontrakt na system MAVEN,
+[2603.00 - 2608.00] SPEAKER_02: który był takim systemem inteligencji właśnie wojskowej.
+[2608.00 - 2611.00] SPEAKER_02: No to przede wszystkim pracownicy się zbuntowali.
+[2611.00 - 2617.00] SPEAKER_02: To był właśnie pierwszy taki przykład buntu IT, którzy mówili nie naszymi rękami, to nie będzie powstawać.
+[2617.00 - 2621.00] SPEAKER_01: U nas w którymś momencie wokół tych różnych zamieszań, nie wiem czy Państwo śledzą,
+[2621.00 - 2625.00] SPEAKER_01: wokół Instytutu Badawczego IDEAS, wokół NCBR-u pojawił się nagle wątek,
+[2625.00 - 2628.00] SPEAKER_01: że te działania będą też finansowane przez MON, że się prawi Dual Use.
+[2628.00 - 2634.00] SPEAKER_01: I moim zdaniem wszyscy mówią OK, być może mówimy OK, bo jesteśmy w miejscu w jakim jesteśmy.
+[2634.00 - 2637.00] SPEAKER_01: Chciałem jeszcze powiedzieć, że wczoraj byłem na dosyć przejmującym spotkaniu
+[2637.00 - 2642.00] SPEAKER_01: z Centrum Sztuki Współczesnej, z ukraińskim artystą, który początkowo był rzeźbiarzem,
+[2642.00 - 2647.00] SPEAKER_01: potem się przekwalifikował na artystę Nowych Mediów, założył prywatną szkołę sztuki Nowych Mediów,
+[2647.00 - 2653.00] SPEAKER_01: która podobno jest w ogóle instytucją w Kijowie, bo państwowe uczelnie umownie nie potrafią uczyć Photoshopa,
+[2654.00 - 2659.00] SPEAKER_01: ale nadeszła wojna i jak to mu powiedział bardzo skrótowo, bo nie może za dużo mówić,
+[2659.00 - 2664.00] SPEAKER_01: został inżynierem dronowym i tak zwanym piratem, czyli cywilem pracującym na froncie.
+[2664.00 - 2667.00] SPEAKER_01: I to było przejmujące z nim rozmawiać, bo to jest człowiek Dual Use,
+[2667.00 - 2671.00] SPEAKER_01: to jest człowiek, który ma skillsy takie jak Państwo.
+[2671.00 - 2675.00] SPEAKER_01: On tam puszczał też filmy, jak komponuje na przykład muzykę elektroniczną,
+[2675.00 - 2679.00] SPEAKER_01: używając różnego rodzaju sprzętu, którym nic nie mówiła pewnie połowa z Państwa
+[2679.00 - 2685.00] SPEAKER_01: by to popodłączała tak jak Pan generator i nagle ciach w sytuacji wojny wszystko się przesuwa.
+[2685.00 - 2690.00] SPEAKER_01: I to jest to, to przyspieszenie, tylko wydaje mi się, co jest ważne dla nas w Polsce,
+[2690.00 - 2696.00] SPEAKER_01: gdzie dzięki Bogu wiem, że mamy już wojnę hybrydową, ale na szczęście kinetycznej nie mamy,
+[2696.00 - 2702.00] SPEAKER_01: jak nie czekać na ten moment i jak wymyślać taki Dual Use, który dla mnie jest na przykład ważny,
+[2702.00 - 2703.00] SPEAKER_01: zachowuje też wartości demokracji.
+[2700.00 - 2710.00] SPEAKER_05: który dla mnie jest na przykład ważny, zachowuje też wartości demokratyczne, bo ten artysta wyraźnie mówił, że tam gdzieś już jego dusza naprawdę trafia na trudne momenty.
+[2710.00 - 2715.00] SPEAKER_05: Jak my mamy tą naszą demokratyczną duszę obronić? To mi się wydaje fundamentalne wyzwanie.
+[2715.00 - 2731.00] SPEAKER_01: To jest bardzo ciekawe co powiedziałeś, bo AI będzie absolutnie wprowadzało robotykę na pole walki, co będzie generowało wielką ulgę dla społeczeństwa,
+[2731.00 - 2740.00] SPEAKER_01: bo nie będzie masowych armii z milionami trupów, przynajmniej do pewnego momentu, dopóki nie zostanie użyte to w sposób inny niż tradycyjny.
+[2740.00 - 2748.00] SPEAKER_01: Natomiast będzie wywoływało głębokie dylematy moralne, prawne i tego rodzaju rzeczy.
+[2748.00 - 2761.00] SPEAKER_01: Wchodzimy w ogóle w fuzję cywilno-wojskową. Stare systemy wojskowe nie działają i raczej systemy, które są zarówno cywilne jak i wojskowe będą dawały odpowiedź.
+[2761.00 - 2769.00] SPEAKER_01: I AI jest tutaj łącznikiem, jest kluczem do tego wszystkiego, tak jak ja rozumiem na swój zupełnie nie inżynierski sposób.
+[2769.00 - 2781.00] SPEAKER_01: Także ja uważam, że powinny być wszystkie ręce na pokład w Polsce, również w tej modernizacji wojskowej, żebyśmy właśnie na to Big Data Analysis połączony z robotyką,
+[2782.00 - 2791.00] SPEAKER_01: żeby w tą stronę pójść zamiast kupować te gąsienice, czołgi, pancerze, jakieś absurdy zupełnie, tylko pójść w tą stronę.
+[2791.00 - 2798.00] SPEAKER_01: To jest naprawdę wielkie wyzwanie i wygrać też przyszłość, bo zbudować łańcuch wartości, o których tutaj mówiliście Państwu.
+[2798.00 - 2807.00] SPEAKER_01: To jest wielka szansa, zwłaszcza, że wydajemy tak dużo pieniędzy na to wojsko, do zbrojenia i dobrze byłoby nie przypalić tego na niepotrzebne rzeczy.
+[2807.00 - 2815.00] SPEAKER_02: Maćku, mam wrażenie, że chciałeś coś dodać, bo być może jest tak, że Maciej Kawecki, który eksploruje różne laboratoria, nie tylko za granicą,
+[2815.00 - 2820.00] SPEAKER_02: ale być może przede wszystkim w Polsce, on to gdzieś dostrzegł, to zastosowanie Dual Use.
+[2820.00 - 2829.00] SPEAKER_04: Nie o tym chciałem powiedzieć. Chciałem powiedzieć, że nie jestem, siedzę tak cicho, bo nie jestem geopolitykiem i nie mam zbyt wiele mądrego do powiedzenia na tematy geopolityczne.
+[2829.00 - 2839.00] SPEAKER_04: Natomiast mogę z całą odpowiedzialnością powiedzieć to, co obserwuję, że Stany Zjednoczone są nieprawdopodobną potęgą intelektualną.
+[2839.00 - 2847.00] SPEAKER_03: Stolicą sztucznej inteligencji obok Chin jest Dolina Krzemowa i są Stany Zjednoczone.
+[2847.00 - 2861.00] SPEAKER_03: Laboratoria czołowych uczelni amerykańskich są cały czas potęgami, których PKB, czy wpływ na PKB może być porównywalny do PKB niektórych z państw członkowskich Unii Europejskiej.
+[2861.00 - 2873.00] SPEAKER_03: Ale też chciałem powiedzieć o tym, bo o tym tutaj trochę nie rozmawiamy, rozmawiamy o geopolityce, żeby ją uprawiać i żeby ona istniała i żeby to wszystko miało sens,
+[2873.00 - 2883.00] SPEAKER_03: to oczywiście może zrzucę tutaj taki Patrycji już wysokopoziomowy aspekt, bardzo mi bliski, ale żeby ta geopolityka miała miejsce.
+[2880.00 - 2884.60] SPEAKER_03: najbliski, ale żeby ta geopolityka miała miejsce, to musi istnieć człowiek.
+[2884.60 - 2891.70] SPEAKER_05: Ja mam bardzo głęboką refleksję wynikającą z tego, że sztuczna inteligencja
+[2891.70 - 2897.80] SPEAKER_05: wyprze gatunek ludzki. Ja jestem głęboko przekonany i wszystkie rozmowy z
+[2897.80 - 2901.70] SPEAKER_05: największymi umysłami do tego wniosku mnie doprowadzają, że dochodzimy gdzieś
+[2901.70 - 2906.90] SPEAKER_05: do jakiegoś etapu kresu ewolucji ludzkiego gatunku jako takiego, że nie
+[2906.90 - 2911.70] SPEAKER_05: istnieje coś takiego jak czerwony przycisk, którego naciśnięcie, bo to byłby
+[2911.70 - 2916.10] SPEAKER_05: system totalitarny, spowoduje, że my nagle zatrzymamy rozwój AI albo, że
+[2916.10 - 2920.30] SPEAKER_05: wydarzy się coś, co spowoduje, że rozwój AI się zatrzyma. Uważam, że to jest
+[2920.30 - 2923.70] SPEAKER_05: iluzja. Jeżeli on będzie podążał, rozwijał się liniowo, tak jak się to
+[2923.70 - 2929.00] UNKNOWN: dzieje dzisiaj, a już nawet się liniowo nie rozwija. Wykładniczo już, tak.
+[2929.00 - 2935.20] UNKNOWN: To ona nas zastąpi i to trzeba mówić w sposób bardzo świadomy, bardzo
+[2935.20 - 2940.30] SPEAKER_05: zważny. Wyprze podejmowanie decyzji w elementach kluczowych. Dzisiaj się to
+[2940.30 - 2944.00] SPEAKER_05: dzieje, dlatego, bo taki minister albo prezydent przed podjęciem decyzji
+[2944.00 - 2949.10] SPEAKER_05: korzysta z czata i robi to w sposób nieoficjalny, ale to robią. Za chwilę
+[2949.10 - 2952.70] SPEAKER_05: będzie się to podejmowało. Będą te decyzje podejmowane w ten sposób, w
+[2952.70 - 2959.90] UNKNOWN: sposób fundamentalny i oficjalny. Dochodzimy do momentu, w którym sztuczna
+[2959.90 - 2964.70] SPEAKER_05: inteligencja zaczyna przejmować cechę, która do tej pory była wyłącznie cechą
+[2964.70 - 2968.80] SPEAKER_05: gatunku ludzkiego i to jest rozumienie matematyki abstrakcyjnej. Co my innego
+[2968.80 - 2973.90] SPEAKER_05: jako ludzie potrafimy inaczej niż zwierzęta, nie opierając się na nauce.
+[2974.40 - 2978.20] SPEAKER_05: Tylko rozumienia matematyki abstrakcyjnej, bo obliczeniowo, to jak damy kotu
+[2978.20 - 2981.40] SPEAKER_05: dwie miski, to on wie, że dwie miski to jest więcej niż jedna miska. Ale
+[2981.40 - 2985.90] SPEAKER_05: matematyka abstrakcyjna, wyprowadzenie istnienia czarnych dziur bez ich
+[2985.90 - 2990.10] SPEAKER_05: obserwacji w latach 60. przez Penrose'a była możliwe tylko dzięki temu, że
+[2990.10 - 2993.00] SPEAKER_05: zobaczył to w swoim mózgu w matematyce abstrakcyjnej.
+[2993.00 - 2996.40] SPEAKER_04: A wydawało się, że ostatnią dziedziną działalności cywilizacji homo
+[2996.40 - 2999.80] SPEAKER_04: samiens, która upadnie, to będzie sztuka i kultura, prawda? Czyli twórcze
+[2999.80 - 3003.00] SPEAKER_04: działanie. A od tego się zaczęło. Od tego się zaczęło. To pierwsze upadło.
+[3003.00 - 3007.00] SPEAKER_05: Ja dwa dni temu w Łodzi spotkałem się z Agnieszką Piłat, polsko-amerykańską
+[3007.00 - 3011.80] SPEAKER_05: artystką, która w Boston Dynamics ma rezydenturę i tam trenuje spoty, te
+[3011.80 - 3020.40] SPEAKER_05: słynne roboty, takie pieski, malować. I zadałem jej pytanie o to, jak, w jaki
+[3020.40 - 3026.70] SPEAKER_05: sposób sobie radzą od punktu widzenia kreatywności. I rozmawialiśmy o tym,
+[3026.70 - 3030.30] SPEAKER_05: czy nawet ten obszar nie jest pomału odbierany człowiekowi. I ona uważa,
+[3030.30 - 3034.90] SPEAKER_05: że jest odbierany człowiekowi, że jedyne, co zostaje człowiekowi w rozumieniu
+[3034.90 - 3039.90] SPEAKER_05: sztuki, to jest idea. Odpowiedziała mi pytanie, że to jest idea, że tylko,
+[3039.90 - 3044.10] SPEAKER_05: że idea ma człowiek. Ale czym jest idea? Co to znaczy idea?
+[3045.10 - 3050.90] SPEAKER_03: Ja tylko, jeśli mogę i prawdopodobnie szybko dojdziemy do wniosku, że musimy
+[3050.90 - 3056.50] SPEAKER_03: się pięknie nie zgadzać. Znaczy, ja mam dużą potrzebę sygnalizowania, że jest to
+[3056.50 - 3061.50] SPEAKER_03: tylko jeden z scenariuszy. Nie wiem czemu, to musi być gra o sumie zerowej, tak?
+[3061.50 - 3063.00] SPEAKER_03: Znaczy, to.
+[3060.00 - 3065.16] SPEAKER_03: grę o sumie zerowej. To znaczy to, że mamy samochody nie spowodowało, że ludzie
+[3065.16 - 3069.20] SPEAKER_03: przestali biegać maratony, że znajdują w tym przyjemność, że konkurują i że
+[3069.20 - 3070.40] SPEAKER_03: robi się wielki biznes.
+[3070.40 - 3071.84] SPEAKER_04: Samochód nie jest rzeczywistością.
+[3071.84 - 3075.60] SPEAKER_04: Zdaję sobie sprawę, ale sztuczna inteligencja, mógłbym tak trochę na przekór
+[3075.60 - 3079.40] SPEAKER_04: powiedzieć, że tak, mamy wzrost wykładniczy po to, żebyśmy wszyscy mogli
+[3079.40 - 3084.60] SPEAKER_04: wyglądać jak postacie ze studia Ghibli dzisiaj, tak? Znaczy bo i wiem, że
+[3084.60 - 3089.00] SPEAKER_04: upraszczam i wiem, że trzeba szukać pod powierzchnią tych dogłębnych wpływ
+[3089.00 - 3093.00] SPEAKER_05: sztucznej inteligencji, tylko wydaje mi się w tej sytuacji bardzo ważne
+[3093.00 - 3097.40] SPEAKER_05: rysowanie innych scenariuszy. Jestem trochę zaniepokojony poziomem do
+[3097.40 - 3102.20] SPEAKER_05: jakiego i sposobem, w jakim rzeczywiście ci pracownicy, już o tym, tak jak
+[3102.20 - 3106.40] SPEAKER_05: mówiłem, największych laboratoriów przedstawiają pewne wizje, moim zdaniem
+[3106.40 - 3110.00] SPEAKER_03: w sposób nieodpowiedzialny albo nie zawsze unopowiedzialny.
+[3110.00 - 3110.40] SPEAKER_02: Ale co w tym jest nieodpowiedzialnego?
+[3110.40 - 3113.80] SPEAKER_03: No bo to jest często deklaracja wiary po prostu.
+[3113.80 - 3114.60] SPEAKER_03: No jakiej wiary?
+[3114.60 - 3117.80] SPEAKER_03: No na przykład to, że za dwa lata będziemy już na najlepszym kroku do tego,
+[3117.80 - 3121.60] SPEAKER_03: żeby sztuczna inteligencja przejęła masę funkcji ekonomicznych i nie będzie
+[3121.60 - 3122.80] SPEAKER_03: dla ludzi w ogóle pracy.
+[3122.80 - 3124.80] SPEAKER_03: Znaczy to się jeszcze nie wydarzyło.
+[3124.80 - 3127.80] SPEAKER_02: Ale nie wiem, czy się nie wydarzyło, dlatego, bo nie wiemy w jaki sposób
+[3127.80 - 3132.80] SPEAKER_02: podejmowane są kluczowe decyzje i jaki jest wpływ na te pojedyncze, konkretne
+[3132.80 - 3136.00] SPEAKER_02: decyzje mechanizmów sztucznej inteligencji.
+[3136.00 - 3140.80] SPEAKER_02: Mój reumatolog na przykład w trakcie spotkania ze mną powiedział, że on się
+[3140.80 - 3144.60] SPEAKER_02: wykorzystuje dwa dni temu, kiedy zacząłem z nim rozmawiać, mówię, że
+[3144.60 - 3148.00] SPEAKER_02: dokładnie to samo powiedział mi grok na Twitterze, co pan mówi.
+[3148.00 - 3153.20] SPEAKER_02: On mówi, no ale ja też korzystam i wspieram się w diagnostyce, dlatego, bo
+[3153.20 - 3161.00] SPEAKER_02: w dostępie do istniejących przy deep searchu różnych terapii jest dużo lepszy niż ja.
+[3161.00 - 3163.40] SPEAKER_02: No ale on tego nie powie oficjalnie na konferencji.
+[3163.40 - 3168.40] SPEAKER_02: Nie zobaczy tego pan w żadnym raporcie, w żadnych statystykach, ale te decyzje
+[3168.40 - 3173.20] SPEAKER_02: podskórnie są podejmowane dzisiaj w jakimś procencie z wykorzystaniem
+[3173.40 - 3177.40] SPEAKER_02: narzędzi. Wszystkie, jeżeli spojrzymy sobie przy mocy obliczeniowej,
+[3177.40 - 3182.20] SPEAKER_02: proporcjonalnie, a powiem jeszcze inaczej, ilość nowych technologii, nad którymi
+[3182.20 - 3190.20] SPEAKER_02: pracujemy, tak na przykład wykorzystywanie organoidów mózgowych jako
+[3190.20 - 3194.80] SPEAKER_02: alternatywy dla mocy obliczeniowej, co z wielkim sukcesem tworzy dzisiaj firma
+[3194.80 - 3199.80] SPEAKER_02: Final Spark w Szwajcarii. Jak odwiedzałem ich parę dni temu i zadałem
+[3199.80 - 3204.80] SPEAKER_02: pytanie jak wzrasta ilość ich klientów, to wzrasta każdego roku około
+[3204.80 - 3213.80] UNKNOWN: 220 a 260 procent. Rozwój nauka dzisiaj podąża, rozwija się w sposób tak
+[3213.80 - 3218.60] SPEAKER_01: nieprawdopodobnie szybki, nieprzewidywalny, niezdolny do tego, żeby
+[3218.60 - 3223.60] SPEAKER_01: budować jakiekolwiek trafne przewidywania, że mówienie o tym, że są
+[3223.60 - 3228.20] SPEAKER_01: jakiekolwiek inne scenariusze ma sens oczywiście pod warunkiem, że
+[3228.20 - 3232.20] SPEAKER_01: zaznaczymy, że one są dużo mniej prawdopodobne, bo to wszystko, co
+[3232.20 - 3236.20] SPEAKER_01: obserwujemy, sprowadza nas do tego jednego konkretnego scenariusza.
+[3236.20 - 3241.20] UNKNOWN: Ale ten przykład, jeśli mogę, bo naprawdę myślę, że mamy tu inne
+[3241.20 - 3243.20] SPEAKER_05: spojrzenie. Przykład reumatologa jest bardzo dobry.
+[3240.00 - 3243.20] SPEAKER_05: Już mamy tu inne spojrzenie. Przykład reumatologa jest bardzo dobry.
+[3243.20 - 3250.40] SPEAKER_03: Dzisiaj ta sztuczna inteligencja, której on używa, wie tyle, ile suma wiedzy innych reumatologów
+[3250.40 - 3254.40] SPEAKER_03: dostępna w publicznym internecie i być może w jakichś prywatnych bazach danych.
+[3254.40 - 3258.20] SPEAKER_03: Wiąże się to z tym, o czym powiedziałeś, rzeczywiście z ograniczeniami...
+[3258.20 - 3262.60] SPEAKER_04: Nie do końca, ponieważ te najnowsze modele mają już coś, co nazywamy takie decision tree,
+[3262.60 - 3265.20] SPEAKER_04: mają już monolog wewnętrzny.
+[3265.40 - 3267.00] SPEAKER_03: Tam jest jakaś formuła rewizyjna.
+[3267.00 - 3273.20] SPEAKER_03: Jednak na bazach wiedzy umownie najlepszym źródłem dla sztucznej inteligencji
+[3273.20 - 3277.00] SPEAKER_03: nie jest obserwowanie wszechświata, bo nie ma ku temu narzędzi,
+[3277.00 - 3281.40] SPEAKER_03: tylko jest zastanie wiedzy z Wikipedii i z otwartego publicznego internetu.
+[3281.40 - 3286.80] SPEAKER_03: Znaczy nie ma innych źródeł trenowania i zgadzam się, że się pojawiają,
+[3286.80 - 3288.40] SPEAKER_03: są też bardzo duże dyskusje.
+[3288.40 - 3290.40] SPEAKER_03: Tak, to jest bardzo dobra kwestia.
+[3290.40 - 3292.40] SPEAKER_03: Pytanie, ile jest tego czasu?
+[3292.60 - 3295.40] SPEAKER_03: Ja też z zupełnie innej perspektywy patrząc.
+[3295.40 - 3299.20] SPEAKER_03: Dla mnie jest to jakiś przejaw cywilizacyjnego, nie wiem,
+[3299.20 - 3306.00] SPEAKER_03: takiego głębokiego, metafizycznego, nie wiem, jakiegoś masochizmu, defetyzmu.
+[3306.00 - 3309.40] SPEAKER_03: Dlaczego ci ludzie nie potrafią mieć pozytywnej wizji koegzystencji?
+[3309.40 - 3315.40] SPEAKER_03: Jest ona równie możliwa i mogłaby napędzać ich w szacunku.
+[3315.40 - 3316.40] SPEAKER_01: Może, tak.
+[3316.40 - 3318.00] SPEAKER_01: Tego nie wiemy i nie rozstrzygniemy.
+[3318.00 - 3321.40] SPEAKER_01: Rzeczywiście profesor Stephen Hawking mówił kiedyś w odpowiedzi na pytanie
+[3321.40 - 3323.40] SPEAKER_01: jakiegoś dziennikarza na konferencji prasowej,
+[3323.40 - 3326.00] SPEAKER_01: kiedy ten go zapytał, jaka sztuczna inteligencja, jakie obawy?
+[3326.00 - 3328.00] SPEAKER_01: Przecież wystarczy wyjąć wtyczkę.
+[3328.00 - 3330.00] SPEAKER_01: A Hawking miał wtedy powiedzieć, że ona będzie wiedziała,
+[3330.00 - 3333.00] SPEAKER_01: że pan chce wyjąć wtyczkę, zanim pan o tym pomyśli,
+[3333.00 - 3336.00] SPEAKER_01: że chce pan to zrobić i ona to w jakiś sposób uprzedzi, prawda?
+[3336.00 - 3338.00] SPEAKER_01: Więc rzeczywiście ten czerwony guzik to chyba niekoniecznie.
+[3338.00 - 3342.00] SPEAKER_01: A są i takie wizje, jak ta, którą profesor Dragan opowiada, przedstawia,
+[3342.00 - 3344.40] SPEAKER_01: że to nie jest tak, że my mamy coś przeciwko mrówkom,
+[3344.40 - 3346.40] SPEAKER_01: kiedy budujemy autostradę.
+[3346.40 - 3350.00] SPEAKER_01: No nie, nie jest tak, że budujemy autostradę po to, żeby zniszczyć mrowisko.
+[3350.00 - 3356.00] SPEAKER_01: Ale jeżeli jest akurat mrowisko na trasie planowanej przez człowieka autostrady,
+[3356.00 - 3357.00] SPEAKER_01: to ono zniknie.
+[3357.00 - 3358.00] SPEAKER_01: I może być podobnie.
+[3358.00 - 3362.00] SPEAKER_01: To nie jest tak, że my będziemy na celu sztucznej inteligencji,
+[3362.00 - 3366.00] SPEAKER_01: tylko, że przy okazji być może nie będziemy aż tak istotnie potrzebni.
+[3366.00 - 3368.00] SPEAKER_05: Bo mrówki potrafią przenieść swoje mrowisko,
+[3368.00 - 3371.00] SPEAKER_05: to tak bym uzupełniła tę wypowiedź Dragana.
+[3371.00 - 3373.00] SPEAKER_05: Tak, to prawda.
+[3373.00 - 3375.00] SPEAKER_01: No dobrze, Joanna, to skoro jesteś przy głosie,
+[3375.00 - 3377.00] SPEAKER_01: bo miałem taki plan, żeby cię zapytać,
+[3377.00 - 3380.00] SPEAKER_01: czy my jako Europejczycy, czy my jako Europa,
+[3380.00 - 3383.00] SPEAKER_01: organizm, no pytanie jak bardzo spójny,
+[3383.00 - 3385.00] SPEAKER_01: to być może jest fundamentalne pytanie,
+[3385.00 - 3387.00] SPEAKER_01: ale załóżmy, że w jakimś zakresie spójny.
+[3387.00 - 3390.00] SPEAKER_01: Przecież organizm, w którym żyje więcej Europa,
+[3390.00 - 3392.00] SPEAKER_01: w której żyje więcej ludzi niż w Stanach Zjednoczonych.
+[3392.00 - 3395.00] SPEAKER_01: Czy my możemy jakoś wcisnąć nogę w drzwi
+[3395.00 - 3397.00] SPEAKER_01: pomiędzy Stany Zjednoczone a Chiny?
+[3397.00 - 3400.00] SPEAKER_01: I czy my możemy istotnie odegrać jakąś tutaj ważną rolę
+[3400.00 - 3403.00] SPEAKER_01: w rozwoju najnowocześniejszych technologii?
+[3403.00 - 3405.00] SPEAKER_01: Czy my tutaj mamy szansę?
+[3405.00 - 3408.00] SPEAKER_01: Z tej sceny już padło dzisiaj kilka dobrych rzeczy o Europie
+[3408.00 - 3410.00] SPEAKER_01: i bardzo za to dziękuję.
+[3410.00 - 3412.00] SPEAKER_01: Słyszeliśmy, dlaczego nie jesteśmy tak bardzo z tyłu.
+[3412.00 - 3415.00] SPEAKER_01: W niektórych dziedzinach, przy okazji np. fabryk,
+[3415.00 - 3418.00] SPEAKER_01: industrializacji. Czy my mamy szansę jako Unia Europejska
+[3418.00 - 3421.00] SPEAKER_01: w najnowszych technologiach, szczególnie przy sztucznej inteligencji?
+[3421.00 - 3423.00] SPEAKER_01: Czy nie? Czy to już jest stracona?
+[3420.00 - 3427.00] SPEAKER_05: sztucznej inteligencji, czy nie? Czy to już jest stracona okazja i Stany Zjednoczone odjechały, i Chiny?
+[3427.00 - 3433.00] SPEAKER_03: Nie, tak jak wcześniej rozmawialiśmy, sztuczna inteligencja jest nową technologią i wszystko jest możliwe.
+[3433.00 - 3444.00] SPEAKER_01: Pytanie jak tam w Brukseli. Decydenci teraz z różnych państw będą potrafili się porozumieć i trzeba wziąć pod uwagę, że są różne ich też interesy.
+[3444.00 - 3452.00] SPEAKER_04: Więc czy będzie nam po drodze wspólnie, to trudno powiedzieć. Fajnie by było, żebyśmy rzeczywiście stanowili taką siłę,
+[3452.00 - 3459.00] SPEAKER_02: ale też żebyśmy my jako Polska nie stanowili tutaj znowu rynku zbytu, tylko potrafili uczestniczyć w tych projektach.
+[3459.00 - 3465.00] SPEAKER_05: A na razie dużo jest ogłaszanych projektów, na przykład odpowiedź na maska Starlinka.
+[3465.00 - 3472.00] SPEAKER_05: Pojawiała się taka inicjatywa tutaj ze strony Unii Europejskiej, żeby też taki system przygotować.
+[3472.00 - 3477.00] SPEAKER_04: Tak, tylko że tam są zaangażowane takie kraje jak Luksemburg, Hiszpania i Francja.
+[3477.00 - 3484.00] SPEAKER_04: My w Polsce mamy fajne firmy, które potrafią już zbudować satelitę i wynieść go w kosmos,
+[3484.00 - 3492.00] SPEAKER_04: jak i też jesteśmy jednymi z najlepszych w analizie danych tych, które przesyła satelita tu na Ziemię.
+[3492.00 - 3497.00] SPEAKER_03: Więc moglibyśmy o to zawalczyć, tylko jak się okazuje i z naszych tam informacji,
+[3497.00 - 3504.00] SPEAKER_03: a mamy rzeczywiście ekspertów rozproszonych we wszystkich strukturach na całym świecie, tak akurat nam wyszło,
+[3504.00 - 3508.00] SPEAKER_02: że tam Polska w ogóle nie zabiera głosu. Tak naprawdę nie walczymy o to.
+[3508.00 - 3514.00] SPEAKER_02: Więc jeżeli nie walczymy, to trudno, żeby oni nas tam sami zapraszali, więc my stajemy się tylko podwykonawcą.
+[3514.00 - 3519.00] SPEAKER_02: Więc rzeczywiście warto jest, żeby ten głos tam wybrzmiał i stąd znowu powrócę do tego,
+[3519.00 - 3527.00] SPEAKER_02: żeby świat nauki mógł być usieciowienny i tutaj, żeby mógł razem stanowić jedność.
+[3527.00 - 3533.00] SPEAKER_02: Wtedy będzie to godna reprezentacja i rzeczywiście będziemy mogli się starać o dotacje unijne w tych programach największych,
+[3533.00 - 3537.00] SPEAKER_02: a teraz rzadko nam się to zdarza, a nawet jak wystartujemy, to rzadko dostajemy.
+[3538.00 - 3544.00] SPEAKER_02: Więc żeby móc tutaj to swoje miejsce zaznaczyć.
+[3544.00 - 3552.00] SPEAKER_02: No i czy Unia ma szansę? Ma szansę, ale jest tak obecnie podzielona i jest też walka sił i to jest ten układ, który się zmienia.
+[3552.00 - 3560.00] SPEAKER_02: I pytanie, czy Stany Zjednoczone będą walczyć o ten prymat swój, który miał treść światową i dadzą ten parasol tutaj nam ochronny,
+[3560.00 - 3567.00] SPEAKER_01: w sytuacji, kiedy Rosja jest, no cóż, coraz bardziej agresywna i też walczy o swoje, czy też będzie się wycofywała?
+[3567.00 - 3576.00] SPEAKER_01: I teraz pytanie, czy nas zostawi i w takim, no sytuacji, róbcie co tam chcecie, czy też my będziemy potrafili podjąć tą rękawicę
+[3576.00 - 3583.00] SPEAKER_03: i uważam, że jako kraj nie powinniśmy się oglądać na wszystkich, którzy nas mają tutaj wybawić,
+[3583.00 - 3591.00] SPEAKER_03: bo już tak było w sytuacji drugiej wojny światowej. No i jakoś nikt tam nie przyszedł nam na pomoc za bardzo, tylko patrzyli.
+[3591.00 - 3600.00] SPEAKER_03: Więc musimy mieć to z tyłu głowy, że może być powtórka z tej sytuacji. Musimy mieć możliwości tutaj zadziałania i też samostanowienia.
+[3600.00 - 3603.00] SPEAKER_02: I to jest chyba takie najważniejsze. Nie wiem na czym to polega.
+[3600.00 - 3602.00] SPEAKER_02: I to jest chyba takie najważniejsze.
+[3602.00 - 3608.00] SPEAKER_05: Nie wiem, na czym to polega, że cały czas patrzymy na innych i chcemy być poklepani po plecach,
+[3608.00 - 3613.00] SPEAKER_05: a nie potrafimy stać z tych kolan i powiedzieć, że tak, chcemy być tutaj kimś znaczącym
+[3613.00 - 3616.00] SPEAKER_05: i mamy ku temu potencjał, bo mamy.
+[3616.00 - 3619.00] SPEAKER_05: Polska tutaj w ostatnich latach bardzo dobrze się rozwijała,
+[3619.00 - 3622.00] SPEAKER_05: super przerosł PKB, super fajni ludzie, kompetencje.
+[3622.00 - 3625.00] SPEAKER_05: No i cóż, jeżeli nie ma środowiska, to zaczęli uciekać.
+[3625.00 - 3628.00] SPEAKER_03: Maczku, trzy słowa, widzę, że coś...
+[3628.00 - 3634.00] SPEAKER_03: Chciałem powiedzieć, że ja uważam, że wyścig taki, jeżeli chodzi o przełomy
+[3634.00 - 3637.00] SPEAKER_03: technologicznie związane z rozwojem sztucznej inteligencji,
+[3637.00 - 3641.00] SPEAKER_03: przegraliśmy, możemy się z tym pożegnać i nie ma sensu w ogóle,
+[3641.00 - 3645.00] SPEAKER_03: żebyśmy wydawali na to kasę, dlatego, bo nie prześcigniemy Stanów Zjednoczonych
+[3645.00 - 3649.00] SPEAKER_03: i możemy sobie tworzyć, to jest ekstra oczywiście, agentów, malutkich agencików
+[3649.00 - 3652.00] SPEAKER_03: i to jest bardzo dobrze, żeby to się działo w Europie,
+[3652.00 - 3656.00] SPEAKER_03: ale są technologie, co do których mamy szansę jeszcze być liderem
+[3656.00 - 3661.00] SPEAKER_03: i którego wyścigu nie przegraliśmy i to są technologie kwantowe,
+[3661.00 - 3666.00] SPEAKER_03: to jest nawet to, co robi firma IQM w Helsinkach,
+[3666.00 - 3670.00] SPEAKER_03: to, co robi Polskie Cyfrowe Wojsko w kontekście pułapkowania jonów wapnia,
+[3670.00 - 3677.00] SPEAKER_03: tworzenia cyfrowego komputera kwantowego z naprawdę sukcesami technologicznymi,
+[3677.00 - 3681.00] SPEAKER_03: to, co robi profesor Pareń jak w laboratoriach Uniwersytetu Warszawskiego,
+[3682.00 - 3686.00] SPEAKER_03: to, co robi profesor Wszoła z pułapkowaniem molekuł wodorów w UMK,
+[3686.00 - 3694.00] SPEAKER_03: to są innowacyjne, przełomowe technologicznie eksperymenty,
+[3694.00 - 3699.00] SPEAKER_03: niedofinansowywane dzisiaj, dlatego, bo budujemy iluzję tego,
+[3699.00 - 3703.00] SPEAKER_03: że Polska przez to, że ma Wojtka Zarembę, Kubę Pachockiego,
+[3703.00 - 3707.00] SPEAKER_03: Szymona Sidora, którzy przebywają 12 tysięcy kilometrów stąd,
+[3707.00 - 3711.00] SPEAKER_03: będzie potęgą sztucznej inteligencji. Otóż nie będzie potęgą sztucznej inteligencji.
+[3711.00 - 3715.00] SPEAKER_04: Ale nikt nie mówi, że potęgą, ale mamy potencjał, żeby w określonych niszach
+[3715.00 - 3717.00] SPEAKER_04: zaistnieć i być liderem.
+[3717.00 - 3720.00] SPEAKER_03: No to na przykład tą niszą fantastyczną jest dron, są drony.
+[3720.00 - 3723.00] SPEAKER_03: Dlaczego Polska nie stawia na nisze, możemy wykorzystywać tam wizję,
+[3723.00 - 3726.00] SPEAKER_03: możemy wykorzystywać tam sztuczną inteligencję.
+[3726.00 - 3730.00] SPEAKER_03: Dlaczego jeden z najfajniejszych, moim zdaniem, w Europie projektów droniarskich,
+[3730.00 - 3736.00] SPEAKER_03: jakim jest Prometeusz, autonomiczny dron zdolny do detekcji metanu,
+[3736.00 - 3740.00] SPEAKER_03: autonomiczny, prawie padł albo już padł?
+[3740.00 - 3742.00] SPEAKER_03: To jest bardzo dobre pytanie.
+[3742.00 - 3744.00] SPEAKER_01: Ja mogę powiedzieć dlaczego.
+[3744.00 - 3751.00] SPEAKER_01: Dlatego, że są dwa powody wzajemnie się uzupełniające i sprzęgnięte z sobą.
+[3751.00 - 3756.00] SPEAKER_01: Generalnie wyznaczono nam miejsce polityczno-społeczne jako podwykonawców
+[3756.00 - 3759.00] SPEAKER_01: w peryferyjnym systemie kapitalistycznym.
+[3759.00 - 3763.00] SPEAKER_01: I parametry zasilania kapitałowego, pracy kapitału u nas są takie,
+[3763.00 - 3766.00] SPEAKER_01: że u nas nie można osiągnąć pewnej skali.
+[3766.00 - 3768.00] SPEAKER_01: A zatem trudno finansować przedsięwzięcia.
+[3768.00 - 3771.00] SPEAKER_01: Jest wielka rywalizacja o kapitał, również państwowy,
+[3771.00 - 3775.00] SPEAKER_01: pomiędzy nawet ośrodkami naukowymi, co powoduje feudalizację nauki,
+[3775.00 - 3777.00] SPEAKER_01: feudalizację innowacji.
+[3777.00 - 3780.00] SPEAKER_01: Tak naprawdę antykulturę tego co jest z Silicon Valley.
+[3780.00 - 3783.00] SPEAKER_03: Do tego w przypadku kultury,
+[3780.00 - 3806.00] SPEAKER_03: Do tego w przypadku konkretnie dronów jest ogromne lobby zbrojeniowe, które chce żebyśmy kupowali czołgi, fregaty, stare rzeczy i żeby nie było żadnej rewolucji, technologii podwójnego zastosowania, których oni nie kontrolują łańcuchów wartości, nie trzeba specjalnych certyfikatów służb, które dzielą między siebie te frukta.
+[3806.00 - 3820.00] SPEAKER_03: Ludzie się boją powiedzieć o tym, że tak jest, my w Strategy and Future nie boimy się mówić. Tak to działa, w związku z tym duszone są wszystkie tego inicjatywy, które wychodzą poza system kontroli tego jak ma być rozłożony łańcuch wartości.
+[3820.00 - 3839.00] SPEAKER_03: Źródłem ma być technologia zachodnia ze Stanów albo z Europy Zachodniej i ludzie, kolonizatorzy, Polacy, którzy rozkładają to i kontrolują miejscową siłę roboczą i nie może być polskiej myśli technologicznej w tym zakresie, która by stworzyła cały łańcuch wartości technologicznej, bo jest to sprzeczne z ideą.
+[3840.00 - 3843.00] SPEAKER_03: Tu jest wina polityków, że nie potrafią sobie to stawić.
+[3843.00 - 3850.00] SPEAKER_04: Wzięcie nas w tą stronę to też powoduje, że w przypadku agresji Rosji jesteśmy osłabieni.
+[3851.00 - 3874.00] SPEAKER_03: To w ogóle generuje bardzo wiele rzeczy, jak brak realnej modernizacji wojska, brak wiary społeczeństwa, że potrafimy i tak dalej. Brak jakiegokolwiek poza bohaterskimi przykładami poszczególnych przedsiębiorców, którzy najczęściej muszą pięć razy więcej pracy włożyć i sześć razy lepiej liczyć pieniądze, żeby w ogóle wystąpić na rynku globalnym w jakikolwiek sposób.
+[3874.00 - 3888.00] SPEAKER_03: To mi się przekłada tak samo do nauki. Po prostu trzeba cudu, jakiegoś wielkiego wysiłku jednego człowieka, a później czytamy w książkach o wielkich Łukasiewiczach i innych wielkich Polakach.
+[3888.00 - 3908.00] SPEAKER_03: Nie jest to naturalne środowisko i jest to głównie wina polityków, że system jest tak skonstruowany i wielcy tego świata nie są zainteresowani odmianą tego systemu, bo my mamy określone miejsce w łańcuchu wartości. Programy kosmiczne czy technologie kosmiczne są tego bardzo dobrym przykładem.
+[3908.00 - 3932.00] SPEAKER_03: Nie chodzi o to, żeby polskie firmy kosmiczne, start-upy, New Space budowały cokolwiek na przykład bezpośrednio dla Amerykanów, tylko najlepiej, żeby kontrolowały to leśne dziadki powiązane z Europejską Agencją Kosmiczną. Po prostu jest dławiony samorozwój. Nie stworzone są warunki, żeby Polska Agencja Kosmiczna tworzyła rynek przez wydawanie pieniędzy na polskie start-upy.
+[3932.00 - 3935.00] SPEAKER_03: To jest dopiero masakra ta Polska Agencja Kosmiczna.
+[3962.00 - 3963.00] SPEAKER_03: Dziękuję.
+[3960.00 - 3971.56] SPEAKER_03: od transformacji Polski Wyszyńskiego, która wyszła z fabryk, musiała się nauczyć angielskiego i później wystąpić na globalnym rynku pracy, a nie państwa, które absolutnie nic nie pomogło w tym zagrożeniu.
+[3971.56 - 3976.16] SPEAKER_01: A polski mit nauki budowany jest na Marii Curie-Skłodowskiej.
+[3976.16 - 3978.56] SPEAKER_05: A nawet Marii Skłodowskiej-Curie.
+[3978.56 - 3988.96] SPEAKER_02: A nawet Marii Skłodowskiej-Curie. Wiedziałem, że mnie o to poprawisz i dobrze, że to zrobiłeś, ale chciałem powiedzieć, że jakbyśmy zapytali Polaka o współczesną polską naukowczynię,
+[3989.36 - 3993.52] SPEAKER_02: która robi wielkie rzeczy, to przecież nawet nie mają szansy się o tym nigdzie dowiedzieć.
+[3993.52 - 4003.08] SPEAKER_04: Tak, ale mówił Maciek o sukcesach np. Wojsk Obrony Cyberprzestrzeni, o kwantową dystrybucji klucza.
+[4003.08 - 4005.92] SPEAKER_03: Przepraszam, a dlaczego jest to sukces Wojska Obrony Cyberprzestrzeni?
+[4005.92 - 4012.84] SPEAKER_03: Bo tam nie ma realnych, bo pieniądze są w gąsienicy, w lufie, w amunicji, a nie w jakichś takich, nie wiadomo, czary maryjnych.
+[4012.84 - 4014.84] SPEAKER_04: I się nie przyjmują z tym, pozostawiają ich.
+[4014.84 - 4015.84] SPEAKER_03: Dokładnie tak.
+[4015.92 - 4017.92] SPEAKER_03: Karol Molenda ma święty spokój.
+[4017.92 - 4019.92] SPEAKER_01: Być może tak.
+[4019.92 - 4026.72] SPEAKER_01: Co się udało zrobić? Ile jest takich Karolów Molendów, który był dowódcą Wojsk Obrony Cyberprzestrzeni,
+[4026.72 - 4031.72] SPEAKER_01: gdy Błaszczak był ministrem obrony narodowej i jest dowódcą Wojsk Obrony Cyberprzestrzeni, gdy jest Kosiniak-Kamysz.
+[4031.72 - 4035.40] SPEAKER_01: Prawdopodobnie jest jedyny w Polsce, jest ciągłość zachowana instytucjonalna.
+[4035.40 - 4044.40] SPEAKER_05: Generał Karol Molenda, szef Wojsk Obrony Cyberprzestrzeni, są tutaj w tej sferze, my mamy enigma, mamy te swoje jakieś takie umiejętności.
+[4044.96 - 4046.96] SPEAKER_01: Tak, faszerowanie właśnie, enigmą.
+[4046.96 - 4048.96] SPEAKER_05: No tak, ale na przykład...
+[4048.96 - 4050.96] SPEAKER_01: To jest przygoda Brytyjczyków z XVI wieku.
+[4050.96 - 4058.96] SPEAKER_04: Nie, słuchajcie, ale ja chciałem powiedzieć o XIXI roku, nie o XVI wieku, a nie o enigmie, tylko o XIXI.
+[4058.96 - 4065.96] SPEAKER_04: Bo jednym z twórców kryptografii kwantowej, jednym z ojców, człowiekiem, który napisał protokół taki najbardziej...
+[4065.96 - 4066.96] SPEAKER_04: Eckert.
+[4066.96 - 4072.96] SPEAKER_04: Tak, jest Artur Eckert, który ok, zrobił to w Oksfordzie, zrobił to w Anglii, dzisiaj pracuje głównie w Singapurze i w Oksfordzie.
+[4073.52 - 4076.52] SPEAKER_03: Ale to jest Polak, takie rzeczy się dzieją.
+[4076.52 - 4080.52] SPEAKER_03: Przepraszam Patrecjuszu, bo my na tym etnosie.
+[4080.52 - 4095.52] SPEAKER_03: Chodzi o to, żeby stworzyć takie warunki ludziom, żeby chcieli tu żyć, budować łańcuchy wartości i własne firmy, które będą zatrudniały ludzi i będą produkowały rzeczy, które są potrzebne społeczeństwu do rozwoju.
+[4096.08 - 4099.08] SPEAKER_03: Chodzi o to, że jest to tak skonstruowane, że jest to niemożliwe w Polsce.
+[4099.08 - 4115.08] SPEAKER_03: W związku z tym naprawdę od około 450 lat co pokolenie maszynka, taki bęben wyrzucania, albo co zdolniejszych, albo co bardziej zrozpaczonych na zewnątrz, na lepsze rynki, na lepszą stopę zwrotu.
+[4115.08 - 4118.08] SPEAKER_05: Kto to zaprojektował? Kto ten bęben wytworzył?
+[4118.64 - 4131.64] SPEAKER_03: Najpierw świat, system kapitalistyczny, potem nasza klasa panująca szlachta nie umiała wyjść naprzeciw zmianom, potem zaborcy nie pomagali, potem druga Rzeczpospolita miała bardzo trudne i generalnie system światowy.
+[4131.64 - 4133.64] SPEAKER_05: A można to jakoś przełamać dzisiaj?
+[4133.64 - 4141.64] SPEAKER_03: Generalnie wojna, która teraz się rozpoczęła w 2018 roku jest o zmianę tego systemu i musimy się zastanowić, czy my jesteśmy rewizjonistą, czy obrońcą status quo.
+[4140.00 - 4150.00] SPEAKER_01: Muszę obronić ten status quo, bo to co się zaczęło w 2018 roku jest wielką wojną o zmianę dominacji Atlantyku nad właśnie, co jest centrum, co jest peryferium.
+[4150.00 - 4160.00] SPEAKER_02: Mamo tego najgorsze, co można teraz zrobić, to tych ludzi zatrzymywać w Polsce, dlatego, że jeżeli ich zatrzymasz w Polsce, to oni w poczuciu frustracji nie zrobią tego, co by zrobili wyjeżdżając za granicą.
+[4160.00 - 4162.00] SPEAKER_02: To przynajmniej mamy tam polskich ambasadorów.
+[4162.00 - 4174.00] SPEAKER_01: Mam pomysł na to, co można by zrobić i może wesprzyjcie to, bo macie ogromną wolność społeczną. Ja przecież tylko tą geopolityką się zajmuję, nikt tego poważnie w Polsce nie bierze, bo co Polska może zrobić.
+[4174.00 - 4190.00] SPEAKER_01: Ale generalnie pomyślmy o tym, a może byśmy powodowali, żeby politycy uchwalili ustawę, że budujemy miasto od początku, które podobnie jak kiedyś miasto na prawie magdeburskim jest na określonych prawach, gdzie nie ma tych starych metod, jest nowe.
+[4190.00 - 4192.00] SPEAKER_01: Taka idylla.
+[4192.00 - 4198.00] SPEAKER_01: Tak, zupełnie nowe. No skoro budujemy CPK i będzie miasto powstawać tam, to dlaczego nie zbudować tam smart city?
+[4198.00 - 4201.00] SPEAKER_01: A my z Jackiem będziemy burmistrzami tego miasta.
+[4201.00 - 4210.00] SPEAKER_03: Ja z kolei myślę, że może pogódźmy się z tym, bo wracając do tego dobra wspólnego.
+[4210.00 - 4215.00] SPEAKER_04: Jest to piękna, trochę to powiedziałeś, misja Polski. No rzeczywiście, zasilamy globalny rozwój technologii.
+[4215.00 - 4221.00] SPEAKER_04: Mamy ten odpływ, ale może to jest to, co my potrafimy zrobić. Ja też nie wierzę w tę historię, że to jest kwestia pieniędzy.
+[4221.00 - 4233.00] SPEAKER_04: Ludzie, którzy w San Francisco mogą chodzić i pływać, że tak powiem, w tej zupie debat o AGI, co wrócą tutaj i będą chodzić do ministerstwa na ulice królewską, opowiadać ministrowi coś.
+[4233.00 - 4240.00] SPEAKER_04: To w ogóle się nie skleja. Ja wiem, że to brzmi pesymistycznie i boję się, że głównie z powodów tych geopolitycznych.
+[4240.00 - 4245.00] SPEAKER_04: Zobaczymy sobie, na co możemy pozwolić. Jeśli to jest nasza jakaś tam karta przetargowa.
+[4245.00 - 4249.00] SPEAKER_04: Tylko jeszcze chciałem powiedzieć, bo nas zawsze zbija to bycie liderem.
+[4249.00 - 4254.00] SPEAKER_04: Wszystkie polskie dokumenty strategiczne, cyfrowe, gdzieś zawsze się zatrudnia konsulting.
+[4254.00 - 4263.00] SPEAKER_04: Na przykład w jednym z pierwszych dokumentów o policji AGI napisał, że będziemy challengerem AGI w trzy lata i to zostało zaktualizowane po trzech latach, ale cytat został, bo to dobrze wygląda.
+[4263.00 - 4275.00] SPEAKER_04: Tajwan, gdy weszli na trajektorię budowania TSMC, tam nikt nie mówił, że oni będą liderem, tylko po prostu wymyślili, że muszą się zmodernizować, że geopolitycznie to jest ważne i tak dalej.
+[4275.00 - 4281.00] SPEAKER_04: A my mam wrażenie, że zamiast właśnie realnie, może to jest po prostu bardzo trudne, lubimy zadać sobie pytanie jak być liderem.
+[4282.00 - 4284.00] SPEAKER_01: Jest coś kulturowego rzeczywiście w Polsce.
+[4284.00 - 4287.00] SPEAKER_01: Doszliśmy do tego momentu dyskusji.
+[4287.00 - 4293.00] SPEAKER_01: To nie umiem powiedzieć, bo to socjolog może, czy filozof. Jest coś kulturowego do naprawienia.
+[4293.00 - 4305.00] SPEAKER_05: Ale wydaje mi się, że jest też dobra sytuacja do zmiany i przykładem jest chyba dobra sytuacja z profesorem Sankowskim, bo nauka bardzo dużo znosiła i w kółko odbiór im funduszy.
+[4305.00 - 4313.00] SPEAKER_05: Doszliśmy do tego, że w tym roku w budżecie państwa na naukę jest przeznaczone raptem 1,07% PKB.
+[4313.00 - 4315.00] SPEAKER_05: To najniżej od lat dziewięćdziesiątych.
+[4315.00 - 4323.00] SPEAKER_05: Inne kraje podnoszą te nakłady, a my zmniejszamy, więc to nie jest dobra informacja.
+[4320.00 - 4330.60] SPEAKER_05: to nie jest dobra informacja, ale przy profesorze Sankowskim tak naprawdę po raz pierwszy świat nauki powiedział stop, czyli doszliśmy chyba do tej granicy,
+[4330.60 - 4341.60] SPEAKER_05: jak i też społeczeństwo powiedziało tak, chcemy mieć szansę i być z czegoś dumni i dzięki temu powstał już nowy IDS i profesor Sankowski ma miejsce,
+[4341.60 - 4345.60] SPEAKER_05: tylko, że na samym profesorze jednym i jego zespole nie zbudujemy.
+[4345.60 - 4356.60] SPEAKER_03: A właśnie to jest ciekawy wątek, czy my dojrzewamy do tego, może to się od nas zacznie, może ambicja was, nas wszystkich jest coraz większa.
+[4356.60 - 4362.60] SPEAKER_02: Tylko zryw społeczny Piotra nie rozwiązał problemu tego, w jakiej on dzisiaj jest sytuacji.
+[4362.60 - 4370.60] SPEAKER_02: Pytanie pytałeś o to Piotrka, w jakiej sytuacji jest dzisiaj NCB i IDS, bez zespołu, bez ekspertów, bez ludzi, bez możliwości komunikacji.
+[4370.60 - 4377.60] SPEAKER_03: Chciałem powiedzieć o czymś większym, przepraszam, ale to zabrzmi, o ambicjach Polaków.
+[4377.60 - 4386.60] SPEAKER_03: Mam takie wrażenie, że obserwuję, że my zaczynamy chcieć coraz więcej, zaczynamy rozumieć, że nas na coraz więcej stać.
+[4386.60 - 4394.60] SPEAKER_03: Zaczynamy widzieć, że mamy pracowitość, kreatywność, że mamy różne talenty i zaczynamy trochę oczekiwać coraz więcej.
+[4394.60 - 4404.60] SPEAKER_03: Czy jest jakiś rodzaj takiego oddolnego, było to widać przy CPK, kiedy pojawiły się bardzo istotne, dość masowe głosy, że dlaczego, nie przekreślajmy.
+[4404.60 - 4413.60] SPEAKER_03: Pojawiło się to właśnie przy profesorze Senkowskim, kiedy nawet ludzie nie rozumieli czego bronią, ale czuli, że ktoś chce im zabrać jakąś szansę rozwoju.
+[4413.60 - 4425.60] SPEAKER_01: I właśnie dlatego bronili. Jest coś takiego? Wy widzicie, że wśród nas, półtorej minuty mamy, jak to się stało, że my zaczynamy oczekiwać więcej, że jesteśmy głodni czegoś ważniejszego i większego?
+[4425.60 - 4434.60] SPEAKER_05: Wydaje mi się, że jest taka sytuacja i rzeczywiście wreszcie chcemy podnieść tą głowę i poczuć, że samostanowimy o sobie i mamy ambicje.
+[4434.60 - 4441.60] SPEAKER_05: I dobrym przykładem jest tutaj sytuacja Bielika, nie wiem czy na sali jest Sebastian Konradzki, bo był wcześniej ze mną na prelekcji.
+[4441.60 - 4454.60] SPEAKER_05: I on opowiadał taką historię, skąd się wziął Bielik. Był na spotkaniu wirtualnym tutaj, chyba na, nie pamiętam po prostu z kim on udzielał wywiadu na YouTubie.
+[4454.60 - 4464.60] SPEAKER_05: I tam padło pytanie do niego, pół żartem, pół serio, że dlaczego Polska nie ma dużego modelu językowego. I on mu to weszło tak na ambicje. No dobrze, to ja zrobię.
+[4465.60 - 4471.60] SPEAKER_05: Powiedziałem to publicznie, to zadziałam. No i potem zaczął chodzić i powiedział, że chce stworzyć model językowy.
+[4471.60 - 4477.60] SPEAKER_05: Minęły dwa lata, trzy tysiące uczestników, oddolnie stworzony model językowy, który jest bardzo dobrze oceniany teraz.
+[4477.60 - 4481.60] SPEAKER_04: I to jest najciekawsza historia w Bieliku, że jest on oddolny i to jest bardzo polskie.
+[4481.60 - 4483.60] SPEAKER_04: Bez żadnego modelu biznesowego.
+[4483.60 - 4490.60] SPEAKER_04: Bo poza tym, ja jestem wielkim fanem Bielika, ale umówmy się, prawie każdy kraj europejski ma dziś swojego Bielika i my uwielbiamy myśleć, że to jest kolejny raz.
+[4490.60 - 4494.60] SPEAKER_04: Tak, zrobiliśmy to, a potem się rozejrzymy, Szwedzi dwa lata wcześniej.
+[4494.60 - 4495.60] SPEAKER_04: Ale nasz jest lepszy?
+[4495.60 - 4500.60] SPEAKER_04: Ale oddolny coś? Nie, nie jest wcale lepszy. Jak wszystkie małe modele jest przeciętny, umówmy się.
+[4500.60 - 4502.60] SPEAKER_04: Ma być może fajne zastosowanie się administracyjne.
+[4500.00 - 4505.00] SPEAKER_04: Umówmy się, ma być może fajne zastosowanie się administracja publiczna, a w to wejdzie.
+[4505.00 - 4512.00] SPEAKER_04: Ta oddolność, to moim zdaniem jakby szukać tego klucza to jest to, tylko my nie umiemy budować oddolnych strategii, nie umiemy robić oddolne zrywy.
+[4512.00 - 4520.00] SPEAKER_05: Słuchajcie, jeden z zdecydowanie najfajniejszych paneli, w jakich ostatnio brałem udział, zawsze taki moment, kiedy jest ten nerw, prawda?
+[4520.00 - 4526.00] SPEAKER_05: Oni się pięknie potrafią różnić i w dodatku prowadzący jest na chwilę na bocznym torze, takie panele najbardziej lubię prowadzić.
+[4527.00 - 4534.00] SPEAKER_04: Joanna Szczegielniak, Maciej Kawecki, Alek Tarkowski, Jacek Bartosiak, zasłużyli na Państwa brawa. Bardzo dziękujemy.
+[4537.00 - 4540.00] SPEAKER_02: Niemniejsza brawa Patrycjusz Rzeszga, prowadzący.
+[4540.00 - 4557.00] UNKNOWN: Ja jeszcze jako zapasowy prowadzący pozwoliłbym sobie na taką zapasową puentę, bo moim zdaniem tu chodzi trochę o kompleksy.
+[4557.00 - 4564.00] SPEAKER_01: Zobaczcie, na początku zostało powiedziane o borówce, że eksportujemy tę borówkę za granicę, tylko jaka jest ta borówka?
+[4564.00 - 4569.00] SPEAKER_01: Amerykańska, powinna być borówka mazowiecka, żeby chociaż coś było po nas na tym świecie.
+[4570.00 - 4577.00] SPEAKER_03: Mieli Państwo 15 minut przerwy, tak zwane wietrzenie sali. Ostatni panel o 15.45 będzie dotyczył człowieka i dobrostanu,
+[4577.00 - 4585.00] SPEAKER_03: czyli tego o czym jeszcze na tej scenie przez dwa dni nie rozmawialiśmy, co myślę, że będzie fantastyczną klamrą dla całej sceny dyskusji.
+[4585.00 - 4587.00] SPEAKER_03: Wróćcie proszę niebawem.
+[4599.00 - 4602.00] UNKNOWN: Napisy stworzone przez społeczność Amara.org
