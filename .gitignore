@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Build/test
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.coverage
+*.log
+
+# Notebooks
+.ipynb_checkpoints/
+
+# App data
+data/
+chroma/
